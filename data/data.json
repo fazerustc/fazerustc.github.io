@@ -1,0 +1,32 @@
+[
+    {
+        "name": "pikachu",
+        "display": "Pikachu",
+        "type": "Pokémon",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
+    },
+    {
+        "name": "masterball",
+        "display": "Master Ball",
+        "type": "Item",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Master_Ball"
+    },
+    {
+        "name": "tackle",
+        "display": "Tackle",
+        "type": "Attack",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Tackle_(move)"
+    },
+    {
+        "name": "ashketchum",
+        "display": "Ash Ketchum",
+        "type": "Character",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Ash_Ketchum"
+    },
+    {
+        "name": "adaptability",
+        "display": "Adaptability",
+        "type": "Ability",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Adaptability_(Ability)https://bulbapedia.bulbagarden.net/wiki/Adaptability_(Ability)"
+    }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script src="js/main.js"></script>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="relative overflow-x-auto bg-neutral-primary-soft shadow-xs rounded-base border border-default">
+    <table class="w-full text-sm text-left rtl:text-right text-body" id="dataTable">
+        <thead class="text-sm text-body bg-neutral-secondary-soft border-b rounded-base border-default">
+            <tr>
+                <th scope="col" class="px-6 py-3 font-medium">
+                    <input type="text" id="searchInput" placeholder="Search by name  (regex)">
+                </th>
+                <th scope="col" class="px-6 py-3 font-medium">
+                    <select id="searchType">
+                        <option value="Any">Any</option>
+                        <option value="Ability">Ability</option>
+                        <option value="Attack">Attack</option>
+                        <option value="Character">Character</option>
+                        <option value="Item">Item</option>
+                        <option value="Pokémon">Pokémon</option>
+                    </select>
+                </th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+</body>
+</html>
