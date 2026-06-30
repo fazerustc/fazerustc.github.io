@@ -54,6 +54,7 @@ def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data
                 .replace("_", " ")
                 .replace("%C3%A9", "é")
                 .replace("%C3%89", "É")
+                .replace("\u00c9", "É")
                 .replace("%27", "'")
                 .replace("%26", "&")
                 .replace("%C5%AB", "ū")
@@ -68,6 +69,7 @@ def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data
             name = (
                 display.replace(" ", "")
                 .replace("é", "e")
+                .replace("É", "e")
                 .replace("-", "")
                 .replace(".", "")
                 .replace(",", "")

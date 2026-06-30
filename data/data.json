@@ -6792,6 +6792,12 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Eon_Ticket"
   },
   {
+    "display": "\u00c9pice Noire",
+    "kind": "Item",
+    "name": "epicenoire",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/%C3%89pice_Noire"
+  },
+  {
     "display": "Erbie",
     "kind": "Character",
     "name": "erbie",
@@ -27772,11 +27778,5 @@
     "kind": "Item",
     "name": "zygardite",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Zygardite"
-  },
-  {
-    "display": "\u00c9pice Noire",
-    "kind": "Item",
-    "name": "\u00e9picenoire",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/%C3%89pice_Noire"
   }
 ]
