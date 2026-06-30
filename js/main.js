@@ -69,15 +69,15 @@ function filterTable() {
         // Get all text content within the row cells
         const rowName = row.getAttribute("filter-name").toLowerCase();
         const rowKind = row.getAttribute("filter-kind").toLowerCase();
-        for (var j = 0; j < BGS.length; j++) {
-            row.classList.remove(BGS[j]);
-        }
-        row.classList.add(BGS[i % BGS.length]);
-        i += 1;
         
         // If the row contains the search term, display it; otherwise, hide it
         if ((!regex || regex.test(rowName)) && (kindValue == "any" || kindValue == rowKind)) {
             row.style.display = '';
+            for (var j = 0; j < BGS.length; j++) {
+                row.classList.remove(BGS[j]);
+            }
+            row.classList.add(BGS[i % BGS.length]);
+            i += 1;
         } else {
             row.style.display = 'none';
         }
