@@ -678,9 +678,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Apicot_Berry"
   },
   {
-    "display": "Apple (item)",
+    "display": "Apple",
     "kind": "Item",
-    "name": "apple(item)",
+    "name": "apple",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Apple_(item)"
   },
   {
@@ -702,9 +702,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Applin_(Pok%C3%A9mon)"
   },
   {
-    "display": "Apricorn (item)",
+    "display": "Apricorn",
     "kind": "Item",
-    "name": "apricorn(item)",
+    "name": "apricorn",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Apricorn_(item)"
   },
   {
@@ -1464,16 +1464,10 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Basculin_(Pok%C3%A9mon)"
   },
   {
-    "display": "Basement Key (Hoenn)",
+    "display": "Basement Key",
     "kind": "Item",
-    "name": "basementkey(hoenn)",
+    "name": "basementkey",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Basement_Key_(Hoenn)"
-  },
-  {
-    "display": "Basement Key (Johto)",
-    "kind": "Item",
-    "name": "basementkey(johto)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Basement_Key_(Johto)"
   },
   {
     "display": "Basil",
@@ -1740,9 +1734,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pok%C3%A9mon)"
   },
   {
-    "display": "Berry (item)",
+    "display": "Berry",
     "kind": "Item",
-    "name": "berry(item)",
+    "name": "berry",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Berry_(item)"
   },
   {
@@ -1998,9 +1992,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Black_Augurite"
   },
   {
-    "display": "Black Belt (item)",
+    "display": "Black Belt",
     "kind": "Item",
-    "name": "blackbelt(item)",
+    "name": "blackbelt",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Black_Belt_(item)"
   },
   {
@@ -3216,21 +3210,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Carbos"
   },
   {
-    "display": "Card Key (Johto)",
+    "display": "Card Key",
     "kind": "Item",
-    "name": "cardkey(johto)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Card_Key_(Johto)"
-  },
-  {
-    "display": "Card Key (Kanto)",
-    "kind": "Item",
-    "name": "cardkey(kanto)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Card_Key_(Kanto)"
-  },
-  {
-    "display": "Card Key (Orre)",
-    "kind": "Item",
-    "name": "cardkey(orre)",
+    "name": "cardkey",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Card_Key_(Orre)"
   },
   {
@@ -3700,12 +3682,6 @@
     "kind": "Item",
     "name": "chilanberry",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Chilan_Berry"
-  },
-  {
-    "display": "Chilan Berry (Generation III)",
-    "kind": "Item",
-    "name": "chilanberry(generationiii)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Chilan_Berry_(Generation_III)"
   },
   {
     "display": "Chili",
@@ -5445,12 +5421,6 @@
     "display": "Dire Hit",
     "kind": "Item",
     "name": "direhit",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Dire_Hit"
-  },
-  {
-    "display": "Dire Hit (Hisui)",
-    "kind": "Item",
-    "name": "direhit(hisui)",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Dire_Hit_(Hisui)"
   },
   {
@@ -5542,36 +5512,6 @@
     "kind": "Move",
     "name": "dizzypunch",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Dizzy_Punch_(move)"
-  },
-  {
-    "display": "DJ#Ben",
-    "kind": "Character",
-    "name": "dj#ben",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/DJ#Ben"
-  },
-  {
-    "display": "DJ#Fern",
-    "kind": "Character",
-    "name": "dj#fern",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/DJ#Fern"
-  },
-  {
-    "display": "DJ#Lily",
-    "kind": "Character",
-    "name": "dj#lily",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/DJ#Lily"
-  },
-  {
-    "display": "DJ#Reed",
-    "kind": "Character",
-    "name": "dj#reed",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/DJ#Reed"
-  },
-  {
-    "display": "DJ#Snap",
-    "kind": "Character",
-    "name": "dj#snap",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/DJ#Snap"
   },
   {
     "display": "DJ Mary",
@@ -6444,9 +6384,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Effect_Spore_(Ability)"
   },
   {
-    "display": "Egg (item)",
+    "display": "Egg",
     "kind": "Item",
-    "name": "egg(item)",
+    "name": "egg",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Egg_(item)"
   },
   {
@@ -6658,12 +6598,6 @@
     "kind": "Item",
     "name": "elevatorkey",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Elevator_Key"
-  },
-  {
-    "display": "Elevator Key (Orre)",
-    "kind": "Item",
-    "name": "elevatorkey(orre)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Elevator_Key_(Orre)"
   },
   {
     "display": "Elgyem",
@@ -8472,9 +8406,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/GB_Sounds"
   },
   {
-    "display": "Gear (item)",
+    "display": "Gear",
     "kind": "Item",
-    "name": "gear(item)",
+    "name": "gear",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Gear_(item)"
   },
   {
@@ -9507,12 +9441,6 @@
     "display": "Great Ball",
     "kind": "Item",
     "name": "greatball",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Great_Ball"
-  },
-  {
-    "display": "Great Ball (Hisui)",
-    "kind": "Item",
-    "name": "greatball(hisui)",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Great_Ball_(Hisui)"
   },
   {
@@ -10371,12 +10299,6 @@
     "display": "Heavy Ball",
     "kind": "Item",
     "name": "heavyball",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Heavy_Ball"
-  },
-  {
-    "display": "Heavy Ball (Hisui)",
-    "kind": "Item",
-    "name": "heavyball(hisui)",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Heavy_Ball_(Hisui)"
   },
   {
@@ -10750,24 +10672,6 @@
     "kind": "Ability",
     "name": "hospitality",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Hospitality_(Ability)"
-  },
-  {
-    "display": "Hotel Richissime#Lost and found",
-    "kind": "Character",
-    "name": "hotelrichissime#lostandfound",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Hotel_Richissime#Lost_and_found"
-  },
-  {
-    "display": "Hotel Richissime#Making Beds",
-    "kind": "Character",
-    "name": "hotelrichissime#makingbeds",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Hotel_Richissime#Making_Beds"
-  },
-  {
-    "display": "Hotel Richissime#Room service",
-    "kind": "Character",
-    "name": "hotelrichissime#roomservice",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Hotel_Richissime#Room_service"
   },
   {
     "display": "Houndoom",
@@ -12048,12 +11952,6 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Jubilife_Muffin"
   },
   {
-    "display": "Jubilife Village#Single Time Purchases",
-    "kind": "Item",
-    "name": "jubilifevillage#singletimepurchases",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Jubilife_Village#Single_Time_Purchases"
-  },
-  {
     "display": "Judgment",
     "kind": "Move",
     "name": "judgment",
@@ -13128,12 +13026,6 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Leafy_Tablecloth"
   },
   {
-    "display": "League Club Room#Support Board",
-    "kind": "Character",
-    "name": "leagueclubroom#supportboard",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/League_Club_Room#Support_Board"
-  },
-  {
     "display": "Leah",
     "kind": "Character",
     "name": "leah",
@@ -13422,6 +13314,12 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Lightning_Rod_(Ability)"
   },
   {
+    "display": "Lightningrod",
+    "kind": "Ability",
+    "name": "lightningrod",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Lightningrod_(Ability)"
+  },
+  {
     "display": "Light of Ruin",
     "kind": "Move",
     "name": "lightofruin",
@@ -13558,30 +13456,6 @@
     "kind": "Character",
     "name": "lisia",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Lisia"
-  },
-  {
-    "display": "List of Pok\u00e9mon Mystery Dungeon: Explorers of Time, Darkness, and Sky characters",
-    "kind": "Character",
-    "name": "listofpokemonmysterydungeon:explorersoftimedarknessandskycharacters",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time,_Darkness,_and_Sky_characters"
-  },
-  {
-    "display": "List of unobtainable items#Common Stone",
-    "kind": "Item",
-    "name": "listofunobtainableitems#commonstone",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_unobtainable_items#Common_Stone"
-  },
-  {
-    "display": "List of unobtainable items#God Stone",
-    "kind": "Item",
-    "name": "listofunobtainableitems#godstone",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_unobtainable_items#God_Stone"
-  },
-  {
-    "display": "List of unobtainable items#Travel Trunk",
-    "kind": "Item",
-    "name": "listofunobtainableitems#traveltrunk",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_unobtainable_items#Travel_Trunk"
   },
   {
     "display": "Litebluemail",
@@ -14103,12 +13977,6 @@
     "display": "Machine Part",
     "kind": "Item",
     "name": "machinepart",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Machine_Part"
-  },
-  {
-    "display": "Machine Part (Orre)",
-    "kind": "Item",
-    "name": "machinepart(orre)",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Machine_Part_(Orre)"
   },
   {
@@ -15331,15 +15199,15 @@
   },
   {
     "display": "Metronome",
+    "kind": "Item",
+    "name": "metronome",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Metronome_(item)"
+  },
+  {
+    "display": "Metronome",
     "kind": "Move",
     "name": "metronome",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Metronome_(move)"
-  },
-  {
-    "display": "Metronome (item)",
-    "kind": "Item",
-    "name": "metronome(item)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Metronome_(item)"
   },
   {
     "display": "Mew",
@@ -16356,9 +16224,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Mustard"
   },
   {
-    "display": "Mustard (item)",
+    "display": "Mustard",
     "kind": "Item",
-    "name": "mustard(item)",
+    "name": "mustard",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Mustard_(item)"
   },
   {
@@ -16696,6 +16564,12 @@
     "kind": "Pok\u00e9mon",
     "name": "nidoqueen",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pok%C3%A9mon)"
+  },
+  {
+    "display": "Nidoran\u2642",
+    "kind": "Pok\u00e9mon",
+    "name": "nidoran",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)"
   },
   {
     "display": "Nidoran\u2640",
@@ -17062,12 +16936,6 @@
     "kind": "Move",
     "name": "odorsleuth",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Odor_Sleuth_(move)"
-  },
-  {
-    "display": "Officer Jenny#In the games",
-    "kind": "Character",
-    "name": "officerjenny#inthegames",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Officer_Jenny#In_the_games"
   },
   {
     "display": "Officer Johnson",
@@ -17712,9 +17580,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Peanut_Butter"
   },
   {
-    "display": "Pearl (item)",
+    "display": "Pearl",
     "kind": "Item",
-    "name": "pearl(item)",
+    "name": "pearl",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Pearl_(item)"
   },
   {
@@ -17950,42 +17818,6 @@
     "kind": "Pok\u00e9mon",
     "name": "phione",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Phione_(Pok%C3%A9mon)"
-  },
-  {
-    "display": "Phobos Battalion#Aquarella",
-    "kind": "Character",
-    "name": "phobosbattalion#aquarella",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Phobos_Battalion#Aquarella"
-  },
-  {
-    "display": "Phobos Battalion#Avery",
-    "kind": "Character",
-    "name": "phobosbattalion#avery",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Phobos_Battalion#Avery"
-  },
-  {
-    "display": "Phobos Battalion#Baron Phobos",
-    "kind": "Character",
-    "name": "phobosbattalion#baronphobos",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Phobos_Battalion#Baron_Phobos"
-  },
-  {
-    "display": "Phobos Battalion#Boolum",
-    "kind": "Character",
-    "name": "phobosbattalion#boolum",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Phobos_Battalion#Boolum"
-  },
-  {
-    "display": "Phobos Battalion#Buzz",
-    "kind": "Character",
-    "name": "phobosbattalion#buzz",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Phobos_Battalion#Buzz"
-  },
-  {
-    "display": "Phobos Battalion#Grock",
-    "kind": "Character",
-    "name": "phobosbattalion#grock",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Phobos_Battalion#Grock"
   },
   {
     "display": "Phoebe",
@@ -18264,39 +18096,15 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Pixilate_(Ability)"
   },
   {
-    "display": "Plaid Chairs (B)",
+    "display": "Plaid Chairs",
     "kind": "Item",
-    "name": "plaidchairs(b)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Plaid_Chairs_(B)"
-  },
-  {
-    "display": "Plaid Chairs (R)",
-    "kind": "Item",
-    "name": "plaidchairs(r)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Plaid_Chairs_(R)"
-  },
-  {
-    "display": "Plaid Chairs (Y)",
-    "kind": "Item",
-    "name": "plaidchairs(y)",
+    "name": "plaidchairs",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Plaid_Chairs_(Y)"
   },
   {
-    "display": "Plaid Tablecloth (B)",
+    "display": "Plaid Tablecloth",
     "kind": "Item",
-    "name": "plaidtablecloth(b)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Plaid_Tablecloth_(B)"
-  },
-  {
-    "display": "Plaid Tablecloth (R)",
-    "kind": "Item",
-    "name": "plaidtablecloth(r)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Plaid_Tablecloth_(R)"
-  },
-  {
-    "display": "Plaid Tablecloth (Y)",
-    "kind": "Item",
-    "name": "plaidtablecloth(y)",
+    "name": "plaidtablecloth",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Plaid_Tablecloth_(Y)"
   },
   {
@@ -18480,16 +18288,10 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Poison_Touch_(Ability)"
   },
   {
-    "display": "Pok\u00e9 Ball (Hisui)",
+    "display": "Pok\u00e9 Ball",
     "kind": "Item",
-    "name": "pokeball(hisui)",
+    "name": "pokeball",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ball_(Hisui)"
-  },
-  {
-    "display": "Pok\u00e9 Ball (item)",
-    "kind": "Item",
-    "name": "pokeball(item)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ball_(item)"
   },
   {
     "display": "Pok\u00e9block Case",
@@ -18514,12 +18316,6 @@
     "kind": "Item",
     "name": "pokedex",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9dex"
-  },
-  {
-    "display": "Pok\u00e9dex#Generation VIII",
-    "kind": "Item",
-    "name": "pokedex#generationviii",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9dex#Generation_VIII"
   },
   {
     "display": "Pok\u00e9 Doll",
@@ -18564,22 +18360,10 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_League_representative"
   },
   {
-    "display": "Pok\u00e9mon Red and Green beta#Surfboard",
-    "kind": "Item",
-    "name": "pokemonredandgreenbeta#surfboard",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Red_and_Green_beta#Surfboard"
-  },
-  {
     "display": "Pok\u00e9 Radar",
     "kind": "Item",
     "name": "pokeradar",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Radar"
-  },
-  {
-    "display": "Pok\u00e9 Ride#Ride Pager",
-    "kind": "Item",
-    "name": "pokeride#ridepager",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ride#Ride_Pager"
   },
   {
     "display": "Pok\u00e9shi Doll",
@@ -20940,12 +20724,6 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Rotom_Pok%C3%A9dex"
   },
   {
-    "display": "Rotom Pok\u00e9dex#Roto Loto",
-    "kind": "Item",
-    "name": "rotompokedex#rotoloto",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Rotom_Pok%C3%A9dex#Roto_Loto"
-  },
-  {
     "display": "Roto-Stick",
     "kind": "Item",
     "name": "rotostick",
@@ -21000,9 +20778,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/RSVP_Mail"
   },
   {
-    "display": "Ruby (item)",
+    "display": "Ruby",
     "kind": "Item",
-    "name": "ruby(item)",
+    "name": "ruby",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Ruby_(item)"
   },
   {
@@ -21348,9 +21126,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Sand_Veil_(Ability)"
   },
   {
-    "display": "Sandwich (item)",
+    "display": "Sandwich",
     "kind": "Item",
-    "name": "sandwich(item)",
+    "name": "sandwich",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Sandwich_(item)"
   },
   {
@@ -21378,9 +21156,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Sanqua"
   },
   {
-    "display": "Sapphire (item)",
+    "display": "Sapphire",
     "kind": "Item",
-    "name": "sapphire(item)",
+    "name": "sapphire",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Sapphire_(item)"
   },
   {
@@ -21684,27 +21462,15 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Secc"
   },
   {
-    "display": "Secret Key (Kanto)",
+    "display": "Secret Key",
     "kind": "Item",
-    "name": "secretkey(kanto)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Secret_Key_(Kanto)"
-  },
-  {
-    "display": "Secret Key (Sinnoh)",
-    "kind": "Item",
-    "name": "secretkey(sinnoh)",
+    "name": "secretkey",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Secret_Key_(Sinnoh)"
   },
   {
     "display": "Secret Medicine",
     "kind": "Item",
     "name": "secretmedicine",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Secret_Medicine"
-  },
-  {
-    "display": "Secret Medicine (Hisui)",
-    "kind": "Item",
-    "name": "secretmedicine(hisui)",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Secret_Medicine_(Hisui)"
   },
   {
@@ -23061,12 +22827,6 @@
     "display": "Snowball",
     "kind": "Item",
     "name": "snowball",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Snowball"
-  },
-  {
-    "display": "Snowball (Hisui)",
-    "kind": "Item",
-    "name": "snowball(hisui)",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Snowball_(Hisui)"
   },
   {
@@ -23826,21 +23586,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Steel_Beam_(move)"
   },
   {
-    "display": "Steel Bottle (B)",
+    "display": "Steel Bottle",
     "kind": "Item",
-    "name": "steelbottle(b)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Steel_Bottle_(B)"
-  },
-  {
-    "display": "Steel Bottle (R)",
-    "kind": "Item",
-    "name": "steelbottle(r)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Steel_Bottle_(R)"
-  },
-  {
-    "display": "Steel Bottle (Y)",
-    "kind": "Item",
-    "name": "steelbottle(y)",
+    "name": "steelbottle",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Steel_Bottle_(Y)"
   },
   {
@@ -24036,15 +23784,9 @@
     "url": "https://bulbapedia.bulbagarden.net/wiki/Stonjourner_(Pok%C3%A9mon)"
   },
   {
-    "display": "Storage Key (Hoenn)",
+    "display": "Storage Key",
     "kind": "Item",
-    "name": "storagekey(hoenn)",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Storage_Key_(Hoenn)"
-  },
-  {
-    "display": "Storage Key (Sinnoh)",
-    "kind": "Item",
-    "name": "storagekey(sinnoh)",
+    "name": "storagekey",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Storage_Key_(Sinnoh)"
   },
   {
@@ -26114,7 +25856,7 @@
   {
     "display": "Type: Null",
     "kind": "Pok\u00e9mon",
-    "name": "type:null",
+    "name": "typenull",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Type:_Null_(Pok%C3%A9mon)"
   },
   {
@@ -26175,12 +25917,6 @@
     "display": "Ultra Ball",
     "kind": "Item",
     "name": "ultraball",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Ultra_Ball"
-  },
-  {
-    "display": "Ultra Ball (Hisui)",
-    "kind": "Item",
-    "name": "ultraball(hisui)",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Ultra_Ball_(Hisui)"
   },
   {
@@ -27388,150 +27124,6 @@
     "kind": "Ability",
     "name": "wonderguard",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Guard_(Ability)"
-  },
-  {
-    "display": "Wonder Launcher#Ability Urge",
-    "kind": "Item",
-    "name": "wonderlauncher#abilityurge",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#Ability_Urge"
-  },
-  {
-    "display": "Wonder Launcher#Dire Hit 2",
-    "kind": "Item",
-    "name": "wonderlauncher#direhit2",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#Dire_Hit_2"
-  },
-  {
-    "display": "Wonder Launcher#Dire Hit 3",
-    "kind": "Item",
-    "name": "wonderlauncher#direhit3",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#Dire_Hit_3"
-  },
-  {
-    "display": "Wonder Launcher#Item Drop",
-    "kind": "Item",
-    "name": "wonderlauncher#itemdrop",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#Item_Drop"
-  },
-  {
-    "display": "Wonder Launcher#Item Urge",
-    "kind": "Item",
-    "name": "wonderlauncher#itemurge",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#Item_Urge"
-  },
-  {
-    "display": "Wonder Launcher#Reset Urge",
-    "kind": "Item",
-    "name": "wonderlauncher#reseturge",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#Reset_Urge"
-  },
-  {
-    "display": "Wonder Launcher#X Accuracy 2",
-    "kind": "Item",
-    "name": "wonderlauncher#xaccuracy2",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Accuracy_2"
-  },
-  {
-    "display": "Wonder Launcher#X Accuracy 3",
-    "kind": "Item",
-    "name": "wonderlauncher#xaccuracy3",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Accuracy_3"
-  },
-  {
-    "display": "Wonder Launcher#X Accuracy 6",
-    "kind": "Item",
-    "name": "wonderlauncher#xaccuracy6",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Accuracy_6"
-  },
-  {
-    "display": "Wonder Launcher#X Attack 2",
-    "kind": "Item",
-    "name": "wonderlauncher#xattack2",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Attack_2"
-  },
-  {
-    "display": "Wonder Launcher#X Attack 3",
-    "kind": "Item",
-    "name": "wonderlauncher#xattack3",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Attack_3"
-  },
-  {
-    "display": "Wonder Launcher#X Attack 6",
-    "kind": "Item",
-    "name": "wonderlauncher#xattack6",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Attack_6"
-  },
-  {
-    "display": "Wonder Launcher#X Defense 2",
-    "kind": "Item",
-    "name": "wonderlauncher#xdefense2",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Defense_2"
-  },
-  {
-    "display": "Wonder Launcher#X Defense 3",
-    "kind": "Item",
-    "name": "wonderlauncher#xdefense3",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Defense_3"
-  },
-  {
-    "display": "Wonder Launcher#X Defense 6",
-    "kind": "Item",
-    "name": "wonderlauncher#xdefense6",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Defense_6"
-  },
-  {
-    "display": "Wonder Launcher#X Sp. Atk 2",
-    "kind": "Item",
-    "name": "wonderlauncher#xspatk2",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Sp._Atk_2"
-  },
-  {
-    "display": "Wonder Launcher#X Sp. Atk 3",
-    "kind": "Item",
-    "name": "wonderlauncher#xspatk3",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Sp._Atk_3"
-  },
-  {
-    "display": "Wonder Launcher#X Sp. Atk 6",
-    "kind": "Item",
-    "name": "wonderlauncher#xspatk6",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Sp._Atk_6"
-  },
-  {
-    "display": "Wonder Launcher#X Sp. Def 2",
-    "kind": "Item",
-    "name": "wonderlauncher#xspdef2",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Sp._Def_2"
-  },
-  {
-    "display": "Wonder Launcher#X Sp. Def 3",
-    "kind": "Item",
-    "name": "wonderlauncher#xspdef3",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Sp._Def_3"
-  },
-  {
-    "display": "Wonder Launcher#X Sp. Def 6",
-    "kind": "Item",
-    "name": "wonderlauncher#xspdef6",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Sp._Def_6"
-  },
-  {
-    "display": "Wonder Launcher#X Speed 2",
-    "kind": "Item",
-    "name": "wonderlauncher#xspeed2",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Speed_2"
-  },
-  {
-    "display": "Wonder Launcher#X Speed 3",
-    "kind": "Item",
-    "name": "wonderlauncher#xspeed3",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Speed_3"
-  },
-  {
-    "display": "Wonder Launcher#X Speed 6",
-    "kind": "Item",
-    "name": "wonderlauncher#xspeed6",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Launcher#X_Speed_6"
   },
   {
     "display": "Wonder Room",

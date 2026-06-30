@@ -38,14 +38,19 @@ def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data
     soup = BS(response.text, "html.parser")
     tags = (selector)(soup)
     result = {}
+    parens = re.compile("\(.*\)")
     for tag in tags:
         href = tag.get("href")
         if not href:
             continue
         matches = re.match(needle, href)
         if matches:
+            display = matches.group(1)
+            if "#" in display:
+                continue
+            display = re.sub(parens, "", display)
             display = (
-                matches.group(1)
+                display
                 .replace("_", " ")
                 .replace("%C3%A9", "é")
                 .replace("%C3%89", "É")
@@ -57,6 +62,7 @@ def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data
                 .replace("%3F", "?")
                 .replace("%E2%99%80", "♂")
                 .replace("%E2%99%82", "♀")
+                .replace("List of unobtainable items#", "")
                 .strip()
             )
             name = (
@@ -75,13 +81,16 @@ def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data
                 .replace("♀", "")
                 .lower()
             )
-            if name in ignore:
-                continue
             if name.startswith("file:"):
+                continue
+            name = name.replace(":", "")
+            if name in ignore:
                 continue
             if name.startswith("candy#"):
                 continue
-            result[name] = Data(
+            if name.startswith("wonderlauncher#"):
+                continue
+            result[display] = Data(
                 name=name, url=f"{ROOT}{href}", kind=kind, display=display
             )
     return list(result.values())
@@ -102,18 +111,17 @@ def main(outfile: str):
         "Character",
         re.compile("^/wiki/([^(]*)"),
         {
-            "bulbapedia:projectcharacterdex",
-            "bulbapedia:projects",
-            "category:characters",
-            "file:projectcharacterdexlogo.png",
+            "bulbapediaprojectcharacterdex",
+            "bulbapediaprojects",
+            "categorycharacters",
             "listofanimatedseriescharacters",
             "listofpokemonadventurescharacters",
             "listofpokemonconquestcharacters",
             "listofpokemonconquestcharacters",
             "listofpokemonmysterydungeon",
-            "listofpokemonmysterydungeon:explorersoftime,darkness,andskycharacters",
-            "listofpokemonmysterydungeon:gatestoinfinitycharacters",
-            "listofpokemonmysterydungeon:redrescueteamandbluerescueteamcharacters",
+            "listofpokemonmysterydungeonexplorersoftimedarknessandskycharacters",
+            "listofpokemonmysterydungeongatestoinfinitycharacters",
+            "listofpokemonmysterydungeonredrescueteamandbluerescueteamcharacters",
             "listofpokemonsupermysterydungeoncharacters",
             "pokemongames",
             "pokemonmysterydungeonseries",
@@ -128,7 +136,7 @@ def main(outfile: str):
         ],
         "Item",
         re.compile("^/wiki/(.*)$"),
-        {"bulbapedia:projectitemdex"},
+        {"bulbapediaprojectitemdex"},
     )
     data += scrape(
         MOVES,
