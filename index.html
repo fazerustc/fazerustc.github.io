@@ -5,27 +5,29 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<div class="relative overflow-x-auto bg-neutral-primary-soft shadow-xs rounded-base border border-default">
-    <table class="w-full text-sm text-left rtl:text-right text-body" id="dataTable">
-        <thead class="text-sm text-body bg-neutral-secondary-soft border-b rounded-base border-default">
-            <tr>
-                <th scope="col" class="px-6 py-3 font-medium">
-                    <input type="text" id="searchInput" placeholder="Search by name  (regex)">
-                </th>
-                <th scope="col" class="px-6 py-3 font-medium">
-                    <select id="searchType">
-                        <option value="Any">Any</option>
-                        <option value="Ability">Ability</option>
-                        <option value="Attack">Attack</option>
-                        <option value="Character">Character</option>
-                        <option value="Item">Item</option>
-                        <option value="Pokémon">Pokémon</option>
-                    </select>
-                </th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
+<div class="flex flex-col h-screen">
+    <div class="flex-grow overflow-auto">
+        <table class="relative w-full text-left" id="dataTable">
+            <thead class="text-sm text-body bg-neutral-secondary-soft rounded-base">
+                <tr>
+                    <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300">
+                        <input type="text" id="searchInput" placeholder="Search by name  (regex)">
+                    </th>
+                    <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300">
+                        <select id="searchKind">
+                            <option value="Any">Any</option>
+                            <option value="Ability">Ability</option>
+                            <option value="Attack">Attack</option>
+                            <option value="Character">Character</option>
+                            <option value="Item">Item</option>
+                            <option value="Pokémon">Pokémon</option>
+                        </select>
+                    </th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
 </div>
 </body>
 </html>
