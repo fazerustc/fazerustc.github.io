@@ -10,15 +10,16 @@
         <table class="table-fixed relative w-full text-left" id="dataTable">
             <thead class="text-sm text-body bg-neutral-secondary-soft rounded-base">
                 <tr>
-                    <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300">
+                    <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 has-[img:focus]:z-30">
                         <div class="flex self-start">
                             <div class="relative z-10 group">
-                                <img src="assets/info.png" class="w-[1em] h-[1em] mr-[0.5em] hover:bg-brand-strong focus:ring-4 focus:ring-brand-medium" data-tooltip-target="tooltip-light"/>
-                                <div id="tooltip-light" role="tooltip" class="absolute invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-opacity bg-black text-white text-xs rounded py-1 px-2 top-full left-0 mb-2 whitespace-nowrap z-50">
+                                <img id="info" tabindex="0" src="assets/info.png" class="w-[1em] h-[1em] mr-[0.5em] hover:bg-brand-strong focus:ring-4 focus:ring-brand-medium focus-within:z-50" data-tooltip-target="tooltip-light"/>
+                                <div id="tooltip-light" role="tooltip" class="absolute invisible [#info:focus~&]:visible opacity-0 [#info:focus~&]:opacity-100 transition-opacity bg-black text-white text-xs rounded py-1 px-2 top-full left-0 mb-2 whitespace-nowrap z-50 focus-within:block peer-focus:block [#info:focus~&]:block">
                                     <p>
                                     Filter name by regex. Case-insensitve and special characters like " " and "-" have been removed from the name.<br>
                                     Accented characters like "é" are replaced with their unaccented counterparts like "e".<br>
                                     "." = any character, "*" = repeat 0 or more, "+" = repeat 1 or more, "?" = 0 or 1.<br>
+                                    "^" = beginning of name, "$" = end of name.<br>
                                     See <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions"><u>the docs</u></a> for more information
                                     </p>
                                     <div class="tooltip-arrow" data-popper-arrow></div>
@@ -27,11 +28,11 @@
                             <input type="text" id="searchInput" placeholder="Search by name (regex)">
                         </div>
                     </th>
-                    <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">
+                    <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
                         <select id="searchKind">
                             <option value="Any">Any</option>
                             <option value="Ability">Ability</option>
-                            <option value="Attack">Attack</option>
+                            <option value="Move">Move</option>
                             <option value="Character">Character</option>
                             <option value="Item">Item</option>
                             <option value="Pokémon">Pokémon</option>

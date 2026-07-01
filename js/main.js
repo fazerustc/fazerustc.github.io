@@ -7,11 +7,11 @@ const BGS = ["bg-slate-100", "bg-gray-200"];
 function init() {
     getJsonData();
 
-    searchInput = document.getElementById('searchInput');
+    searchInput = document.getElementById("searchInput");
     searchKind = document.getElementById("searchKind");
 
-    searchInput.addEventListener('input', filterTable);
-    searchKind.addEventListener('change', (event) => { filterTable() });
+    searchInput.addEventListener("input", filterTable);
+    searchKind.addEventListener("change", (event) => { filterTable() });
 }
 
 //this function is in the event listener and will execute on page load
