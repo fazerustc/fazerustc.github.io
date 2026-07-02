@@ -34,7 +34,6 @@ function anagram() {
     }
     const kind = document.getElementById("kind");
     const kindValue = kind.value.toLowerCase();
-    console.log(kindValue);
 
     const letters = input.value.toLowerCase().split("").sort().join("");
 
