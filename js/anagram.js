@@ -58,13 +58,11 @@ function anagram() {
             remainder += key.substring(k, key.length);
             for (var i = 0; i < values.length; i++) {
                 const value = values[i];
-                if (kindValue == "any" || kindValue == value.kind) {
-                    rows.push({
-                        display: value.display,
-                        remainder: remainder,
-                        kind: value.kind,
-                    });
-                }
+                rows.push({
+                    display: value.display,
+                    remainder: remainder,
+                    kind: value.kind,
+                });
             }
         }
     });
@@ -86,6 +84,7 @@ function anagram() {
         '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.kind+ '</td>';
         table.tBodies[0].appendChild(tr);
     }
+    updateKind();
 }
 
 //this function is in the event listener and will execute on page load
