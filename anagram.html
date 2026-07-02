@@ -6,13 +6,36 @@
 </head>
 <body>
 <div class="flex">
-    <input type="text" id="anagramText" placeholder="Letters" class="w-3/4 relative flex items-center p-1 bg-white border border-gray-200 rounded-xl shadow-sm focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-100 transition-all duration-200 mr-1">
-    <button id="submit" type="button" class="w-1/8 px-4 py-2 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 active:bg-blue-800 rounded-lg shadow-sm transition-colors duration-200 whitespace-nowrap">Anagram!</button>
+    <input
+        type="text"
+        id="anagramText"
+        placeholder="Letters"
+        class="w-1/2 relative flex items-center p-1 bg-white border border-gray-200 rounded-xl shadow-sm focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-100 transition-all duration-200 mr-1"
+    >
+    <button
+        id="submit"
+        type="button"
+        class="px-4 py-2 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 active:bg-blue-800 rounded-lg shadow-sm transition-colors duration-200 whitespace-nowrap mr-1"
+    >
+        Anagram!
+    </button>
+    <select
+        id="kind"
+        class="px-4 py-2 text-sm font-medium border-gray-200 rounded-lg shadow-sm transition-colors duration-200 whitespace-nowrap"
+    >
+        <option value="Any">Any</option>
+        <option value="Ability">Ability</option>
+        <option value="Move">Move</option>
+        <option value="Character">Character</option>
+        <option value="Item">Item</option>
+        <option value="Pokémon">Pokémon</option>
+    </select>
 </div>
 <table class="table-fixed relative w-full text-left" id="table">
     <thead class="text-sm text-body bg-neutral-secondary-soft rounded-base">
         <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">Word</th>
         <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">Remainder</th>
+        <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">Kind</th>
     </thead>
     <tbody></tbody>
 </table>

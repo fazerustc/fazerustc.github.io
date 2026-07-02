@@ -4,15 +4,41 @@ document.addEventListener("DOMContentLoaded", init, false); // init once loaded
 
 var data = new Map(); // Sorted letters -> words
 
+function updateKind() {
+    const tableRows = document.querySelectorAll('#table tbody tr');
+    var kind = document.getElementById("kind");
+    const kindValue = kind.value.toLowerCase();
+
+    var i = 0;
+    tableRows.forEach(row => {
+        // Get all text content within the row cells
+        const rowKind = row.getAttribute("filter-kind").toLowerCase();
+        
+        // If the row contains the search term, display it; otherwise, hide it
+        if ((kindValue == "any" || kindValue == rowKind)) {
+            row.style.display = '';
+            setBg(row, i);
+            i += 1;
+        } else {
+            row.style.display = 'none';
+        }
+    });
+}
+
 //this function appends the json data to the table 'dataTable'
 function anagram() {
     var table = document.getElementById("table");
     var input = document.getElementById("anagramText");
+    if (!input.value) {
+        return;
+    }
+    const kind = document.getElementById("kind");
+    const kindValue = kind.value.toLowerCase();
+    console.log(kindValue);
 
     const letters = input.value.toLowerCase().split("").sort().join("");
 
     var rows = [];
-    var logged = false;
     data.forEach((values, key) => {
         var l = 0;
         var k = 0;
@@ -31,18 +57,18 @@ function anagram() {
         }
         if (l == letters.length) {
             remainder += key.substring(k, key.length);
-            console.log(letters, key);
-            console.log(values);
             for (var i = 0; i < values.length; i++) {
                 const value = values[i];
-                rows.push({
-                    display: value.display,
-                    remainder: remainder,
-                })
+                if (kindValue == "any" || kindValue == value.kind) {
+                    rows.push({
+                        display: value.display,
+                        remainder: remainder,
+                        kind: value.kind,
+                    });
+                }
             }
         }
     });
-    console.log(rows);
     rows.sort((a, b) => {
         if (a.remainder.length == b.remainder.length) {
             return a.display.localeCompare(b.display);
@@ -53,11 +79,12 @@ function anagram() {
     table.tBodies[0].innerHTML = "";
     for (var i = 0; i < rows.length; i++) {
         const object = rows[i];
-        console.log(object);
         var tr = document.createElement('tr');
+        tr.setAttribute("filter-kind", object.kind.toLowerCase());
         setBg(tr, i);
         tr.innerHTML = '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.display + '</td>' +
-        '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.remainder + '</td>';
+        '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.remainder + '</td>' +
+        '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.kind+ '</td>';
         table.tBodies[0].appendChild(tr);
     }
 }
@@ -73,16 +100,11 @@ function getJsonData(){
         if (this.readyState == 4 && this.status == 200) {//when a good response is given do this
 
             var rawData = JSON.parse(this.responseText); // convert the response to a json object
-            var seen = new Set();
             for (var i = 0; i < rawData.length; i++) {
                 const entry = rawData[i];
-                if (seen.has(entry.display)) {
-                    continue;
-                }
-                seen.add(entry.display);
                 const key = entry.name.split("").sort().join("");
                 var entries = data.get(key) || [];
-                entries.push({ name: entry.name, display: entry.display });
+                entries.push({ name: entry.name, display: entry.display, kind: entry.kind });
                 data.set(key, entries);
             }
         }
@@ -97,4 +119,7 @@ function init() {
     
     const button = document.getElementById("submit");
     button.addEventListener("click", anagram);
+
+    const kind = document.getElementById("kind");
+    kind.addEventListener("change", (event) => { updateKind() });
 }
