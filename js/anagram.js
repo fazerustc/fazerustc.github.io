@@ -1,8 +1,10 @@
 import { setBg } from "./format.js";
+import { getJsonData, getPokecryptic } from "./data.js"
 
 document.addEventListener("DOMContentLoaded", init, false); // init once loaded
 
 var data = new Map(); // Sorted letters -> words
+var pokecryptic = new Set();
 
 function updateKind() {
     const tableRows = document.querySelectorAll('#table tbody tr');
@@ -59,6 +61,7 @@ function anagram() {
             for (var i = 0; i < values.length; i++) {
                 const value = values[i];
                 rows.push({
+                    name: value.name,
                     display: value.display,
                     remainder: remainder,
                     kind: value.kind,
@@ -79,41 +82,44 @@ function anagram() {
         var tr = document.createElement('tr');
         tr.setAttribute("filter-kind", object.kind.toLowerCase());
         setBg(tr, i);
+        const used = pokecryptic.has(object.name) ? "Used" : "";
         tr.innerHTML = '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.display + '</td>' +
         '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.remainder + '</td>' +
-        '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.kind+ '</td>';
+        '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + object.kind+ '</td>' +
+        '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + used + '</td>';
         table.tBodies[0].appendChild(tr);
     }
     updateKind();
 }
 
 //this function is in the event listener and will execute on page load
-function getJsonData(){
-    // Relative URL of external json file
-    var jsonUrl = "data/data.json";
-
-    //Build the XMLHttpRequest (aka AJAX Request)
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() { 
-        if (this.readyState == 4 && this.status == 200) {//when a good response is given do this
-
-            var rawData = JSON.parse(this.responseText); // convert the response to a json object
-            for (var i = 0; i < rawData.length; i++) {
-                const entry = rawData[i];
-                const key = entry.name.split("").sort().join("");
-                var entries = data.get(key) || [];
-                entries.push({ name: entry.name, display: entry.display, kind: entry.kind });
-                data.set(key, entries);
-            }
-        }
+function populateData(rawData){
+    for (var i = 0; i < rawData.length; i++) {
+        const entry = rawData[i];
+        const key = entry.name.split("").sort().join("");
+        var entries = data.get(key) || [];
+        entries.push({ name: entry.name, display: entry.display, kind: entry.kind });
+        data.set(key, entries);
     }
-    xmlhttp.open("GET", jsonUrl, true);
-    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-    xmlhttp.send(); // when the request completes it will execute the code in onreadystatechange section
 }
 
-function init() {
-    getJsonData();
+function populatePokecryptic(answers) {
+    for (var i = 0; i < answers.length; i++) {
+        pokecryptic.add(answers[i]);
+    }
+}
+
+async function init() {
+    await getPokecryptic(populatePokecryptic);
+    getJsonData(populateData);
+
+    const textBox = document.getElementById("anagramText");
+    textBox.addEventListener("keyup", function(event) {
+        event.preventDefault();
+        if (event.keyCode === 13) { // Enter
+            anagram();
+        }
+    });
     
     const button = document.getElementById("submit");
     button.addEventListener("click", anagram);

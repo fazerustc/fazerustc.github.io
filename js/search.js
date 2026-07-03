@@ -1,12 +1,14 @@
 import { setBg } from "./format.js";
+import { getJsonData, getPokecryptic } from "./data.js"
 
 document.addEventListener("DOMContentLoaded", init, false); // init once loaded
 
 var searchInput = undefined;
 var searchKind = undefined;
+var pokecryptic = new Set();
 
 //this function appends the json data to the table 'dataTable'
-function appendJson(data){
+function appendJson(data) {
     var table = document.getElementById('dataTable');
     var i = 0;
     data.forEach(function(object) {
@@ -15,29 +17,12 @@ function appendJson(data){
         i += 1;
         tr.setAttribute("filter-name", object.name);
         tr.setAttribute("filter-kind", object.kind);
+        const used = pokecryptic.has(object.name) ? "Used" : "";
         tr.innerHTML = '<th scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap><a href="' + object.url + '">' + object.display + '</a></th>' +
-        '<td scope="row" class="px-6 py-4">' + object.kind+ '</td>';
+        '<td scope="row" class="px-6 py-4">' + object.kind+ '</td>' +
+        '<td class="px-6 py-4">' + used + '</td>';
         table.tBodies[0].appendChild(tr);
     });
-}
-
-//this function is in the event listener and will execute on page load
-function getJsonData(){
-    // Relative URL of external json file
-    var jsonUrl = "data/data.json";
-
-    //Build the XMLHttpRequest (aka AJAX Request)
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() { 
-        if (this.readyState == 4 && this.status == 200) {//when a good response is given do this
-
-            var data = JSON.parse(this.responseText); // convert the response to a json object
-            appendJson(data);// pass the json object to the appendJson function
-        }
-    }
-    xmlhttp.open("GET", jsonUrl, true);
-    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-    xmlhttp.send(); // when the request completes it will execute the code in onreadystatechange section
 }
 
 function filterTable() {
@@ -70,8 +55,15 @@ function filterTable() {
     });
 }
 
-function init() {
-    getJsonData();
+function populatePokecryptic(answers) {
+    for (var i = 0; i < answers.length; i++) {
+        pokecryptic.add(answers[i]);
+    }
+}
+
+async function init() {
+    await getPokecryptic(populatePokecryptic);
+    getJsonData(appendJson);
 
     searchInput = document.getElementById("searchInput");
     searchKind = document.getElementById("searchKind");
