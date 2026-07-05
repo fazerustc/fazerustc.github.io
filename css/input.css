@@ -1,1 +1,22 @@
 @import "tailwindcss";
+
+.bg-pokeball {
+    background-image: url("/assets/pokeball.png");
+    background-position: center;
+}
+
+.bg-greatball {
+    background-image: url("/assets/greatball.png");
+    background-position: center;
+}
+
+.outlined-text {
+    color: black;
+    text-shadow: 
+        -1px -1px 0 #FFFFFF,  
+        1px -1px 0 #FFFFFF,
+        -1px 1px 0 #FFFFFF,
+        1px 1px 0 #FFFFFF;
+}
+
+.page-body {}
