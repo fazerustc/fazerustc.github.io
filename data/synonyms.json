@@ -1,0 +1,242 @@
+[
+  {
+    "key": "acidarmorbarrier",
+    "left": "Acid Armor",
+    "notes": "",
+    "right": "Barrier"
+  },
+  {
+    "key": "acidarmorirondefense",
+    "left": "Acid Armor",
+    "notes": "",
+    "right": "Iron Defense"
+  },
+  {
+    "key": "acidarmorshelter",
+    "left": "Acid Armor",
+    "notes": "",
+    "right": "Shelter"
+  },
+  {
+    "key": "agilityrockpolish",
+    "left": "Agility",
+    "notes": "",
+    "right": "Rock Polish"
+  },
+  {
+    "key": "aromatherapyhealbell",
+    "left": "Aromatherapy",
+    "notes": "Heal Bell does not affect Soundproof Pokémon",
+    "right": "Heal Bell"
+  },
+  {
+    "key": "barragedoubleslap",
+    "left": "Barrage",
+    "notes": "Barrage blocked by Bulletproof, Double Slap makes contact",
+    "right": "Double Slap"
+  },
+  {
+    "key": "barragefuryattack",
+    "left": "Barrage",
+    "notes": "Barrage blocked by Bulletproof, Fury Attack makes contact",
+    "right": "Fury Attack"
+  },
+  {
+    "key": "behemothbashbehemothblade",
+    "left": "Behemoth Bash",
+    "notes": "",
+    "right": "Behemoth Blade"
+  },
+  {
+    "key": "blockmeanlook",
+    "left": "Block",
+    "notes": "",
+    "right": "Mean Look"
+  },
+  {
+    "key": "blockspiderweb",
+    "left": "Block",
+    "notes": "",
+    "right": "Spider Web"
+  },
+  {
+    "key": "branchpokeleafage",
+    "left": "Branch Poke",
+    "notes": "Branch Poke makes contact",
+    "right": "Leafage"
+  },
+  {
+    "key": "celebratesplash",
+    "left": "Celebrate",
+    "notes": "",
+    "right": "Splash"
+  },
+  {
+    "key": "charmfeatherdance",
+    "left": "Charm",
+    "notes": "Feather Dance affects Dancer",
+    "right": "Feather Dance"
+  },
+  {
+    "key": "cosmicpowerdefendorder",
+    "left": "Cosmic Power",
+    "notes": "",
+    "right": "Defend Order"
+  },
+  {
+    "key": "defensecurlharden",
+    "left": "Defense Curl",
+    "notes": "Defense Curl powers up Rollout/Ice Ball",
+    "right": "Harden"
+  },
+  {
+    "key": "defensecurlwithdraw",
+    "left": "Defense Curl",
+    "notes": "Defense Curl powers up Rollout/Ice Ball",
+    "right": "Withdraw"
+  },
+  {
+    "key": "detectprotect",
+    "left": "Detect",
+    "notes": "",
+    "right": "Protect"
+  },
+  {
+    "key": "falseswipeholdback",
+    "left": "False Swipe",
+    "notes": "",
+    "right": "Hold Back"
+  },
+  {
+    "key": "flashsandattack",
+    "left": "Flash",
+    "notes": "",
+    "right": "Sand Attack"
+  },
+  {
+    "key": "flashsmokescreen",
+    "left": "Flash",
+    "notes": "",
+    "right": "Smokescreen"
+  },
+  {
+    "key": "followmeragepowder",
+    "left": "Follow Me",
+    "notes": "",
+    "right": "Rage Powder"
+  },
+  {
+    "key": "foresightodorsleuth",
+    "left": "Foresight",
+    "notes": "",
+    "right": "Odor Sleuth"
+  },
+  {
+    "key": "grasswhistlesing",
+    "left": "Grass Whistle",
+    "notes": "",
+    "right": "Sing"
+  },
+  {
+    "key": "guillotinehorndrill",
+    "left": "Guillotine",
+    "notes": "",
+    "right": "Horn Drill"
+  },
+  {
+    "key": "healordermilkdrink",
+    "left": "Heal Order",
+    "notes": "Milk Drink can be used outside of battle",
+    "right": "Milk Drink"
+  },
+  {
+    "key": "healorderrecover",
+    "left": "Heal Order",
+    "notes": "",
+    "right": "Recover"
+  },
+  {
+    "key": "healorderslackoff",
+    "left": "Heal Order",
+    "notes": "",
+    "right": "Slack Off"
+  },
+  {
+    "key": "healordersoftboiled",
+    "left": "Heal Order",
+    "notes": "Soft-Boiled can be used outside of battle",
+    "right": "Soft-Boiled"
+  },
+  {
+    "key": "junglehealinglunarblessing",
+    "left": "Jungle Healing",
+    "notes": "",
+    "right": "Lunar Blessing"
+  },
+  {
+    "key": "leertailwhip",
+    "left": "Leer",
+    "notes": "",
+    "right": "Tail Whip"
+  },
+  {
+    "key": "lockonmindreader",
+    "left": "Lock-On",
+    "notes": "",
+    "right": "Mind Reader"
+  },
+  {
+    "key": "lovelykisssleeppowder",
+    "left": "Lovely Kiss",
+    "notes": "Sleep Powder does not affect Grass types",
+    "right": "Sleep Powder"
+  },
+  {
+    "key": "meditatesharpen",
+    "left": "Meditate",
+    "notes": "",
+    "right": "Sharpen"
+  },
+  {
+    "key": "moonlightmorningsun",
+    "left": "Moonlight",
+    "notes": "",
+    "right": "Morning Sun"
+  },
+  {
+    "key": "moonlightsynthesis",
+    "left": "Moonlight",
+    "notes": "",
+    "right": "Synthesis"
+  },
+  {
+    "key": "poundscratch",
+    "left": "Pound",
+    "notes": "",
+    "right": "Scratch"
+  },
+  {
+    "key": "poundtackle",
+    "left": "Pound",
+    "notes": "",
+    "right": "Tackle"
+  },
+  {
+    "key": "powershiftpowertrick",
+    "left": "Power Shift",
+    "notes": "No one can actually learn Power Shift",
+    "right": "Power Trick"
+  },
+  {
+    "key": "roarwhirlwind",
+    "left": "Roar",
+    "notes": "Roar is a sound move, Whirlwind affects Wind Rider",
+    "right": "Whirlwind"
+  },
+  {
+    "key": "switcherootrick",
+    "left": "Switcheroo",
+    "notes": "",
+    "right": "Trick"
+  }
+]

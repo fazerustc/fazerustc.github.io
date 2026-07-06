@@ -15,6 +15,11 @@
     background-position: center;
 }
 
+.bg-quickball {
+    background-image: url("/assets/quickball.png");
+    background-position: center;
+}
+
 .outlined-text {
     color: black;
     text-shadow: 
