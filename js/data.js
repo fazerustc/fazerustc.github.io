@@ -1,3 +1,7 @@
+export async function getIndicators(callback) {
+    await getJson("data/indicators.json", callback);
+}
+
 export async function getJsonData(callback) {
     await getJson("data/data.json", callback);
 }

@@ -10,6 +10,11 @@
     background-position: center;
 }
 
+.bg-ultraball {
+    background-image: url("/assets/ultraball.png");
+    background-position: center;
+}
+
 .outlined-text {
     color: black;
     text-shadow: 

@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script type="module" src="js/search.js"></script>
+<script type="module" src="js/indicators.js"></script>
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="bg-sky-200">
 <div class="flex justify-center text-center w-full gap-4 text-8xl mb-4">
-    <p>Search</p>
+    <p>Indicators</p>
 </div>
 <div class="flex justify-center text-center w-full gap-4 text-xl">
-    <p>Search through Pokémon terms</p>
+    <p>These indicators have been used before on pokecryptic.com</p>
 </div>
 <div class="flex flex-col h-screen">
     <div class="flex-grow overflow-auto">
@@ -22,8 +22,7 @@
                                 <img id="info" tabindex="0" src="assets/info.png" class="w-[1em] h-[1em] mr-[0.5em] hover:bg-brand-strong focus:ring-4 focus:ring-brand-medium focus-within:z-50" data-tooltip-target="tooltip-light"/>
                                 <div id="tooltip-light" role="tooltip" class="absolute invisible [#info:focus~&]:visible opacity-0 [#info:focus~&]:opacity-100 transition-opacity bg-black text-white text-xs rounded py-1 px-2 top-full left-0 mb-2 whitespace-nowrap z-50 focus-within:block peer-focus:block [#info:focus~&]:block">
                                     <p>
-                                    Filter name by regex. Case-insensitve and special characters like " " and "-" have been removed from the name.<br>
-                                    Accented characters like "é" are replaced with their unaccented counterparts like "e".<br>
+                                    Filter indicator by regex. Case-insensitve and special characters like " " and "-" have been removed from the name.<br>
                                     "." = any character, "*" = repeat 0 or more, "+" = repeat 1 or more, "?" = 0 or 1.<br>
                                     "^" = beginning of name, "$" = end of name.<br>
                                     See <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions"><u>the docs</u></a> for more information
@@ -31,21 +30,13 @@
                                     <div class="tooltip-arrow" data-popper-arrow></div>
                                 </div>
                             </div>
-                            <input type="text" id="searchInput" placeholder="Search by name (regex)"/>
+                            <input type="text" id="searchInput" placeholder="Search by indicator (regex)"/>
                         </div>
                     </th>
                     <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
                         <select id="searchKind">
                             <option value="Any">Any</option>
-                            <option value="Ability">Ability</option>
-                            <option value="Move">Move</option>
-                            <option value="Character">Character</option>
-                            <option value="Item">Item</option>
-                            <option value="Pokémon">Pokémon</option>
                         </select>
-                    </th>
-                    <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
-                        Used?
                     </th>
                 </tr>
             </thead>
