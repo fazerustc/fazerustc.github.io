@@ -70,6 +70,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Anger Shell",
+    "indicator": "shell",
+    "kind": "Ability",
+    "name": "angershell",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Another",
     "indicator": "another",
     "kind": "Character",
@@ -98,11 +105,25 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Aqua Tail",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "aquatail",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Arena Trap",
     "indicator": "trap",
     "kind": "Ability",
     "name": "arenatrap",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Armor Tail",
+    "indicator": "tail",
+    "kind": "Ability",
+    "name": "armortail",
+    "wordplay": "Selection"
   },
   {
     "display": "Articuno Treat",
@@ -182,6 +203,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Ball of Mud",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "ballofmud",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Barred Cup",
     "indicator": "barred",
     "kind": "Item",
@@ -232,6 +260,13 @@
   },
   {
     "display": "Beads of Ruin",
+    "indicator": "of",
+    "kind": "Ability",
+    "name": "beadsofruin",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Beads of Ruin",
     "indicator": "ruin",
     "kind": "Ability",
     "name": "beadsofruin",
@@ -252,11 +287,32 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Beat Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "beatup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Beat Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "beatup",
+    "wordplay": "Reversal"
+  },
+  {
     "display": "Behemoth Bash",
     "indicator": "bash",
     "kind": "Move",
     "name": "behemothbash",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Belly Drum",
+    "indicator": "belly",
+    "kind": "Move",
+    "name": "bellydrum",
+    "wordplay": "Selection"
   },
   {
     "display": "Berry Pots",
@@ -511,6 +567,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Bottle Cap",
+    "indicator": "cap",
+    "kind": "Item",
+    "name": "bottlecap",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Bouncy Bubble",
     "indicator": "bouncy",
     "kind": "Move",
@@ -574,6 +637,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Brick Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "brickpiece",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Brutal Swing",
     "indicator": "brutal",
     "kind": "Move",
@@ -592,6 +662,20 @@
     "indicator": "swing",
     "kind": "Move",
     "name": "brutalswing",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Bulk Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "bulkup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bulk Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "bulkup",
     "wordplay": "Reversal"
   },
   {
@@ -616,6 +700,20 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Burn Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "burnup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Burn Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "burnup",
+    "wordplay": "Reversal"
+  },
+  {
     "display": "Cake-Lure Base",
     "indicator": "base",
     "kind": "Item",
@@ -628,6 +726,13 @@
     "kind": "Character",
     "name": "cal",
     "wordplay": "Hidden"
+  },
+  {
+    "display": "Captain Stern",
+    "indicator": "stern",
+    "kind": "Character",
+    "name": "captainstern",
+    "wordplay": "Selection"
   },
   {
     "display": "Captivate",
@@ -770,6 +875,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Close Combat",
+    "indicator": "close",
+    "kind": "Move",
+    "name": "closecombat",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Club Look-See",
     "indicator": "club",
     "kind": "Character",
@@ -805,6 +917,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Coin Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "coincase",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Cologne Case",
     "indicator": "case",
     "kind": "Item",
@@ -817,6 +936,13 @@
     "kind": "Item",
     "name": "colognecase",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Cologne Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "colognecase",
+    "wordplay": "Selection"
   },
   {
     "display": "Color Change",
@@ -924,6 +1050,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Core Enforcer",
+    "indicator": "core",
+    "kind": "Move",
+    "name": "coreenforcer",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Corkscrew Crash",
     "indicator": "crash",
     "kind": "Move",
@@ -971,6 +1104,13 @@
     "kind": "Item",
     "name": "coverfossil",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Cover Fossil",
+    "indicator": "cover",
+    "kind": "Item",
+    "name": "coverfossil",
+    "wordplay": "Selection"
   },
   {
     "display": "Cracked Pot",
@@ -1027,6 +1167,13 @@
     "kind": "Move",
     "name": "crosspoison",
     "wordplay": "Container"
+  },
+  {
+    "display": "Crown Pass",
+    "indicator": "crown",
+    "kind": "Item",
+    "name": "crownpass",
+    "wordplay": "Selection"
   },
   {
     "display": "Crunchy Salt",
@@ -1111,6 +1258,13 @@
     "kind": "Item",
     "name": "damprock",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Dark Void",
+    "indicator": "void",
+    "kind": "Move",
+    "name": "darkvoid",
+    "wordplay": "Selection"
   },
   {
     "display": "Deep Sea Scale",
@@ -1246,6 +1400,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Disc Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "disccase",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Discount Coupon",
     "indicator": "discount",
     "kind": "Item",
@@ -1372,6 +1533,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Dragon Tail",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "dragontail",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Drain Punch",
     "indicator": "punch",
     "kind": "Move",
@@ -1412,6 +1580,13 @@
     "kind": "Move",
     "name": "drumbeating",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Dry Skin",
+    "indicator": "skin",
+    "kind": "Ability",
+    "name": "dryskin",
+    "wordplay": "Selection"
   },
   {
     "display": "DS Sounds",
@@ -1603,6 +1778,20 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Extreme Evoboost",
+    "indicator": "extreme",
+    "kind": "Move",
+    "name": "extremeevoboost",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Extreme Speed",
+    "indicator": "extreme",
+    "kind": "Move",
+    "name": "extremespeed",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Fairy Wind",
     "indicator": "wind",
     "kind": "Move",
@@ -1692,6 +1881,13 @@
     "kind": "Item",
     "name": "fashioncase",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Fashion Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "fashioncase",
+    "wordplay": "Selection"
   },
   {
     "display": "Fashion Case",
@@ -1797,6 +1993,13 @@
     "kind": "Move",
     "name": "filletaway",
     "wordplay": "Deletion"
+  },
+  {
+    "display": "Final Gambit",
+    "indicator": "final",
+    "kind": "Move",
+    "name": "finalgambit",
+    "wordplay": "Selection"
   },
   {
     "display": "Fine Remedy",
@@ -1925,6 +2128,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "First Impression",
+    "indicator": "first",
+    "kind": "Move",
+    "name": "firstimpression",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Flame Burst",
     "indicator": "burst",
     "kind": "Move",
@@ -2009,6 +2219,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Fluffy Tail",
+    "indicator": "tail",
+    "kind": "Item",
+    "name": "fluffytail",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Flutter Mane",
     "indicator": "flutter",
     "kind": "Pok\u00e9mon",
@@ -2051,6 +2268,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Focus Band",
+    "indicator": "focus",
+    "kind": "Item",
+    "name": "focusband",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Focus Blast",
     "indicator": "blast",
     "kind": "Move",
@@ -2058,11 +2282,39 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Focus Blast",
+    "indicator": "focus",
+    "kind": "Move",
+    "name": "focusblast",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Focus Energy",
+    "indicator": "focus",
+    "kind": "Move",
+    "name": "focusenergy",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Focus Punch",
+    "indicator": "focus",
+    "kind": "Move",
+    "name": "focuspunch",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Focus Punch",
     "indicator": "punch",
     "kind": "Move",
     "name": "focuspunch",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Focus Sash",
+    "indicator": "focus",
+    "kind": "Item",
+    "name": "focussash",
+    "wordplay": "Selection"
   },
   {
     "display": "Force Palm",
@@ -2156,6 +2408,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Fur Coat",
+    "indicator": "coat",
+    "kind": "Ability",
+    "name": "furcoat",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Fury Attack",
     "indicator": "attack",
     "kind": "Move",
@@ -2184,6 +2443,13 @@
     "wordplay": "Container"
   },
   {
+    "display": "Gale Wings",
+    "indicator": "wings",
+    "kind": "Ability",
+    "name": "galewings",
+    "wordplay": "Selection"
+  },
+  {
     "display": "GB Sounds",
     "indicator": "sounds",
     "kind": "Item",
@@ -2196,6 +2462,20 @@
     "kind": "Move",
     "name": "geargrind",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Gear Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "gearup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Gear Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "gearup",
+    "wordplay": "Reversal"
   },
   {
     "display": "Glastrier Treat",
@@ -2217,6 +2497,13 @@
     "kind": "Move",
     "name": "gmaxcuddle",
     "wordplay": "Container"
+  },
+  {
+    "display": "G-Max Finale",
+    "indicator": "finale",
+    "kind": "Move",
+    "name": "gmaxfinale",
+    "wordplay": "Selection"
   },
   {
     "display": "G-Max Foam Burst",
@@ -2273,6 +2560,13 @@
     "kind": "Move",
     "name": "gmaxwindrage",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Gold Bottle Cap",
+    "indicator": "cap",
+    "kind": "Item",
+    "name": "goldbottlecap",
+    "wordplay": "Selection"
   },
   {
     "display": "Gooey",
@@ -2345,6 +2639,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Griseous Core",
+    "indicator": "core",
+    "kind": "Item",
+    "name": "griseouscore",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Grit Rock",
     "indicator": "rock",
     "kind": "Item",
@@ -2385,6 +2686,13 @@
     "kind": "Ability",
     "name": "guarddog",
     "wordplay": "Container"
+  },
+  {
+    "display": "Guardian of Alola",
+    "indicator": "of",
+    "kind": "Move",
+    "name": "guardianofalola",
+    "wordplay": "Hidden"
   },
   {
     "display": "Guard Spec.",
@@ -2485,6 +2793,20 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Head Charge",
+    "indicator": "head",
+    "kind": "Move",
+    "name": "headcharge",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Head Smash",
+    "indicator": "head",
+    "kind": "Move",
+    "name": "headsmash",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Head Smash",
     "indicator": "smash",
     "kind": "Move",
@@ -2511,6 +2833,34 @@
     "kind": "Move",
     "name": "healorder",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Heart Mail",
+    "indicator": "heart",
+    "kind": "Item",
+    "name": "heartmail",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Heart Scale",
+    "indicator": "heart",
+    "kind": "Item",
+    "name": "heartscale",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Heart Stamp",
+    "indicator": "heart",
+    "kind": "Move",
+    "name": "heartstamp",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Heart Swap",
+    "indicator": "heart",
+    "kind": "Move",
+    "name": "heartswap",
+    "wordplay": "Selection"
   },
   {
     "display": "Heart Swap",
@@ -2551,21 +2901,21 @@
     "display": "Hidden Power",
     "indicator": "hidden",
     "kind": "Move",
-    "name": "Hiddenpower",
+    "name": "hiddenpower",
     "wordplay": "Container"
   },
   {
     "display": "Hidden Power",
     "indicator": "hidden",
     "kind": "Move",
-    "name": "Hiddenpower",
+    "name": "hiddenpower",
     "wordplay": "Deletion"
   },
   {
     "display": "Hidden Power",
     "indicator": "hidden",
     "kind": "Move",
-    "name": "Hiddenpower",
+    "name": "hiddenpower",
     "wordplay": "Insertion"
   },
   {
@@ -2595,6 +2945,13 @@
     "kind": "Move",
     "name": "holdback",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Hold Back",
+    "indicator": "back",
+    "kind": "Move",
+    "name": "holdback",
+    "wordplay": "Selection"
   },
   {
     "display": "Hold Back",
@@ -2660,6 +3017,13 @@
     "wordplay": "Container"
   },
   {
+    "display": "Honor of Kalos",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "honorofkalos",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Ho-Oh Treat",
     "indicator": "treat",
     "kind": "Item",
@@ -2672,6 +3036,20 @@
     "kind": "Move",
     "name": "hornattack",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "HP Up",
+    "indicator": "up",
+    "kind": "Item",
+    "name": "hpup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "HP Up",
+    "indicator": "up",
+    "kind": "Item",
+    "name": "hpup",
+    "wordplay": "Reversal"
   },
   {
     "display": "Hunger Switch",
@@ -2693,6 +3071,13 @@
     "kind": "Move",
     "name": "hurricane",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Ice Face",
+    "indicator": "face",
+    "kind": "Ability",
+    "name": "iceface",
+    "wordplay": "Selection"
   },
   {
     "display": "Ice Punch",
@@ -2780,6 +3165,13 @@
   },
   {
     "display": "Inner Focus",
+    "indicator": "focus",
+    "kind": "Ability",
+    "name": "innerfocus",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Inner Focus",
     "indicator": "inner",
     "kind": "Ability",
     "name": "innerfocus",
@@ -2814,11 +3206,32 @@
     "wordplay": "Hidden"
   },
   {
+    "display": "Iron Crown",
+    "indicator": "crown",
+    "kind": "Pok\u00e9mon",
+    "name": "ironcrown",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Iron Head",
+    "indicator": "head",
+    "kind": "Move",
+    "name": "ironhead",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Iron Leaves",
     "indicator": "leaves",
     "kind": "Pok\u00e9mon",
     "name": "ironleaves",
     "wordplay": "Deletion"
+  },
+  {
+    "display": "Iron Tail",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "irontail",
+    "wordplay": "Selection"
   },
   {
     "display": "Item Printer",
@@ -2905,11 +3318,25 @@
     "wordplay": "Container"
   },
   {
+    "display": "Lagging Tail",
+    "indicator": "tail",
+    "kind": "Item",
+    "name": "laggingtail",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Larry Turner",
     "indicator": "turner",
     "kind": "Character",
     "name": "larryturner",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Laser Focus",
+    "indicator": "focus",
+    "kind": "Move",
+    "name": "laserfocus",
+    "wordplay": "Selection"
   },
   {
     "display": "Lash Out",
@@ -2934,10 +3361,24 @@
   },
   {
     "display": "Last Resort",
+    "indicator": "last",
+    "kind": "Move",
+    "name": "lastresort",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Last Resort",
     "indicator": "resort",
     "kind": "Move",
     "name": "lastresort",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Last Respects",
+    "indicator": "last",
+    "kind": "Move",
+    "name": "lastrespects",
+    "wordplay": "Selection"
   },
   {
     "display": "Latias Treat",
@@ -3010,11 +3451,11 @@
     "wordplay": "Insertion"
   },
   {
-    "display": "Li",
-    "indicator": "li",
-    "kind": "Character",
-    "name": "li",
-    "wordplay": "Hidden"
+    "display": "Lens Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "lenscase",
+    "wordplay": "Selection"
   },
   {
     "display": "Lida's Things",
@@ -3029,6 +3470,13 @@
     "kind": "Item",
     "name": "liftkey",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Light of Ruin",
+    "indicator": "of",
+    "kind": "Move",
+    "name": "lightofruin",
+    "wordplay": "Hidden"
   },
   {
     "display": "Light of Ruin",
@@ -3207,6 +3655,13 @@
   },
   {
     "display": "Magical Heart Pick",
+    "indicator": "heart",
+    "kind": "Item",
+    "name": "magicalheartpick",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Magical Heart Pick",
     "indicator": "magical",
     "kind": "Item",
     "name": "magicalheartpick",
@@ -3239,6 +3694,13 @@
     "kind": "Ability",
     "name": "magicbounce",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Magic Coat",
+    "indicator": "coat",
+    "kind": "Move",
+    "name": "magiccoat",
+    "wordplay": "Selection"
   },
   {
     "display": "Magic Coat",
@@ -3388,6 +3850,13 @@
     "wordplay": "Hidden"
   },
   {
+    "display": "Me First",
+    "indicator": "first",
+    "kind": "Move",
+    "name": "mefirst",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Mega Punch",
     "indicator": "punch",
     "kind": "Move",
@@ -3414,6 +3883,13 @@
     "kind": "Move",
     "name": "metalburst",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Metal Coat",
+    "indicator": "coat",
+    "kind": "Item",
+    "name": "metalcoat",
+    "wordplay": "Selection"
   },
   {
     "display": "Metal Sound",
@@ -3477,6 +3953,13 @@
     "kind": "Ability",
     "name": "mirrorarmor",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Mirror Coat",
+    "indicator": "coat",
+    "kind": "Move",
+    "name": "mirrorcoat",
+    "wordplay": "Selection"
   },
   {
     "display": "Mirror Coat",
@@ -3836,11 +4319,32 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Order Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "orderup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Order Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "orderup",
+    "wordplay": "Reversal"
+  },
+  {
     "display": "Origin Ball",
     "indicator": "origin",
     "kind": "Item",
     "name": "originball",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Origin Ball",
+    "indicator": "origin",
+    "kind": "Item",
+    "name": "originball",
+    "wordplay": "Selection"
   },
   {
     "display": "Origin Ore",
@@ -3850,6 +4354,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Origin Ore",
+    "indicator": "origin",
+    "kind": "Item",
+    "name": "originore",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Origin Pulse",
     "indicator": "origin",
     "kind": "Move",
@@ -3857,11 +4368,25 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Origin Pulse",
+    "indicator": "origin",
+    "kind": "Move",
+    "name": "originpulse",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Packaged Curry",
     "indicator": "packaged",
     "kind": "Item",
     "name": "packagedcurry",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Pack of Potatoes",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "packofpotatoes",
+    "wordplay": "Hidden"
   },
   {
     "display": "Pack of Potatoes",
@@ -3897,6 +4422,13 @@
     "kind": "Move",
     "name": "painsplit",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Pair of Tickets",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "pairoftickets",
+    "wordplay": "Hidden"
   },
   {
     "display": "Parting Shot",
@@ -4074,6 +4606,27 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Poffin Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "poffincase",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Poison Tail",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "poisontail",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Poison Touch",
+    "indicator": "touch",
+    "kind": "Ability",
+    "name": "poisontouch",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Pok\u00e9block Case",
     "indicator": "case",
     "kind": "Item",
@@ -4088,11 +4641,32 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Pok\u00e9block Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "pokeblockcase",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Pok\u00e9mon Box Link",
     "indicator": "box",
     "kind": "Item",
     "name": "pokemonboxlink",
     "wordplay": "Hidden"
+  },
+  {
+    "display": "Pok\u00e9mon Center Ladies",
+    "indicator": "center",
+    "kind": "Character",
+    "name": "pokemoncenterladies",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Pok\u00e9mon Center lady",
+    "indicator": "center",
+    "kind": "Character",
+    "name": "pokemoncenterlady",
+    "wordplay": "Selection"
   },
   {
     "display": "Pok\u00e9 Toy",
@@ -4179,6 +4753,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Power of Alchemy",
+    "indicator": "of",
+    "kind": "Ability",
+    "name": "powerofalchemy",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Power Shift",
     "indicator": "shift",
     "kind": "Move",
@@ -4198,6 +4779,13 @@
     "kind": "Move",
     "name": "powersplit",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Power Spot",
+    "indicator": "spot",
+    "kind": "Ability",
+    "name": "powerspot",
+    "wordplay": "Selection"
   },
   {
     "display": "Power Swap",
@@ -4242,6 +4830,20 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "PP Up",
+    "indicator": "up",
+    "kind": "Item",
+    "name": "ppup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "PP Up",
+    "indicator": "up",
+    "kind": "Item",
+    "name": "ppup",
+    "wordplay": "Reversal"
+  },
+  {
     "display": "Professor Mirror",
     "indicator": "mirror",
     "kind": "Character",
@@ -4261,6 +4863,20 @@
     "kind": "Item",
     "name": "propcase",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Prop Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "propcase",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Propeller Tail",
+    "indicator": "tail",
+    "kind": "Ability",
+    "name": "propellertail",
+    "wordplay": "Selection"
   },
   {
     "display": "Protect",
@@ -4317,6 +4933,20 @@
     "kind": "Move",
     "name": "psychoshift",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Psych Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "psychup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Psych Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "psychup",
+    "wordplay": "Reversal"
   },
   {
     "display": "Psyshield Bash",
@@ -4529,6 +5159,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Razor Shell",
+    "indicator": "shell",
+    "kind": "Move",
+    "name": "razorshell",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Razor Wind",
     "indicator": "wind",
     "kind": "Move",
@@ -4571,11 +5208,25 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Reins of Unity",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "reinsofunity",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Relaxed Mint",
     "indicator": "relaxed",
     "kind": "Item",
     "name": "relaxedmint",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Relic Crown",
+    "indicator": "crown",
+    "kind": "Item",
+    "name": "reliccrown",
+    "wordplay": "Selection"
   },
   {
     "display": "Remedy",
@@ -4637,7 +5288,7 @@
     "display": "Reversal",
     "indicator": "reversal",
     "kind": "Move",
-    "name": "Reversal",
+    "name": "reversal",
     "wordplay": "Reversal"
   },
   {
@@ -4683,6 +5334,13 @@
     "wordplay": "Reversal"
   },
   {
+    "display": "Roar of Time",
+    "indicator": "of",
+    "kind": "Move",
+    "name": "roaroftime",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Rock Blast",
     "indicator": "blast",
     "kind": "Move",
@@ -4709,6 +5367,13 @@
     "kind": "Item",
     "name": "rockgem",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Head",
+    "indicator": "head",
+    "kind": "Ability",
+    "name": "rockhead",
+    "wordplay": "Selection"
   },
   {
     "display": "Rock Head",
@@ -4886,6 +5551,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Rough Skin",
+    "indicator": "skin",
+    "kind": "Ability",
+    "name": "roughskin",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Round",
     "indicator": "round",
     "kind": "Move",
@@ -5012,6 +5684,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Scary Face",
+    "indicator": "face",
+    "kind": "Move",
+    "name": "scaryface",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Scatter Bang",
     "indicator": "bang",
     "kind": "Item",
@@ -5045,6 +5724,27 @@
     "kind": "Move",
     "name": "scratch",
     "wordplay": "Deletion"
+  },
+  {
+    "display": "Scream Tail",
+    "indicator": "tail",
+    "kind": "Pok\u00e9mon",
+    "name": "screamtail",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Scroll of Darkness",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "scrollofdarkness",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Scroll of Waters",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "scrollofwaters",
+    "wordplay": "Hidden"
   },
   {
     "display": "Searing Shot",
@@ -5103,6 +5803,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Seed of Mastery",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "seedofmastery",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Shadow Blast",
     "indicator": "blast",
     "kind": "Move",
@@ -5131,6 +5838,13 @@
     "wordplay": "Reversal"
   },
   {
+    "display": "Shadow End",
+    "indicator": "end",
+    "kind": "Move",
+    "name": "shadowend",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Shadow Fire",
     "indicator": "fire",
     "kind": "Move",
@@ -5143,6 +5857,13 @@
     "kind": "Move",
     "name": "shadowforce",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Half",
+    "indicator": "half",
+    "kind": "Move",
+    "name": "shadowhalf",
+    "wordplay": "Selection"
   },
   {
     "display": "Shadow Hold",
@@ -5236,6 +5957,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Shed Shell",
+    "indicator": "shell",
+    "kind": "Item",
+    "name": "shedshell",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Shed Skin",
     "indicator": "shed",
     "kind": "Ability",
@@ -5250,6 +5978,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Shed Skin",
+    "indicator": "skin",
+    "kind": "Ability",
+    "name": "shedskin",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Shed Tail",
     "indicator": "shed",
     "kind": "Move",
@@ -5262,6 +5997,13 @@
     "kind": "Move",
     "name": "shedtail",
     "wordplay": "Deletion"
+  },
+  {
+    "display": "Shed Tail",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "shedtail",
+    "wordplay": "Selection"
   },
   {
     "display": "Sheer Force",
@@ -5271,11 +6013,46 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Shell Armor",
+    "indicator": "shell",
+    "kind": "Ability",
+    "name": "shellarmor",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Shell Bell",
+    "indicator": "shell",
+    "kind": "Item",
+    "name": "shellbell",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Shell Side Arm",
+    "indicator": "shell",
+    "kind": "Move",
+    "name": "shellsidearm",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Shell Smash",
+    "indicator": "shell",
+    "kind": "Move",
+    "name": "shellsmash",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Shell Smash",
     "indicator": "smash",
     "kind": "Move",
     "name": "shellsmash",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Shell Trap",
+    "indicator": "shell",
+    "kind": "Move",
+    "name": "shelltrap",
+    "wordplay": "Selection"
   },
   {
     "display": "Shell Trap",
@@ -5306,6 +6083,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Shoal Shell",
+    "indicator": "shell",
+    "kind": "Item",
+    "name": "shoalshell",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Shock Drive",
     "indicator": "shock",
     "kind": "Item",
@@ -5325,6 +6109,20 @@
     "kind": "Move",
     "name": "shockwave",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Shore Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "shoreup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shore Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "shoreup",
+    "wordplay": "Reversal"
   },
   {
     "display": "Silk Trap",
@@ -5390,6 +6188,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Sky Drop",
+    "indicator": "drop",
+    "kind": "Move",
+    "name": "skydrop",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Slack Off",
     "indicator": "off",
     "kind": "Move",
@@ -5416,6 +6221,20 @@
     "kind": "Move",
     "name": "slash",
     "wordplay": "Deletion"
+  },
+  {
+    "display": "Slowpoke Tail",
+    "indicator": "tail",
+    "kind": "Item",
+    "name": "slowpoketail",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Slow Start",
+    "indicator": "start",
+    "kind": "Ability",
+    "name": "slowstart",
+    "wordplay": "Selection"
   },
   {
     "display": "Sludge Bomb",
@@ -5460,11 +6279,25 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Smoke-Poke Tail",
+    "indicator": "tail",
+    "kind": "Item",
+    "name": "smokepoketail",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Smooth Rock",
     "indicator": "rock",
     "kind": "Item",
     "name": "smoothrock",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Snap Trap",
+    "indicator": "snap",
+    "kind": "Move",
+    "name": "snaptrap",
+    "wordplay": "Selection"
   },
   {
     "display": "Snap Trap",
@@ -5677,6 +6510,20 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Spit Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "spitup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spit Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "spitup",
+    "wordplay": "Reversal"
+  },
+  {
     "display": "Splash",
     "indicator": "splash",
     "kind": "Move",
@@ -5740,6 +6587,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Star Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "starpiece",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Stealth Rock",
     "indicator": "rock",
     "kind": "Move",
@@ -5773,6 +6627,13 @@
     "kind": "Item",
     "name": "stickercase",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Sticker Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "stickercase",
+    "wordplay": "Selection"
   },
   {
     "display": "Sticky Barb",
@@ -6013,6 +6874,20 @@
     "wordplay": "Container"
   },
   {
+    "display": "Sweet Heart",
+    "indicator": "heart",
+    "kind": "Item",
+    "name": "sweetheart",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Sword of Ruin",
+    "indicator": "of",
+    "kind": "Ability",
+    "name": "swordofruin",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Sword of Ruin",
     "indicator": "ruin",
     "kind": "Ability",
@@ -6049,10 +6924,38 @@
   },
   {
     "display": "Tablets of Ruin",
+    "indicator": "of",
+    "kind": "Ability",
+    "name": "tabletsofruin",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Tablets of Ruin",
     "indicator": "ruin",
     "kind": "Ability",
     "name": "tabletsofruin",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Tail Glow",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "tailglow",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Tail Slap",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "tailslap",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Tail Whip",
+    "indicator": "tail",
+    "kind": "Move",
+    "name": "tailwhip",
+    "wordplay": "Selection"
   },
   {
     "display": "Tail Whip",
@@ -6074,6 +6977,13 @@
     "kind": "Move",
     "name": "takedown",
     "wordplay": "Container"
+  },
+  {
+    "display": "Take Heart",
+    "indicator": "heart",
+    "kind": "Move",
+    "name": "takeheart",
+    "wordplay": "Selection"
   },
   {
     "display": "Take Heart",
@@ -6195,6 +7105,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Tera Shell",
+    "indicator": "shell",
+    "kind": "Ability",
+    "name": "terashell",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Tera Shift",
     "indicator": "shift",
     "kind": "Ability",
@@ -6279,6 +7196,27 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Tidy Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "tidyup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tidy Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "tidyup",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Tin of Beans",
+    "indicator": "of",
+    "kind": "Item",
+    "name": "tinofbeans",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "TM Case",
     "indicator": "case",
     "kind": "Item",
@@ -6293,11 +7231,25 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "TM Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "tmcase",
+    "wordplay": "Selection"
+  },
+  {
     "display": "TM Material",
     "indicator": "material",
     "kind": "Item",
     "name": "tmmaterial",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Todd Snap",
+    "indicator": "snap",
+    "kind": "Character",
+    "name": "toddsnap",
+    "wordplay": "Selection"
   },
   {
     "display": "Torment",
@@ -6356,6 +7308,20 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Trace",
+    "indicator": "trace",
+    "kind": "Ability",
+    "name": "trace",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Trace",
+    "indicator": "trace",
+    "kind": "Character",
+    "name": "trace",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Transform",
     "indicator": "transform",
     "kind": "Move",
@@ -6368,6 +7334,13 @@
     "kind": "Move",
     "name": "triattack",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Tropical Shell",
+    "indicator": "shell",
+    "kind": "Item",
+    "name": "tropicalshell",
+    "wordplay": "Selection"
   },
   {
     "display": "Twisted Spoon",
@@ -6410,6 +7383,13 @@
     "kind": "Move",
     "name": "vacuumwave",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Vessel of Ruin",
+    "indicator": "of",
+    "kind": "Ability",
+    "name": "vesselofruin",
+    "wordplay": "Hidden"
   },
   {
     "display": "Vessel of Ruin",
@@ -6473,6 +7453,13 @@
     "kind": "Item",
     "name": "voicecase",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Voice Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "voicecase",
+    "wordplay": "Selection"
   },
   {
     "display": "Volt Absorb",
@@ -6692,6 +7679,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Wishing Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "wishingpiece",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Withdraw",
     "indicator": "withdraw",
     "kind": "Move",
@@ -6713,11 +7707,39 @@
     "wordplay": "Container"
   },
   {
+    "display": "Wonder Skin",
+    "indicator": "skin",
+    "kind": "Ability",
+    "name": "wonderskin",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Wooden Crown",
+    "indicator": "crown",
+    "kind": "Item",
+    "name": "woodencrown",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Works Key",
     "indicator": "works",
     "kind": "Item",
     "name": "workskey",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Work Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "workup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Work Up",
+    "indicator": "up",
+    "kind": "Move",
+    "name": "workup",
+    "wordplay": "Reversal"
   },
   {
     "display": "Work Up",
