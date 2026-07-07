@@ -2,8 +2,8 @@ export async function getSynonyms(callback) {
     await getJson("data/synonyms.json", callback);
 }
 
-export async function getIndicators(callback) {
-    await getJson("data/indicators.json", callback);
+export async function getPokeindicators(callback) {
+    await getJson("data/pokeindicators.json", callback);
 }
 
 export async function getJsonData(callback) {

@@ -1,0 +1,487 @@
+[
+  {
+    "from": "rife",
+    "shift": 9,
+    "to": "aron"
+  },
+  {
+    "from": "gyn",
+    "shift": 20,
+    "to": "ash"
+  },
+  {
+    "from": "lds",
+    "shift": 15,
+    "to": "ash"
+  },
+  {
+    "from": "met",
+    "shift": 14,
+    "to": "ash"
+  },
+  {
+    "from": "wod",
+    "shift": 4,
+    "to": "ash"
+  },
+  {
+    "from": "held",
+    "shift": 19,
+    "to": "axew"
+  },
+  {
+    "from": "adz",
+    "shift": 1,
+    "to": "bea"
+  },
+  {
+    "from": "cfb",
+    "shift": 25,
+    "to": "bea"
+  },
+  {
+    "from": "fie",
+    "shift": 22,
+    "to": "bea"
+  },
+  {
+    "from": "med",
+    "shift": 16,
+    "to": "cut"
+  },
+  {
+    "from": "won",
+    "shift": 6,
+    "to": "cut"
+  },
+  {
+    "from": "road",
+    "shift": 12,
+    "to": "damp"
+  },
+  {
+    "from": "hear",
+    "shift": 22,
+    "to": "dawn"
+  },
+  {
+    "from": "pus",
+    "shift": 14,
+    "to": "dig"
+  },
+  {
+    "from": "chud",
+    "shift": 1,
+    "to": "dive"
+  },
+  {
+    "from": "ipms",
+    "shift": 22,
+    "to": "elio"
+  },
+  {
+    "from": "ahi",
+    "shift": 4,
+    "to": "elm"
+  },
+  {
+    "from": "hop",
+    "shift": 23,
+    "to": "elm"
+  },
+  {
+    "from": "tab",
+    "shift": 11,
+    "to": "elm"
+  },
+  {
+    "from": "agt",
+    "shift": 5,
+    "to": "fly"
+  },
+  {
+    "from": "civ",
+    "shift": 3,
+    "to": "fly"
+  },
+  {
+    "from": "syl",
+    "shift": 13,
+    "to": "fly"
+  },
+  {
+    "from": "yer",
+    "shift": 7,
+    "to": "fly"
+  },
+  {
+    "from": "tyner",
+    "shift": 13,
+    "to": "glare"
+  },
+  {
+    "from": "murks",
+    "shift": 20,
+    "to": "golem"
+  },
+  {
+    "from": "mazy",
+    "shift": 20,
+    "to": "guts"
+  },
+  {
+    "from": "piti",
+    "shift": 18,
+    "to": "hala"
+  },
+  {
+    "from": "atn",
+    "shift": 7,
+    "to": "hau"
+  },
+  {
+    "from": "exr",
+    "shift": 3,
+    "to": "hau"
+  },
+  {
+    "from": "fys",
+    "shift": 2,
+    "to": "hau"
+  },
+  {
+    "from": "ley",
+    "shift": 22,
+    "to": "hau"
+  },
+  {
+    "from": "pic",
+    "shift": 18,
+    "to": "hau"
+  },
+  {
+    "from": "dat",
+    "shift": 4,
+    "to": "hex"
+  },
+  {
+    "from": "kha",
+    "shift": 23,
+    "to": "hex"
+  },
+  {
+    "from": "lib",
+    "shift": 22,
+    "to": "hex"
+  },
+  {
+    "from": "ole",
+    "shift": 19,
+    "to": "hex"
+  },
+  {
+    "from": "roh",
+    "shift": 16,
+    "to": "hex"
+  },
+  {
+    "from": "spi",
+    "shift": 15,
+    "to": "hex"
+  },
+  {
+    "from": "elle",
+    "shift": 3,
+    "to": "hooh"
+  },
+  {
+    "from": "ahi",
+    "shift": 7,
+    "to": "hop"
+  },
+  {
+    "from": "elm",
+    "shift": 3,
+    "to": "hop"
+  },
+  {
+    "from": "tab",
+    "shift": 14,
+    "to": "hop"
+  },
+  {
+    "from": "goto",
+    "shift": 1,
+    "to": "hpup"
+  },
+  {
+    "from": "anza",
+    "shift": 7,
+    "to": "hugh"
+  },
+  {
+    "from": "erde",
+    "shift": 3,
+    "to": "hugh"
+  },
+  {
+    "from": "yede",
+    "shift": 10,
+    "to": "iono"
+  },
+  {
+    "from": "folk",
+    "shift": 3,
+    "to": "iron"
+  },
+  {
+    "from": "fulls",
+    "shift": 6,
+    "to": "larry"
+  },
+  {
+    "from": "haag",
+    "shift": 4,
+    "to": "leek"
+  },
+  {
+    "from": "dars",
+    "shift": 8,
+    "to": "liza"
+  },
+  {
+    "from": "esq",
+    "shift": 8,
+    "to": "may"
+  },
+  {
+    "from": "gus",
+    "shift": 6,
+    "to": "may"
+  },
+  {
+    "from": "oca",
+    "shift": 24,
+    "to": "may"
+  },
+  {
+    "from": "rfd",
+    "shift": 21,
+    "to": "may"
+  },
+  {
+    "from": "ask",
+    "shift": 12,
+    "to": "mew"
+  },
+  {
+    "from": "cum",
+    "shift": 10,
+    "to": "mew"
+  },
+  {
+    "from": "ewo",
+    "shift": 8,
+    "to": "mew"
+  },
+  {
+    "from": "ume",
+    "shift": 18,
+    "to": "mew"
+  },
+  {
+    "from": "wog",
+    "shift": 16,
+    "to": "mew"
+  },
+  {
+    "from": "emc",
+    "shift": 8,
+    "to": "muk"
+  },
+  {
+    "from": "ksi",
+    "shift": 2,
+    "to": "muk"
+  },
+  {
+    "from": "sasse",
+    "shift": 20,
+    "to": "mummy"
+  },
+  {
+    "from": "bohi",
+    "shift": 12,
+    "to": "natu"
+  },
+  {
+    "from": "faucal",
+    "shift": 8,
+    "to": "nickit"
+  },
+  {
+    "from": "coy",
+    "shift": 12,
+    "to": "oak"
+  },
+  {
+    "from": "frb",
+    "shift": 9,
+    "to": "oak"
+  },
+  {
+    "from": "gsc",
+    "shift": 8,
+    "to": "oak"
+  },
+  {
+    "from": "wis",
+    "shift": 18,
+    "to": "oak"
+  },
+  {
+    "from": "hite",
+    "shift": 7,
+    "to": "opal"
+  },
+  {
+    "from": "step",
+    "shift": 22,
+    "to": "opal"
+  },
+  {
+    "from": "itll",
+    "shift": 7,
+    "to": "pass"
+  },
+  {
+    "from": "lallan",
+    "shift": 4,
+    "to": "pepper"
+  },
+  {
+    "from": "bon",
+    "shift": 16,
+    "to": "red"
+  },
+  {
+    "from": "gts",
+    "shift": 11,
+    "to": "red"
+  },
+  {
+    "from": "hut",
+    "shift": 10,
+    "to": "red"
+  },
+  {
+    "from": "oba",
+    "shift": 3,
+    "to": "red"
+  },
+  {
+    "from": "pcb",
+    "shift": 2,
+    "to": "red"
+  },
+  {
+    "from": "bos",
+    "shift": 16,
+    "to": "rei"
+  },
+  {
+    "from": "erv",
+    "shift": 13,
+    "to": "rei"
+  },
+  {
+    "from": "nae",
+    "shift": 4,
+    "to": "rei"
+  },
+  {
+    "from": "vim",
+    "shift": 22,
+    "to": "rei"
+  },
+  {
+    "from": "lymn",
+    "shift": 6,
+    "to": "rest"
+  },
+  {
+    "from": "urdu",
+    "shift": 23,
+    "to": "roar"
+  },
+  {
+    "from": "knur",
+    "shift": 7,
+    "to": "ruby"
+  },
+  {
+    "from": "beni",
+    "shift": 16,
+    "to": "rudy"
+  },
+  {
+    "from": "firm",
+    "shift": 12,
+    "to": "rudy"
+  },
+  {
+    "from": "bes",
+    "shift": 16,
+    "to": "rui"
+  },
+  {
+    "from": "loc",
+    "shift": 6,
+    "to": "rui"
+  },
+  {
+    "from": "aili",
+    "shift": 18,
+    "to": "sada"
+  },
+  {
+    "from": "unco",
+    "shift": 24,
+    "to": "slam"
+  },
+  {
+    "from": "eyas",
+    "shift": 14,
+    "to": "smog"
+  },
+  {
+    "from": "faber",
+    "shift": 13,
+    "to": "snore"
+  },
+  {
+    "from": "gift",
+    "shift": 12,
+    "to": "surf"
+  },
+  {
+    "from": "proc",
+    "shift": 3,
+    "to": "surf"
+  },
+  {
+    "from": "bourg",
+    "shift": 20,
+    "to": "viola"
+  },
+  {
+    "from": "goc",
+    "shift": 16,
+    "to": "wes"
+  },
+  {
+    "from": "sao",
+    "shift": 4,
+    "to": "wes"
+  }
+]

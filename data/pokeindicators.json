@@ -1,0 +1,6834 @@
+[
+  {
+    "display": "Absorb",
+    "indicator": "absorb",
+    "kind": "Move",
+    "name": "absorb",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Absorb Bulb",
+    "indicator": "absorb",
+    "kind": "Item",
+    "name": "absorbbulb",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Acid Spray",
+    "indicator": "spray",
+    "kind": "Move",
+    "name": "acidspray",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Adventure Guide",
+    "indicator": "guide",
+    "kind": "Item",
+    "name": "adventureguide",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Air Slash",
+    "indicator": "slash",
+    "kind": "Move",
+    "name": "airslash",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Ally Switch",
+    "indicator": "switch",
+    "kind": "Move",
+    "name": "allyswitch",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ally Switch",
+    "indicator": "switch",
+    "kind": "Move",
+    "name": "allyswitch",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Amazing Butter",
+    "indicator": "amazing",
+    "kind": "Item",
+    "name": "amazingbutter",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Anchor Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "anchorshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Anchor Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "anchorshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Another",
+    "indicator": "another",
+    "kind": "Character",
+    "name": "another",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Apricorn Box",
+    "indicator": "box",
+    "kind": "Item",
+    "name": "apricornbox",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Aqua Ring",
+    "indicator": "ring",
+    "kind": "Move",
+    "name": "aquaring",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Aqua Suit",
+    "indicator": "suit",
+    "kind": "Item",
+    "name": "aquasuit",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Arena Trap",
+    "indicator": "trap",
+    "kind": "Ability",
+    "name": "arenatrap",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Articuno Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "articunotreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Assault Vest",
+    "indicator": "assault",
+    "kind": "Item",
+    "name": "assaultvest",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Attack Order",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "attackorder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Attack Order",
+    "indicator": "order",
+    "kind": "Move",
+    "name": "attackorder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Aura Break",
+    "indicator": "break",
+    "kind": "Ability",
+    "name": "aurabreak",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Aura Break",
+    "indicator": "break",
+    "kind": "Ability",
+    "name": "aurabreak",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Aux Guard",
+    "indicator": "guard",
+    "kind": "Item",
+    "name": "auxguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Avalanche",
+    "indicator": "avalanche",
+    "kind": "Move",
+    "name": "avalanche",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Awakening",
+    "indicator": "awakening",
+    "kind": "Item",
+    "name": "awakening",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bad Dreams",
+    "indicator": "bad",
+    "kind": "Ability",
+    "name": "baddreams",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Baddy Bad",
+    "indicator": "bad",
+    "kind": "Move",
+    "name": "baddybad",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Barred Cup",
+    "indicator": "barred",
+    "kind": "Item",
+    "name": "barredcup",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Barred Cup",
+    "indicator": "barred",
+    "kind": "Item",
+    "name": "barredcup",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Battle Armor",
+    "indicator": "battle",
+    "kind": "Ability",
+    "name": "battlearmor",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Bond",
+    "indicator": "battle",
+    "kind": "Ability",
+    "name": "battlebond",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Chairs",
+    "indicator": "battle",
+    "kind": "Item",
+    "name": "battlechairs",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Hall",
+    "indicator": "battle",
+    "kind": "Character",
+    "name": "battlehall",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Tablecloth",
+    "indicator": "battle",
+    "kind": "Item",
+    "name": "battletablecloth",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Beads of Ruin",
+    "indicator": "ruin",
+    "kind": "Ability",
+    "name": "beadsofruin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Beak Blast",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "beakblast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Beat Up",
+    "indicator": "beat",
+    "kind": "Move",
+    "name": "beatup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Behemoth Bash",
+    "indicator": "bash",
+    "kind": "Move",
+    "name": "behemothbash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Berry Pots",
+    "indicator": "pots",
+    "kind": "Item",
+    "name": "berrypots",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Berserk",
+    "indicator": "berserk",
+    "kind": "Ability",
+    "name": "berserk",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Berserk Gene",
+    "indicator": "berserk",
+    "kind": "Item",
+    "name": "berserkgene",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Binding Band",
+    "indicator": "binding",
+    "kind": "Item",
+    "name": "bindingband",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Bitter Berry",
+    "indicator": "bitter",
+    "kind": "Item",
+    "name": "bitterberry",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bitter Blade",
+    "indicator": "bitter",
+    "kind": "Move",
+    "name": "bitterblade",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bitter Herba Mystica",
+    "indicator": "bitter",
+    "kind": "Item",
+    "name": "bitterherbamystica",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bitter Malice",
+    "indicator": "bitter",
+    "kind": "Move",
+    "name": "bittermalice",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Black Belt",
+    "indicator": "belt",
+    "kind": "Item",
+    "name": "blackbelt",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blast Burn",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "blastburn",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blazing Torque",
+    "indicator": "blazing",
+    "kind": "Move",
+    "name": "blazingtorque",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bleakwind Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "bleakwindstorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blend Master",
+    "indicator": "blend",
+    "kind": "Character",
+    "name": "blendmaster",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Block",
+    "indicator": "block",
+    "kind": "Move",
+    "name": "block",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Blue",
+    "indicator": "blue",
+    "kind": "Character",
+    "name": "blue",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Apricorn",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "blueapricorn",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Bottle",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluebottle",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Canari Plush",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluecanariplush",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Card",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluecard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Chairs",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluechairs",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Cup",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluecup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Dish",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluedish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Dish",
+    "indicator": "dish",
+    "kind": "Item",
+    "name": "bluedish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Eyes",
+    "indicator": "blue",
+    "kind": "Character",
+    "name": "blueeyes",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Flare",
+    "indicator": "blue",
+    "kind": "Move",
+    "name": "blueflare",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Flute",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "blueflute",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Orb",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "blueorb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Petal",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluepetal",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Pok\u00e9 Ball Pick",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluepokeballpick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Scarf",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluescarf",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Shard",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "blueshard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blue Tablecloth",
+    "indicator": "blue",
+    "kind": "Item",
+    "name": "bluetablecloth",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Blunder Policy",
+    "indicator": "blunder",
+    "kind": "Item",
+    "name": "blunderpolicy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Boiled Egg",
+    "indicator": "boiled",
+    "kind": "Item",
+    "name": "boiledegg",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bolt Strike",
+    "indicator": "strike",
+    "kind": "Move",
+    "name": "boltstrike",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Bone Club",
+    "indicator": "club",
+    "kind": "Move",
+    "name": "boneclub",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Bouncy Bubble",
+    "indicator": "bouncy",
+    "kind": "Move",
+    "name": "bouncybubble",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Branch Poke",
+    "indicator": "poke",
+    "kind": "Move",
+    "name": "branchpoke",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Breaking Swipe",
+    "indicator": "breaking",
+    "kind": "Move",
+    "name": "breakingswipe",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Breaking Swipe",
+    "indicator": "breaking",
+    "kind": "Move",
+    "name": "breakingswipe",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Breaking Swipe",
+    "indicator": "breaking",
+    "kind": "Move",
+    "name": "breakingswipe",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Brick Break",
+    "indicator": "break",
+    "kind": "Move",
+    "name": "brickbreak",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Brick Break",
+    "indicator": "break",
+    "kind": "Move",
+    "name": "brickbreak",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Brick Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "brickpiece",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Brick Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "brickpiece",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Brutal Swing",
+    "indicator": "brutal",
+    "kind": "Move",
+    "name": "brutalswing",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Brutal Swing",
+    "indicator": "swing",
+    "kind": "Move",
+    "name": "brutalswing",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Brutal Swing",
+    "indicator": "swing",
+    "kind": "Move",
+    "name": "brutalswing",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Bullet Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "bulletpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Burning Bulwark",
+    "indicator": "burning",
+    "kind": "Move",
+    "name": "burningbulwark",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Burning Jealousy",
+    "indicator": "burning",
+    "kind": "Move",
+    "name": "burningjealousy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cake-Lure Base",
+    "indicator": "base",
+    "kind": "Item",
+    "name": "cakelurebase",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cal",
+    "indicator": "cal",
+    "kind": "Character",
+    "name": "cal",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Captivate",
+    "indicator": "captivate",
+    "kind": "Move",
+    "name": "captivate",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Catching Charm",
+    "indicator": "catching",
+    "kind": "Item",
+    "name": "catchingcharm",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Catching Charm",
+    "indicator": "catching",
+    "kind": "Item",
+    "name": "catchingcharm",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Catching Charm",
+    "indicator": "catching",
+    "kind": "Item",
+    "name": "catchingcharm",
+    "wordplay": "Homophone"
+  },
+  {
+    "display": "Catching Charm",
+    "indicator": "catching",
+    "kind": "Item",
+    "name": "catchingcharm",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Cheese",
+    "indicator": "cheese",
+    "kind": "Item",
+    "name": "cheese",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Cherished Ring",
+    "indicator": "cherished",
+    "kind": "Item",
+    "name": "cherishedring",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Cherished Ring",
+    "indicator": "ring",
+    "kind": "Item",
+    "name": "cherishedring",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Chili Sauce",
+    "indicator": "sauce",
+    "kind": "Item",
+    "name": "chilisauce",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Chip Away",
+    "indicator": "away",
+    "kind": "Move",
+    "name": "chipaway",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Chip Away",
+    "indicator": "away",
+    "kind": "Move",
+    "name": "chipaway",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Chipped Pot",
+    "indicator": "chipped",
+    "kind": "Item",
+    "name": "chippedpot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Chris",
+    "indicator": "chris",
+    "kind": "Character",
+    "name": "chris",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Chris Honor",
+    "indicator": "chris",
+    "kind": "Character",
+    "name": "chrishonor",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Circle Throw",
+    "indicator": "circle",
+    "kind": "Move",
+    "name": "circlethrow",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Circle Throw",
+    "indicator": "throw",
+    "kind": "Move",
+    "name": "circlethrow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Clear Amulet",
+    "indicator": "clear",
+    "kind": "Item",
+    "name": "clearamulet",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Clear Bell",
+    "indicator": "clear",
+    "kind": "Item",
+    "name": "clearbell",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Clear Body",
+    "indicator": "clear",
+    "kind": "Ability",
+    "name": "clearbody",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Clear Smog",
+    "indicator": "clear",
+    "kind": "Move",
+    "name": "clearsmog",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Club Look-See",
+    "indicator": "club",
+    "kind": "Character",
+    "name": "clublooksee",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cobalion Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "cobaliontreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Coconut Milk",
+    "indicator": "milk",
+    "kind": "Item",
+    "name": "coconutmilk",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Coin Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "coincase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Coin Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "coincase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Cologne Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "colognecase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Cologne Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "colognecase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Color Change",
+    "indicator": "change",
+    "kind": "Ability",
+    "name": "colorchange",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Colorful Screw",
+    "indicator": "screw",
+    "kind": "Item",
+    "name": "colorfulscrew",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Colress Machine",
+    "indicator": "machine",
+    "kind": "Item",
+    "name": "colressmachine",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Comet Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "cometpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Comeuppance",
+    "indicator": "comeuppance",
+    "kind": "Move",
+    "name": "comeuppance",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Compound Eyes",
+    "indicator": "compound",
+    "kind": "Ability",
+    "name": "compoundeyes",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Confuse Ray",
+    "indicator": "confuse",
+    "kind": "Move",
+    "name": "confuseray",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Confusion",
+    "indicator": "confusion",
+    "kind": "Move",
+    "name": "confusion",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Continental Crush",
+    "indicator": "crush",
+    "kind": "Move",
+    "name": "continentalcrush",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Contrary",
+    "indicator": "contrary",
+    "kind": "Ability",
+    "name": "contrary",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Contrary",
+    "indicator": "contrary",
+    "kind": "Ability",
+    "name": "contrary",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Conversion",
+    "indicator": "conversion",
+    "kind": "Move",
+    "name": "conversion",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Conversion 2",
+    "indicator": "conversion",
+    "kind": "Move",
+    "name": "conversion2",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Core Enforcer",
+    "indicator": "core",
+    "kind": "Move",
+    "name": "coreenforcer",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Core Enforcer",
+    "indicator": "core",
+    "kind": "Move",
+    "name": "coreenforcer",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Corkscrew Crash",
+    "indicator": "crash",
+    "kind": "Move",
+    "name": "corkscrewcrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cotton Down",
+    "indicator": "down",
+    "kind": "Ability",
+    "name": "cottondown",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Cotton Guard",
+    "indicator": "guard",
+    "kind": "Move",
+    "name": "cottonguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Counter",
+    "indicator": "counter",
+    "kind": "Move",
+    "name": "counter",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Court Change",
+    "indicator": "change",
+    "kind": "Move",
+    "name": "courtchange",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cover Fossil",
+    "indicator": "cover",
+    "kind": "Item",
+    "name": "coverfossil",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Cover Fossil",
+    "indicator": "cover",
+    "kind": "Item",
+    "name": "coverfossil",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Cracked Pot",
+    "indicator": "cracked",
+    "kind": "Item",
+    "name": "crackedpot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cracked Pot",
+    "indicator": "cracked",
+    "kind": "Item",
+    "name": "crackedpot",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Crafty Shield",
+    "indicator": "crafty",
+    "kind": "Move",
+    "name": "craftyshield",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cream Cheese",
+    "indicator": "cheese",
+    "kind": "Item",
+    "name": "creamcheese",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Cross Chop",
+    "indicator": "cross",
+    "kind": "Move",
+    "name": "crosschop",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cross Chop",
+    "indicator": "cross",
+    "kind": "Move",
+    "name": "crosschop",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Cross Poison",
+    "indicator": "cross",
+    "kind": "Move",
+    "name": "crosspoison",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cross Poison",
+    "indicator": "cross",
+    "kind": "Move",
+    "name": "crosspoison",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Crunchy Salt",
+    "indicator": "crunchy",
+    "kind": "Item",
+    "name": "crunchysalt",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Crush Claw",
+    "indicator": "crush",
+    "kind": "Move",
+    "name": "crushclaw",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Crush Grip",
+    "indicator": "crush",
+    "kind": "Move",
+    "name": "crushgrip",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Crush Grip",
+    "indicator": "grip",
+    "kind": "Move",
+    "name": "crushgrip",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Cud Chew",
+    "indicator": "chew",
+    "kind": "Ability",
+    "name": "cudchew",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Curious Medicine",
+    "indicator": "curious",
+    "kind": "Ability",
+    "name": "curiousmedicine",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Curse",
+    "indicator": "curse",
+    "kind": "Move",
+    "name": "curse",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "cut",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "cut",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "cut",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "cut",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Damp Rock",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "damprock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Deep Sea Scale",
+    "indicator": "deep",
+    "kind": "Item",
+    "name": "deepseascale",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Deep Sea Tooth",
+    "indicator": "deep",
+    "kind": "Item",
+    "name": "deepseatooth",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Defend Order",
+    "indicator": "defend",
+    "kind": "Move",
+    "name": "defendorder",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Defend Order",
+    "indicator": "order",
+    "kind": "Move",
+    "name": "defendorder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Desolate Land",
+    "indicator": "land",
+    "kind": "Ability",
+    "name": "desolateland",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Destiny Knot",
+    "indicator": "knot",
+    "kind": "Item",
+    "name": "destinyknot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Devastating Drake",
+    "indicator": "devastating",
+    "kind": "Move",
+    "name": "devastatingdrake",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Devon Parts",
+    "indicator": "parts",
+    "kind": "Item",
+    "name": "devonparts",
+    "wordplay": "Alternation"
+  },
+  {
+    "display": "Devon Parts",
+    "indicator": "parts",
+    "kind": "Item",
+    "name": "devonparts",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Devon Parts",
+    "indicator": "parts",
+    "kind": "Item",
+    "name": "devonparts",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Devon Parts",
+    "indicator": "parts",
+    "kind": "Item",
+    "name": "devonparts",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Diamond Pattern Cup",
+    "indicator": "pattern",
+    "kind": "Item",
+    "name": "diamondpatterncup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Diamond Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "diamondstorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dire Claw",
+    "indicator": "dire",
+    "kind": "Move",
+    "name": "direclaw",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dire Hit",
+    "indicator": "dire",
+    "kind": "Item",
+    "name": "direhit",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dire Hit",
+    "indicator": "hit",
+    "kind": "Item",
+    "name": "direhit",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dirty Scarf",
+    "indicator": "dirty",
+    "kind": "Item",
+    "name": "dirtyscarf",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Disc Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "disccase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Disc Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "disccase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Discount Coupon",
+    "indicator": "discount",
+    "kind": "Item",
+    "name": "discountcoupon",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Disguise",
+    "indicator": "disguise",
+    "kind": "Ability",
+    "name": "disguise",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Disguise",
+    "indicator": "disguise",
+    "kind": "Ability",
+    "name": "disguise",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Disguise",
+    "indicator": "disguise",
+    "kind": "Ability",
+    "name": "disguise",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Distortion Slate",
+    "indicator": "distortion",
+    "kind": "Item",
+    "name": "distortionslate",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dizzy Punch",
+    "indicator": "dizzy",
+    "kind": "Move",
+    "name": "dizzypunch",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dizzy Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "dizzypunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "DNA Sample",
+    "indicator": "sample",
+    "kind": "Item",
+    "name": "dnasample",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Dock",
+    "indicator": "dock",
+    "kind": "Character",
+    "name": "dock",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Double Hit",
+    "indicator": "hit",
+    "kind": "Move",
+    "name": "doublehit",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Double Iron Bash",
+    "indicator": "bash",
+    "kind": "Move",
+    "name": "doubleironbash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Double Shock",
+    "indicator": "shock",
+    "kind": "Move",
+    "name": "doubleshock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Down St. Key",
+    "indicator": "down",
+    "kind": "Item",
+    "name": "downstkey",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Dowsing Machine",
+    "indicator": "machine",
+    "kind": "Item",
+    "name": "dowsingmachine",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dragon Ascent",
+    "indicator": "ascent",
+    "kind": "Move",
+    "name": "dragonascent",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Dragon Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "dragondance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dragon Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "dragondance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Dragon Rage",
+    "indicator": "rage",
+    "kind": "Move",
+    "name": "dragonrage",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Drain Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "drainpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Drill Run",
+    "indicator": "run",
+    "kind": "Move",
+    "name": "drillrun",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dropped Item",
+    "indicator": "dropped",
+    "kind": "Item",
+    "name": "droppeditem",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Dropped Item",
+    "indicator": "dropped",
+    "kind": "Item",
+    "name": "droppeditem",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Dropped Item",
+    "indicator": "item",
+    "kind": "Item",
+    "name": "droppeditem",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Drum Beating",
+    "indicator": "beating",
+    "kind": "Move",
+    "name": "drumbeating",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "DS Sounds",
+    "indicator": "sounds",
+    "kind": "Item",
+    "name": "dssounds",
+    "wordplay": "Homophone"
+  },
+  {
+    "display": "Dubious Disc",
+    "indicator": "dubious",
+    "kind": "Item",
+    "name": "dubiousdisc",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dynamic Punch",
+    "indicator": "dynamic",
+    "kind": "Move",
+    "name": "dynamicpunch",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Dynamic Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "dynamicpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Echoed Voice",
+    "indicator": "echoed",
+    "kind": "Move",
+    "name": "echoedvoice",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Egg Bomb",
+    "indicator": "bomb",
+    "kind": "Move",
+    "name": "eggbomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Eject Pack",
+    "indicator": "pack",
+    "kind": "Item",
+    "name": "ejectpack",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Eject Pack",
+    "indicator": "pack",
+    "kind": "Item",
+    "name": "ejectpack",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Electric Gem",
+    "indicator": "electric",
+    "kind": "Item",
+    "name": "electricgem",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electric Memory",
+    "indicator": "electric",
+    "kind": "Item",
+    "name": "electricmemory",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electric Seed",
+    "indicator": "electric",
+    "kind": "Item",
+    "name": "electricseed",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electric Surge",
+    "indicator": "electric",
+    "kind": "Ability",
+    "name": "electricsurge",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electric Tera Shard",
+    "indicator": "electric",
+    "kind": "Item",
+    "name": "electricterashard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electric Terrain",
+    "indicator": "electric",
+    "kind": "Move",
+    "name": "electricterrain",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electro Drift",
+    "indicator": "drift",
+    "kind": "Move",
+    "name": "electrodrift",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electro Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "electroshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Electro Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "electroshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Embody Aspect",
+    "indicator": "aspect",
+    "kind": "Ability",
+    "name": "embodyaspect",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Enigmatic Card",
+    "indicator": "enigmatic",
+    "kind": "Item",
+    "name": "enigmaticcard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Entei Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "enteitreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Eruption",
+    "indicator": "eruption",
+    "kind": "Move",
+    "name": "eruption",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Excite Scent",
+    "indicator": "excite",
+    "kind": "Item",
+    "name": "excitescent",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Exercise Ball",
+    "indicator": "exercise",
+    "kind": "Item",
+    "name": "exerciseball",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Expanding Force",
+    "indicator": "expanding",
+    "kind": "Move",
+    "name": "expandingforce",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Expanding Force",
+    "indicator": "force",
+    "kind": "Move",
+    "name": "expandingforce",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Expert Belt",
+    "indicator": "belt",
+    "kind": "Item",
+    "name": "expertbelt",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Explosion",
+    "indicator": "explosion",
+    "kind": "Move",
+    "name": "explosion",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fairy Wind",
+    "indicator": "wind",
+    "kind": "Move",
+    "name": "fairywind",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fake Out",
+    "indicator": "fake",
+    "kind": "Move",
+    "name": "fakeout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fake Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "fakeout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fake Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "fakeout",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Fake Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "fakeout",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fake Tears",
+    "indicator": "fake",
+    "kind": "Move",
+    "name": "faketears",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fake Tears",
+    "indicator": "tears",
+    "kind": "Move",
+    "name": "faketears",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fake Tears",
+    "indicator": "tears",
+    "kind": "Move",
+    "name": "faketears",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "False Surrender",
+    "indicator": "false",
+    "kind": "Move",
+    "name": "falsesurrender",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "False Swipe",
+    "indicator": "false",
+    "kind": "Move",
+    "name": "falseswipe",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fancy Apple",
+    "indicator": "fancy",
+    "kind": "Item",
+    "name": "fancyapple",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fashion Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "fashioncase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Fashion Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "fashioncase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Fashion Case",
+    "indicator": "fashion",
+    "kind": "Item",
+    "name": "fashioncase",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Feather Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "featherdance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Feather Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "featherdance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Feint Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "feintattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fickle Beam",
+    "indicator": "fickle",
+    "kind": "Move",
+    "name": "ficklebeam",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fiery Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "fierydance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fiery Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "fierydance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Fiery Dance",
+    "indicator": "fiery",
+    "kind": "Move",
+    "name": "fierydance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fiery Pick",
+    "indicator": "fiery",
+    "kind": "Item",
+    "name": "fierypick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fiery Wrath",
+    "indicator": "fiery",
+    "kind": "Move",
+    "name": "fierywrath",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fighting Gem",
+    "indicator": "fighting",
+    "kind": "Item",
+    "name": "fightinggem",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fighting Memory",
+    "indicator": "fighting",
+    "kind": "Item",
+    "name": "fightingmemory",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fighting Tera Shard",
+    "indicator": "fighting",
+    "kind": "Item",
+    "name": "fightingterashard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fillet Away",
+    "indicator": "away",
+    "kind": "Move",
+    "name": "filletaway",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fillet Away",
+    "indicator": "away",
+    "kind": "Move",
+    "name": "filletaway",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fine Remedy",
+    "indicator": "remedy",
+    "kind": "Item",
+    "name": "fineremedy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fire Blast",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "fireblast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fire Blast",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "fireblast",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Fang",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "firefang",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Gem",
+    "indicator": "fire",
+    "kind": "Item",
+    "name": "firegem",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Lash",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "firelash",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Mane",
+    "indicator": "fire",
+    "kind": "Ability",
+    "name": "firemane",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Memory",
+    "indicator": "fire",
+    "kind": "Item",
+    "name": "firememory",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Pattern Cup",
+    "indicator": "fire",
+    "kind": "Item",
+    "name": "firepatterncup",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Pattern Cup",
+    "indicator": "pattern",
+    "kind": "Item",
+    "name": "firepatterncup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fire Pledge",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "firepledge",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Punch",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "firepunch",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "firepunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Fire Spin",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "firespin",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Spin",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "firespin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fire Spin",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "firespin",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Fire Stone",
+    "indicator": "fire",
+    "kind": "Item",
+    "name": "firestone",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Fire Tera Shard",
+    "indicator": "fire",
+    "kind": "Item",
+    "name": "fireterashard",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Flame Burst",
+    "indicator": "burst",
+    "kind": "Move",
+    "name": "flameburst",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flash",
+    "indicator": "flash",
+    "kind": "Move",
+    "name": "flash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flash Cannon",
+    "indicator": "flash",
+    "kind": "Move",
+    "name": "flashcannon",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flash Fire",
+    "indicator": "fire",
+    "kind": "Ability",
+    "name": "flashfire",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Flash Fire",
+    "indicator": "flash",
+    "kind": "Ability",
+    "name": "flashfire",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flip Turn",
+    "indicator": "flip",
+    "kind": "Move",
+    "name": "flipturn",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Flip Turn",
+    "indicator": "turn",
+    "kind": "Move",
+    "name": "flipturn",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flip Turn",
+    "indicator": "turn",
+    "kind": "Move",
+    "name": "flipturn",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Floral Healing",
+    "indicator": "healing",
+    "kind": "Move",
+    "name": "floralhealing",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flower Pattern Cup",
+    "indicator": "pattern",
+    "kind": "Item",
+    "name": "flowerpatterncup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fluffy",
+    "indicator": "fluffy",
+    "kind": "Ability",
+    "name": "fluffy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fluffy Tail",
+    "indicator": "fluffy",
+    "kind": "Item",
+    "name": "fluffytail",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flutter Mane",
+    "indicator": "flutter",
+    "kind": "Pok\u00e9mon",
+    "name": "fluttermane",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fly",
+    "indicator": "fly",
+    "kind": "Move",
+    "name": "fly",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flying Gem",
+    "indicator": "flying",
+    "kind": "Item",
+    "name": "flyinggem",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flying Memory",
+    "indicator": "flying",
+    "kind": "Item",
+    "name": "flyingmemory",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flying Press",
+    "indicator": "flying",
+    "kind": "Move",
+    "name": "flyingpress",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Flying Tera Shard",
+    "indicator": "flying",
+    "kind": "Item",
+    "name": "flyingterashard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Focus Blast",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "focusblast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Focus Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "focuspunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Force Palm",
+    "indicator": "force",
+    "kind": "Move",
+    "name": "forcepalm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Forest's Curse",
+    "indicator": "curse",
+    "kind": "Move",
+    "name": "forestscurse",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Foul Play",
+    "indicator": "foul",
+    "kind": "Move",
+    "name": "foulplay",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Foul Play",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "foulplay",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Foul Play",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "foulplay",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Freeze Shock",
+    "indicator": "shock",
+    "kind": "Move",
+    "name": "freezeshock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Frenzy Plant",
+    "indicator": "frenzy",
+    "kind": "Move",
+    "name": "frenzyplant",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fresh Cream",
+    "indicator": "fresh",
+    "kind": "Item",
+    "name": "freshcream",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fresh Water",
+    "indicator": "fresh",
+    "kind": "Item",
+    "name": "freshwater",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fried Fillet",
+    "indicator": "fried",
+    "kind": "Item",
+    "name": "friedfillet",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fried Food",
+    "indicator": "fried",
+    "kind": "Item",
+    "name": "friedfood",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Friend Guard",
+    "indicator": "guard",
+    "kind": "Ability",
+    "name": "friendguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Full Restore",
+    "indicator": "restore",
+    "kind": "Item",
+    "name": "fullrestore",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fury Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "furyattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fusion Bolt",
+    "indicator": "fusion",
+    "kind": "Move",
+    "name": "fusionbolt",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fusion Flare",
+    "indicator": "fusion",
+    "kind": "Move",
+    "name": "fusionflare",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Gale Wings",
+    "indicator": "wings",
+    "kind": "Ability",
+    "name": "galewings",
+    "wordplay": "Container"
+  },
+  {
+    "display": "GB Sounds",
+    "indicator": "sounds",
+    "kind": "Item",
+    "name": "gbsounds",
+    "wordplay": "Homophone"
+  },
+  {
+    "display": "Gear Grind",
+    "indicator": "grind",
+    "kind": "Move",
+    "name": "geargrind",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Glastrier Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "glastriertreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "G-Max Chi Strike",
+    "indicator": "strike",
+    "kind": "Move",
+    "name": "gmaxchistrike",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "G-Max Cuddle",
+    "indicator": "cuddle",
+    "kind": "Move",
+    "name": "gmaxcuddle",
+    "wordplay": "Container"
+  },
+  {
+    "display": "G-Max Foam Burst",
+    "indicator": "burst",
+    "kind": "Move",
+    "name": "gmaxfoamburst",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "G-Max One Blow",
+    "indicator": "blow",
+    "kind": "Move",
+    "name": "gmaxoneblow",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "G-Max Rapid Flow",
+    "indicator": "flow",
+    "kind": "Move",
+    "name": "gmaxrapidflow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "G-Max Stun Shock",
+    "indicator": "shock",
+    "kind": "Move",
+    "name": "gmaxstunshock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "G-Max Terror",
+    "indicator": "terror",
+    "kind": "Move",
+    "name": "gmaxterror",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "G-Max Volt Crash",
+    "indicator": "crash",
+    "kind": "Move",
+    "name": "gmaxvoltcrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "G-Max Wind Rage",
+    "indicator": "rage",
+    "kind": "Move",
+    "name": "gmaxwindrage",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "G-Max Wind Rage",
+    "indicator": "wind",
+    "kind": "Move",
+    "name": "gmaxwindrage",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Gooey",
+    "indicator": "gooey",
+    "kind": "Ability",
+    "name": "gooey",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Gooey Mulch",
+    "indicator": "gooey",
+    "kind": "Item",
+    "name": "gooeymulch",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Gorgeous Box",
+    "indicator": "box",
+    "kind": "Item",
+    "name": "gorgeousbox",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Gouging Fire",
+    "indicator": "fire",
+    "kind": "Pok\u00e9mon",
+    "name": "gougingfire",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Grass Knot",
+    "indicator": "knot",
+    "kind": "Move",
+    "name": "grassknot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Green Bell Pepper",
+    "indicator": "pepper",
+    "kind": "Item",
+    "name": "greenbellpepper",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Green Dish",
+    "indicator": "dish",
+    "kind": "Item",
+    "name": "greendish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Grip Claw",
+    "indicator": "grip",
+    "kind": "Item",
+    "name": "gripclaw",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Griseous Core",
+    "indicator": "core",
+    "kind": "Item",
+    "name": "griseouscore",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Griseous Core",
+    "indicator": "core",
+    "kind": "Item",
+    "name": "griseouscore",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Grit Rock",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "gritrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Groudon Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "groudontreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ground Gem",
+    "indicator": "ground",
+    "kind": "Item",
+    "name": "groundgem",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ground Memory",
+    "indicator": "ground",
+    "kind": "Item",
+    "name": "groundmemory",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ground Tera Shard",
+    "indicator": "ground",
+    "kind": "Item",
+    "name": "groundterashard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Guard Dog",
+    "indicator": "guard",
+    "kind": "Ability",
+    "name": "guarddog",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Guard Spec.",
+    "indicator": "guard",
+    "kind": "Item",
+    "name": "guardspec",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Guard Split",
+    "indicator": "guard",
+    "kind": "Move",
+    "name": "guardsplit",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Guard Split",
+    "indicator": "split",
+    "kind": "Move",
+    "name": "guardsplit",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Guard Split",
+    "indicator": "split",
+    "kind": "Move",
+    "name": "guardsplit",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Guard Swap",
+    "indicator": "guard",
+    "kind": "Move",
+    "name": "guardswap",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Guard Swap",
+    "indicator": "swap",
+    "kind": "Move",
+    "name": "guardswap",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Guillotine",
+    "indicator": "guillotine",
+    "kind": "Move",
+    "name": "guillotine",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Gunk Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "gunkshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Gunk Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "gunkshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Guts",
+    "indicator": "guts",
+    "kind": "Ability",
+    "name": "guts",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Gym guide",
+    "indicator": "guide",
+    "kind": "Character",
+    "name": "gymguide",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ham",
+    "indicator": "ham",
+    "kind": "Item",
+    "name": "ham",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Happy Hour",
+    "indicator": "happy",
+    "kind": "Move",
+    "name": "happyhour",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Harry Goodman",
+    "indicator": "harry",
+    "kind": "Character",
+    "name": "harrygoodman",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Head Smash",
+    "indicator": "smash",
+    "kind": "Move",
+    "name": "headsmash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Heal Block",
+    "indicator": "block",
+    "kind": "Move",
+    "name": "healblock",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Healing Wish",
+    "indicator": "healing",
+    "kind": "Move",
+    "name": "healingwish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Heal Order",
+    "indicator": "order",
+    "kind": "Move",
+    "name": "healorder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Heart Swap",
+    "indicator": "swap",
+    "kind": "Move",
+    "name": "heartswap",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Hearty Grains",
+    "indicator": "hearty",
+    "kind": "Item",
+    "name": "heartygrains",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Heat Crash",
+    "indicator": "crash",
+    "kind": "Move",
+    "name": "heatcrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Heat Rock",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "heatrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Heat Wave",
+    "indicator": "wave",
+    "kind": "Move",
+    "name": "heatwave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Hidden Power",
+    "indicator": "hidden",
+    "kind": "Move",
+    "name": "Hiddenpower",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Hidden Power",
+    "indicator": "hidden",
+    "kind": "Move",
+    "name": "Hiddenpower",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Hidden Power",
+    "indicator": "hidden",
+    "kind": "Move",
+    "name": "Hiddenpower",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "High Horsepower",
+    "indicator": "high",
+    "kind": "Move",
+    "name": "highhorsepower",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "High Jump Kick",
+    "indicator": "high",
+    "kind": "Move",
+    "name": "highjumpkick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "High Jump Kick",
+    "indicator": "jump",
+    "kind": "Move",
+    "name": "highjumpkick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Hold Back",
+    "indicator": "back",
+    "kind": "Move",
+    "name": "holdback",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Hold Back",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "holdback",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Hold Back",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "holdback",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Hold Back",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "holdback",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Hold Back",
+    "indicator": "hold back",
+    "kind": "Move",
+    "name": "holdback",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Hold Hands",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "holdhands",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Hold Hands",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "holdhands",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Hold Hands",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "holdhands",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Honey Gather",
+    "indicator": "gather",
+    "kind": "Ability",
+    "name": "honeygather",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Honey Gather",
+    "indicator": "gather",
+    "kind": "Ability",
+    "name": "honeygather",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Ho-Oh Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "hoohtreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Horn Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "hornattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Hunger Switch",
+    "indicator": "switch",
+    "kind": "Ability",
+    "name": "hungerswitch",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Hunger Switch",
+    "indicator": "switch",
+    "kind": "Ability",
+    "name": "hungerswitch",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Hurricane",
+    "indicator": "hurricane",
+    "kind": "Move",
+    "name": "hurricane",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ice Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "icepunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Icicle Crash",
+    "indicator": "crash",
+    "kind": "Move",
+    "name": "iciclecrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Icy Rock",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "icyrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Icy Wind",
+    "indicator": "wind",
+    "kind": "Move",
+    "name": "icywind",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Illusion",
+    "indicator": "illusion",
+    "kind": "Ability",
+    "name": "illusion",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Imprison",
+    "indicator": "imprison",
+    "kind": "Move",
+    "name": "imprison",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Indigo Style Card",
+    "indicator": "style",
+    "kind": "Item",
+    "name": "indigostylecard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Infernal Parade",
+    "indicator": "parade",
+    "kind": "Move",
+    "name": "infernalparade",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Innards Out",
+    "indicator": "innards",
+    "kind": "Ability",
+    "name": "innardsout",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Innards Out",
+    "indicator": "out",
+    "kind": "Ability",
+    "name": "innardsout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Innards Out",
+    "indicator": "out",
+    "kind": "Ability",
+    "name": "innardsout",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Innards Out",
+    "indicator": "out",
+    "kind": "Ability",
+    "name": "innardsout",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Inner Focus",
+    "indicator": "inner",
+    "kind": "Ability",
+    "name": "innerfocus",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Instant Noodles",
+    "indicator": "noodles",
+    "kind": "Item",
+    "name": "instantnoodles",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Intriguing Stone",
+    "indicator": "intriguing",
+    "kind": "Item",
+    "name": "intriguingstone",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Iron Bundle",
+    "indicator": "bundle",
+    "kind": "Pok\u00e9mon",
+    "name": "ironbundle",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Iron Chunk",
+    "indicator": "chunk",
+    "kind": "Item",
+    "name": "ironchunk",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Iron Leaves",
+    "indicator": "leaves",
+    "kind": "Pok\u00e9mon",
+    "name": "ironleaves",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Item Printer",
+    "indicator": "item",
+    "kind": "Character",
+    "name": "itemprinter",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Jam",
+    "indicator": "jam",
+    "kind": "Item",
+    "name": "jam",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Jet Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "jetpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Jump Kick",
+    "indicator": "jump",
+    "kind": "Move",
+    "name": "jumpkick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Jungle Healing",
+    "indicator": "healing",
+    "kind": "Move",
+    "name": "junglehealing",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "King's Rock",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "kingsrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Knock Off",
+    "indicator": "off",
+    "kind": "Move",
+    "name": "knockoff",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Knock Off",
+    "indicator": "off",
+    "kind": "Move",
+    "name": "knockoff",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Kubfu Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "kubfutreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Kyogre Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "kyogretreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Kyurem Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "kyuremtreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lagging Tail",
+    "indicator": "lagging",
+    "kind": "Item",
+    "name": "laggingtail",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Larry Turner",
+    "indicator": "turner",
+    "kind": "Character",
+    "name": "larryturner",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lash Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "lashout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lash Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "lashout",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Lash Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "lashout",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Last Resort",
+    "indicator": "resort",
+    "kind": "Move",
+    "name": "lastresort",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Latias Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "latiastreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Latios Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "latiostreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lax Incense",
+    "indicator": "lax",
+    "kind": "Item",
+    "name": "laxincense",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lax Mint",
+    "indicator": "lax",
+    "kind": "Item",
+    "name": "laxmint",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Leaf Guard",
+    "indicator": "guard",
+    "kind": "Ability",
+    "name": "leafguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Leaf Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "leafstorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Left Pok\u00e9 Ball",
+    "indicator": "left",
+    "kind": "Item",
+    "name": "leftpokeball",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Left Pok\u00e9 Ball",
+    "indicator": "left",
+    "kind": "Item",
+    "name": "leftpokeball",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Lens Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "lenscase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Lens Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "lenscase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Li",
+    "indicator": "li",
+    "kind": "Character",
+    "name": "li",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Lida's Things",
+    "indicator": "things",
+    "kind": "Item",
+    "name": "lidasthings",
+    "wordplay": "Alternation"
+  },
+  {
+    "display": "Lift Key",
+    "indicator": "lift",
+    "kind": "Item",
+    "name": "liftkey",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Light of Ruin",
+    "indicator": "ruin",
+    "kind": "Move",
+    "name": "lightofruin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Light That Burns the Sky",
+    "indicator": "burns",
+    "kind": "Move",
+    "name": "lightthatburnsthesky",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Linking Cord",
+    "indicator": "linking",
+    "kind": "Item",
+    "name": "linkingcord",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Liquid Ooze",
+    "indicator": "liquid",
+    "kind": "Ability",
+    "name": "liquidooze",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Liquid Voice",
+    "indicator": "liquid",
+    "kind": "Ability",
+    "name": "liquidvoice",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Loaded Dice",
+    "indicator": "loaded",
+    "kind": "Item",
+    "name": "loadeddice",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Loaded Dice",
+    "indicator": "loaded",
+    "kind": "Item",
+    "name": "loadeddice",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Loot Sack",
+    "indicator": "sack",
+    "kind": "Item",
+    "name": "lootsack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Item",
+    "indicator": "item",
+    "kind": "Item",
+    "name": "lostitem",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Lost Item",
+    "indicator": "lost",
+    "kind": "Item",
+    "name": "lostitem",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Item",
+    "indicator": "lost",
+    "kind": "Item",
+    "name": "lostitem",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Lost Pok\u00e9 Ball collector",
+    "indicator": "lost",
+    "kind": "Character",
+    "name": "lostpokeballcollector",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Pok\u00e9 Ball collector",
+    "indicator": "lost",
+    "kind": "Character",
+    "name": "lostpokeballcollector",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Lost Satchel",
+    "indicator": "lost",
+    "kind": "Item",
+    "name": "lostsatchel",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Satchel",
+    "indicator": "lost",
+    "kind": "Item",
+    "name": "lostsatchel",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Lucky Punch",
+    "indicator": "punch",
+    "kind": "Item",
+    "name": "luckypunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Lugia Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "lugiatreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lumina Crash",
+    "indicator": "crash",
+    "kind": "Move",
+    "name": "luminacrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lunala Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "lunalatreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lunar Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "lunardance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lunar Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "lunardance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Machine Part",
+    "indicator": "machine",
+    "kind": "Item",
+    "name": "machinepart",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Machine Part",
+    "indicator": "part",
+    "kind": "Item",
+    "name": "machinepart",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Machine Part",
+    "indicator": "part",
+    "kind": "Item",
+    "name": "machinepart",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Mach Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "machpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Magical Heart Pick",
+    "indicator": "magical",
+    "kind": "Item",
+    "name": "magicalheartpick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magical Leaf",
+    "indicator": "magical",
+    "kind": "Move",
+    "name": "magicalleaf",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magical Star Pick",
+    "indicator": "magical",
+    "kind": "Item",
+    "name": "magicalstarpick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magical Torque",
+    "indicator": "magical",
+    "kind": "Move",
+    "name": "magicaltorque",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magic Bounce",
+    "indicator": "magic",
+    "kind": "Ability",
+    "name": "magicbounce",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magic Coat",
+    "indicator": "magic",
+    "kind": "Move",
+    "name": "magiccoat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magic Guard",
+    "indicator": "guard",
+    "kind": "Ability",
+    "name": "magicguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Magic Guard",
+    "indicator": "magic",
+    "kind": "Ability",
+    "name": "magicguard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magic Powder",
+    "indicator": "magic",
+    "kind": "Move",
+    "name": "magicpowder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magic Room",
+    "indicator": "magic",
+    "kind": "Move",
+    "name": "magicroom",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magma Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "magmastorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magma Suit",
+    "indicator": "suit",
+    "kind": "Item",
+    "name": "magmasuit",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Magnet Bomb",
+    "indicator": "bomb",
+    "kind": "Move",
+    "name": "magnetbomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magnet Rise",
+    "indicator": "rise",
+    "kind": "Move",
+    "name": "magnetrise",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Make It Rain",
+    "indicator": "make",
+    "kind": "Move",
+    "name": "makeitrain",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Make It Rain",
+    "indicator": "make it",
+    "kind": "Move",
+    "name": "makeitrain",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mars",
+    "indicator": "mars",
+    "kind": "Character",
+    "name": "mars",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Marshal",
+    "indicator": "marshal",
+    "kind": "Character",
+    "name": "marshal",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mat Block",
+    "indicator": "block",
+    "kind": "Move",
+    "name": "matblock",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Max Guard",
+    "indicator": "guard",
+    "kind": "Move",
+    "name": "maxguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Max Quake",
+    "indicator": "quake",
+    "kind": "Move",
+    "name": "maxquake",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Max Repel",
+    "indicator": "repel",
+    "kind": "Item",
+    "name": "maxrepel",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Max Revive",
+    "indicator": "revive",
+    "kind": "Item",
+    "name": "maxrevive",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Max Strike",
+    "indicator": "strike",
+    "kind": "Move",
+    "name": "maxstrike",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "May",
+    "indicator": "may",
+    "kind": "Character",
+    "name": "may",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Medal Box",
+    "indicator": "box",
+    "kind": "Item",
+    "name": "medalbox",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Mega Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "megapunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Mega Ring",
+    "indicator": "ring",
+    "kind": "Item",
+    "name": "megaring",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Metal Alloy",
+    "indicator": "alloy",
+    "kind": "Item",
+    "name": "metalalloy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Metal Burst",
+    "indicator": "burst",
+    "kind": "Move",
+    "name": "metalburst",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Metal Sound",
+    "indicator": "sound",
+    "kind": "Move",
+    "name": "metalsound",
+    "wordplay": "Homophone"
+  },
+  {
+    "display": "Meteor Assault",
+    "indicator": "assault",
+    "kind": "Move",
+    "name": "meteorassault",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Meteor Mash",
+    "indicator": "mash",
+    "kind": "Move",
+    "name": "meteormash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Milk Drink",
+    "indicator": "drink",
+    "kind": "Move",
+    "name": "milkdrink",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Milk Drink",
+    "indicator": "drink",
+    "kind": "Move",
+    "name": "milkdrink",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Milk Drink",
+    "indicator": "milk",
+    "kind": "Move",
+    "name": "milkdrink",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mimic",
+    "indicator": "mimic",
+    "kind": "Move",
+    "name": "mimic",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mind Blown",
+    "indicator": "blown",
+    "kind": "Move",
+    "name": "mindblown",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mirror Armor",
+    "indicator": "mirror",
+    "kind": "Ability",
+    "name": "mirrorarmor",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Mirror Coat",
+    "indicator": "mirror",
+    "kind": "Move",
+    "name": "mirrorcoat",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Mirror Herb",
+    "indicator": "mirror",
+    "kind": "Item",
+    "name": "mirrorherb",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Mirror Move",
+    "indicator": "mirror",
+    "kind": "Move",
+    "name": "mirrormove",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Mirror Move",
+    "indicator": "move",
+    "kind": "Move",
+    "name": "mirrormove",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mirror Shot",
+    "indicator": "mirror",
+    "kind": "Move",
+    "name": "mirrorshot",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Mirror Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "mirrorshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mirror Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "mirrorshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Misty Explosion",
+    "indicator": "explosion",
+    "kind": "Move",
+    "name": "mistyexplosion",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mixed Mushrooms",
+    "indicator": "mixed",
+    "kind": "Item",
+    "name": "mixedmushrooms",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mold Breaker",
+    "indicator": "breaker",
+    "kind": "Ability",
+    "name": "moldbreaker",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Moltres Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "moltrestreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Monstrous Chairs",
+    "indicator": "monstrous",
+    "kind": "Item",
+    "name": "monstrouschairs",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Monstrous Tablecloth",
+    "indicator": "monstrous",
+    "kind": "Item",
+    "name": "monstroustablecloth",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Moomoo Cheese",
+    "indicator": "cheese",
+    "kind": "Item",
+    "name": "moomoocheese",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Moomoo Milk",
+    "indicator": "milk",
+    "kind": "Item",
+    "name": "moomoomilk",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mortal Spin",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "mortalspin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mortal Spin",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "mortalspin",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Move Deleter",
+    "indicator": "move",
+    "kind": "Character",
+    "name": "movedeleter",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Move Reminder",
+    "indicator": "move",
+    "kind": "Character",
+    "name": "movereminder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mr. Game",
+    "indicator": "game",
+    "kind": "Character",
+    "name": "mrgame",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mud Bomb",
+    "indicator": "bomb",
+    "kind": "Move",
+    "name": "mudbomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Muddy Water",
+    "indicator": "muddy",
+    "kind": "Move",
+    "name": "muddywater",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mud Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "mudshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mud Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "mudshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Mysterious Balm",
+    "indicator": "mysterious",
+    "kind": "Item",
+    "name": "mysteriousbalm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mysterious Shard L",
+    "indicator": "mysterious",
+    "kind": "Item",
+    "name": "mysteriousshardl",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mysterious Shard S",
+    "indicator": "mysterious",
+    "kind": "Item",
+    "name": "mysteriousshards",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mystery Egg",
+    "indicator": "mystery",
+    "kind": "Item",
+    "name": "mysteryegg",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mystical Fire",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "mysticalfire",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Name Rater",
+    "indicator": "name",
+    "kind": "Character",
+    "name": "namerater",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Nasty Plot",
+    "indicator": "nasty",
+    "kind": "Move",
+    "name": "nastyplot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Nasty Plot",
+    "indicator": "plot",
+    "kind": "Move",
+    "name": "nastyplot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Nature's Madness",
+    "indicator": "madness",
+    "kind": "Move",
+    "name": "naturesmadness",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Naughty Mint",
+    "indicator": "naughty",
+    "kind": "Item",
+    "name": "naughtymint",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Necrozma Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "necrozmatreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Night Slash",
+    "indicator": "slash",
+    "kind": "Move",
+    "name": "nightslash",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "No Guard",
+    "indicator": "guard",
+    "kind": "Ability",
+    "name": "noguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "No Guard",
+    "indicator": "no",
+    "kind": "Ability",
+    "name": "noguard",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Noodles",
+    "indicator": "noodles",
+    "kind": "Item",
+    "name": "noodles",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "No Retreat",
+    "indicator": "no",
+    "kind": "Move",
+    "name": "noretreat",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "No Retreat",
+    "indicator": "retreat",
+    "kind": "Move",
+    "name": "noretreat",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Normal Box",
+    "indicator": "box",
+    "kind": "Item",
+    "name": "normalbox",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Obstruct",
+    "indicator": "obstruct",
+    "kind": "Move",
+    "name": "obstruct",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Odd Incense",
+    "indicator": "odd",
+    "kind": "Item",
+    "name": "oddincense",
+    "wordplay": "Alternation"
+  },
+  {
+    "display": "Odd Incense",
+    "indicator": "odd",
+    "kind": "Item",
+    "name": "oddincense",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Odd Keystone",
+    "indicator": "odd",
+    "kind": "Item",
+    "name": "oddkeystone",
+    "wordplay": "Alternation"
+  },
+  {
+    "display": "Odd Keystone",
+    "indicator": "odd",
+    "kind": "Item",
+    "name": "oddkeystone",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ominous Wind",
+    "indicator": "ominous",
+    "kind": "Move",
+    "name": "ominouswind",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ominous Wind",
+    "indicator": "wind",
+    "kind": "Move",
+    "name": "ominouswind",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Orange Dish",
+    "indicator": "dish",
+    "kind": "Item",
+    "name": "orangedish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Order Up",
+    "indicator": "order",
+    "kind": "Move",
+    "name": "orderup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Origin Ball",
+    "indicator": "origin",
+    "kind": "Item",
+    "name": "originball",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Origin Ore",
+    "indicator": "origin",
+    "kind": "Item",
+    "name": "originore",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Origin Pulse",
+    "indicator": "origin",
+    "kind": "Move",
+    "name": "originpulse",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Packaged Curry",
+    "indicator": "packaged",
+    "kind": "Item",
+    "name": "packagedcurry",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pack of Potatoes",
+    "indicator": "pack",
+    "kind": "Item",
+    "name": "packofpotatoes",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Pack of Potatoes",
+    "indicator": "pack",
+    "kind": "Item",
+    "name": "packofpotatoes",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Pain Split",
+    "indicator": "pain",
+    "kind": "Move",
+    "name": "painsplit",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Pain Split",
+    "indicator": "split",
+    "kind": "Move",
+    "name": "painsplit",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pain Split",
+    "indicator": "split",
+    "kind": "Move",
+    "name": "painsplit",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Parting Shot",
+    "indicator": "parting",
+    "kind": "Move",
+    "name": "partingshot",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Parting Shot",
+    "indicator": "parting",
+    "kind": "Move",
+    "name": "partingshot",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Parting Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "partingshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Parting Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "partingshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Party Sparkler Pick",
+    "indicator": "party",
+    "kind": "Item",
+    "name": "partysparklerpick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pearl String",
+    "indicator": "string",
+    "kind": "Item",
+    "name": "pearlstring",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Peat Block",
+    "indicator": "block",
+    "kind": "Item",
+    "name": "peatblock",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Pepper",
+    "indicator": "pepper",
+    "kind": "Item",
+    "name": "pepper",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Petal Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "petaldance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Petal Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "petaldance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Phantom Force",
+    "indicator": "force",
+    "kind": "Move",
+    "name": "phantomforce",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pickle",
+    "indicator": "pickle",
+    "kind": "Item",
+    "name": "pickle",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Picnic Set",
+    "indicator": "set",
+    "kind": "Item",
+    "name": "picnicset",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Picnic Set",
+    "indicator": "set",
+    "kind": "Item",
+    "name": "picnicset",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Picnic Set",
+    "indicator": "set",
+    "kind": "Item",
+    "name": "picnicset",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Piercing Drill",
+    "indicator": "piercing",
+    "kind": "Ability",
+    "name": "piercingdrill",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Piercing Drill",
+    "indicator": "piercing",
+    "kind": "Ability",
+    "name": "piercingdrill",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Piercing Drill",
+    "indicator": "piercing",
+    "kind": "Ability",
+    "name": "piercingdrill",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Play Nice",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "playnice",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Play Nice",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "playnice",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Play Rough",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "playrough",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Play Rough",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "playrough",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Play Rough",
+    "indicator": "rough",
+    "kind": "Move",
+    "name": "playrough",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Poffin Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "poffincase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Poffin Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "poffincase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Pok\u00e9block Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "pokeblockcase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Pok\u00e9block Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "pokeblockcase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Pok\u00e9mon Box Link",
+    "indicator": "box",
+    "kind": "Item",
+    "name": "pokemonboxlink",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Pok\u00e9 Toy",
+    "indicator": "toy",
+    "kind": "Item",
+    "name": "poketoy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Polished Mud Ball",
+    "indicator": "polished",
+    "kind": "Item",
+    "name": "polishedmudball",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Popping Candy",
+    "indicator": "popping",
+    "kind": "Item",
+    "name": "poppingcandy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Popping Candy",
+    "indicator": "popping",
+    "kind": "Item",
+    "name": "poppingcandy",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Pop Pod",
+    "indicator": "pop",
+    "kind": "Item",
+    "name": "poppod",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pop Roxie",
+    "indicator": "pop",
+    "kind": "Character",
+    "name": "poproxie",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Population Bomb",
+    "indicator": "bomb",
+    "kind": "Move",
+    "name": "populationbomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Potato Salad",
+    "indicator": "salad",
+    "kind": "Item",
+    "name": "potatosalad",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pound",
+    "indicator": "pound",
+    "kind": "Move",
+    "name": "pound",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Powder Jar",
+    "indicator": "jar",
+    "kind": "Item",
+    "name": "powderjar",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Power Belt",
+    "indicator": "belt",
+    "kind": "Item",
+    "name": "powerbelt",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Power Construct",
+    "indicator": "construct",
+    "kind": "Ability",
+    "name": "powerconstruct",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Power Shift",
+    "indicator": "shift",
+    "kind": "Move",
+    "name": "powershift",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Power Split",
+    "indicator": "split",
+    "kind": "Move",
+    "name": "powersplit",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Power Split",
+    "indicator": "split",
+    "kind": "Move",
+    "name": "powersplit",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Power Swap",
+    "indicator": "swap",
+    "kind": "Move",
+    "name": "powerswap",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Power Trip",
+    "indicator": "trip",
+    "kind": "Move",
+    "name": "powertrip",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Powerup Part",
+    "indicator": "part",
+    "kind": "Item",
+    "name": "poweruppart",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Powerup Part",
+    "indicator": "part",
+    "kind": "Item",
+    "name": "poweruppart",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Power-Up Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "poweruppunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Power Whip",
+    "indicator": "whip",
+    "kind": "Move",
+    "name": "powerwhip",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Professor Mirror",
+    "indicator": "mirror",
+    "kind": "Character",
+    "name": "professormirror",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Prop Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "propcase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Prop Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "propcase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Protect",
+    "indicator": "protect",
+    "kind": "Move",
+    "name": "protect",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Protective Pads",
+    "indicator": "protective",
+    "kind": "Item",
+    "name": "protectivepads",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Psychic Noise",
+    "indicator": "noise",
+    "kind": "Move",
+    "name": "psychicnoise",
+    "wordplay": "Homophone"
+  },
+  {
+    "display": "Psycho Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "psychocut",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Psycho Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "psychocut",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Psycho Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "psychocut",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Psycho Cut",
+    "indicator": "cut",
+    "kind": "Move",
+    "name": "psychocut",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Psycho Shift",
+    "indicator": "shift",
+    "kind": "Move",
+    "name": "psychoshift",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Psyshield Bash",
+    "indicator": "bash",
+    "kind": "Move",
+    "name": "psyshieldbash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Punching Glove",
+    "indicator": "punching",
+    "kind": "Item",
+    "name": "punchingglove",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Punching Glove",
+    "indicator": "punching",
+    "kind": "Item",
+    "name": "punchingglove",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Punishment",
+    "indicator": "punishment",
+    "kind": "Move",
+    "name": "punishment",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Punk Rock",
+    "indicator": "punk",
+    "kind": "Ability",
+    "name": "punkrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Punk Rock",
+    "indicator": "rock",
+    "kind": "Ability",
+    "name": "punkrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Quick Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "quickattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Quick Guard",
+    "indicator": "guard",
+    "kind": "Move",
+    "name": "quickguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Quiver Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "quiverdance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Quiver Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "quiverdance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Rage",
+    "indicator": "rage",
+    "kind": "Move",
+    "name": "rage",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rage Candy Bar",
+    "indicator": "bar",
+    "kind": "Item",
+    "name": "ragecandybar",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Rage Candy Bar",
+    "indicator": "bar",
+    "kind": "Item",
+    "name": "ragecandybar",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Rage Candy Bar",
+    "indicator": "rage",
+    "kind": "Item",
+    "name": "ragecandybar",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rage Fist",
+    "indicator": "rage",
+    "kind": "Move",
+    "name": "ragefist",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rage Powder",
+    "indicator": "rage",
+    "kind": "Move",
+    "name": "ragepowder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Raging Bolt",
+    "indicator": "raging",
+    "kind": "Pok\u00e9mon",
+    "name": "ragingbolt",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Raging Bull",
+    "indicator": "raging",
+    "kind": "Move",
+    "name": "ragingbull",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Raging Fury",
+    "indicator": "raging",
+    "kind": "Move",
+    "name": "ragingfury",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Raikou Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "raikoutreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rain Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "raindance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rain Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "raindance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Rain Dish",
+    "indicator": "dish",
+    "kind": "Ability",
+    "name": "raindish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rapid Spin",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "rapidspin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rapid Spin",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "rapidspin",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Rare Bone",
+    "indicator": "rare",
+    "kind": "Item",
+    "name": "rarebone",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rare Candy",
+    "indicator": "rare",
+    "kind": "Item",
+    "name": "rarecandy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rash Mint",
+    "indicator": "rash",
+    "kind": "Item",
+    "name": "rashmint",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rattled",
+    "indicator": "rattled",
+    "kind": "Ability",
+    "name": "rattled",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rayquaza Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "rayquazatreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Razor Wind",
+    "indicator": "wind",
+    "kind": "Move",
+    "name": "razorwind",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Reckless",
+    "indicator": "reckless",
+    "kind": "Ability",
+    "name": "reckless",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Recycle",
+    "indicator": "recycle",
+    "kind": "Move",
+    "name": "recycle",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Red Bell Pepper",
+    "indicator": "pepper",
+    "kind": "Item",
+    "name": "redbellpepper",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Red Dish",
+    "indicator": "dish",
+    "kind": "Item",
+    "name": "reddish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Reflect Type",
+    "indicator": "type",
+    "kind": "Move",
+    "name": "reflecttype",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Relaxed Mint",
+    "indicator": "relaxed",
+    "kind": "Item",
+    "name": "relaxedmint",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Remedy",
+    "indicator": "remedy",
+    "kind": "Item",
+    "name": "remedy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Repel",
+    "indicator": "repel",
+    "kind": "Item",
+    "name": "repel",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Reshiram Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "reshiramtreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Retro Mail",
+    "indicator": "retro",
+    "kind": "Item",
+    "name": "retromail",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Return",
+    "indicator": "return",
+    "kind": "Move",
+    "name": "return",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Reveal Glass",
+    "indicator": "reveal",
+    "kind": "Item",
+    "name": "revealglass",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Revelation Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "revelationdance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Revelation Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "revelationdance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Reversal",
+    "indicator": "reversal",
+    "kind": "Move",
+    "name": "Reversal",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Revival Blessing",
+    "indicator": "revival",
+    "kind": "Move",
+    "name": "revivalblessing",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Revival Herb",
+    "indicator": "revival",
+    "kind": "Item",
+    "name": "revivalherb",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Revive",
+    "indicator": "revive",
+    "kind": "Item",
+    "name": "revive",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rice",
+    "indicator": "rice",
+    "kind": "Item",
+    "name": "rice",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Ring Target",
+    "indicator": "ring",
+    "kind": "Item",
+    "name": "ringtarget",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Rising Voltage",
+    "indicator": "rising",
+    "kind": "Move",
+    "name": "risingvoltage",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Rock Blast",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "rockblast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Blast",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rockblast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Climb",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rockclimb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Gem",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "rockgem",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Head",
+    "indicator": "rock",
+    "kind": "Ability",
+    "name": "rockhead",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Incense",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "rockincense",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Memory",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "rockmemory",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Polish",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rockpolish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Slide",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rockslide",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Slide",
+    "indicator": "slide",
+    "kind": "Move",
+    "name": "rockslide",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Smash",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rocksmash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Smash",
+    "indicator": "smash",
+    "kind": "Move",
+    "name": "rocksmash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Tera Shard",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "rockterashard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Throw",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rockthrow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Throw",
+    "indicator": "throw",
+    "kind": "Move",
+    "name": "rockthrow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Tomb",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rocktomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Wrecker",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "rockwrecker",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rocky Helmet",
+    "indicator": "rocky",
+    "kind": "Item",
+    "name": "rockyhelmet",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rocky Payload",
+    "indicator": "rocky",
+    "kind": "Ability",
+    "name": "rockypayload",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Role Play",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "roleplay",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Role Play",
+    "indicator": "play",
+    "kind": "Move",
+    "name": "roleplay",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Rolling Kick",
+    "indicator": "rolling",
+    "kind": "Move",
+    "name": "rollingkick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rolling Kick",
+    "indicator": "rolling",
+    "kind": "Move",
+    "name": "rollingkick",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Room Service",
+    "indicator": "service",
+    "kind": "Item",
+    "name": "roomservice",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rose",
+    "indicator": "rose",
+    "kind": "Character",
+    "name": "rose",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Rose",
+    "indicator": "rose",
+    "kind": "Character",
+    "name": "rose",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Rose Incense",
+    "indicator": "rose",
+    "kind": "Item",
+    "name": "roseincense",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Rose Incense",
+    "indicator": "rose",
+    "kind": "Item",
+    "name": "roseincense",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Rough Skin",
+    "indicator": "rough",
+    "kind": "Ability",
+    "name": "roughskin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Round",
+    "indicator": "round",
+    "kind": "Move",
+    "name": "round",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Round",
+    "indicator": "round",
+    "kind": "Move",
+    "name": "round",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Round",
+    "indicator": "round",
+    "kind": "Move",
+    "name": "round",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Round",
+    "indicator": "round",
+    "kind": "Move",
+    "name": "round",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Ruination",
+    "indicator": "ruination",
+    "kind": "Move",
+    "name": "ruination",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Run Away",
+    "indicator": "away",
+    "kind": "Ability",
+    "name": "runaway",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Run Away",
+    "indicator": "away",
+    "kind": "Ability",
+    "name": "runaway",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Run Away",
+    "indicator": "run",
+    "kind": "Ability",
+    "name": "runaway",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Running Shoes",
+    "indicator": "running",
+    "kind": "Item",
+    "name": "runningshoes",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sacred Fire",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "sacredfire",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Salad Mix",
+    "indicator": "mix",
+    "kind": "Item",
+    "name": "saladmix",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Salad Mix",
+    "indicator": "salad",
+    "kind": "Item",
+    "name": "saladmix",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sand Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "sandattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sand Force",
+    "indicator": "force",
+    "kind": "Ability",
+    "name": "sandforce",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sandsear Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "sandsearstorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Savage Spin-Out",
+    "indicator": "savage",
+    "kind": "Move",
+    "name": "savagespinout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Scale Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "scaleshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Scale Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "scaleshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Scatter Bang",
+    "indicator": "bang",
+    "kind": "Item",
+    "name": "scatterbang",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Scatter Bang",
+    "indicator": "scatter",
+    "kind": "Item",
+    "name": "scatterbang",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Scrappy",
+    "indicator": "scrappy",
+    "kind": "Ability",
+    "name": "scrappy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Scratch",
+    "indicator": "scratch",
+    "kind": "Move",
+    "name": "scratch",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Scratch",
+    "indicator": "scratch",
+    "kind": "Move",
+    "name": "scratch",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Searing Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "searingshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Searing Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "searingshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Searing Sunraze Smash",
+    "indicator": "smash",
+    "kind": "Move",
+    "name": "searingsunrazesmash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Secret Key",
+    "indicator": "secret",
+    "kind": "Item",
+    "name": "secretkey",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Secret Medicine",
+    "indicator": "secret",
+    "kind": "Item",
+    "name": "secretmedicine",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Secret Power",
+    "indicator": "secret",
+    "kind": "Move",
+    "name": "secretpower",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Secret Sword",
+    "indicator": "secret",
+    "kind": "Move",
+    "name": "secretsword",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Seed Bomb",
+    "indicator": "bomb",
+    "kind": "Move",
+    "name": "seedbomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Blast",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "shadowblast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Break",
+    "indicator": "break",
+    "kind": "Move",
+    "name": "shadowbreak",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Break",
+    "indicator": "break",
+    "kind": "Move",
+    "name": "shadowbreak",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Shadow Down",
+    "indicator": "down",
+    "kind": "Move",
+    "name": "shadowdown",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Shadow Fire",
+    "indicator": "fire",
+    "kind": "Move",
+    "name": "shadowfire",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Shadow Force",
+    "indicator": "force",
+    "kind": "Move",
+    "name": "shadowforce",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Hold",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "shadowhold",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Shadow Hold",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "shadowhold",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Shadow Hold",
+    "indicator": "hold",
+    "kind": "Move",
+    "name": "shadowhold",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Shadow Panic",
+    "indicator": "panic",
+    "kind": "Move",
+    "name": "shadowpanic",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "shadowpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Shadow Rave",
+    "indicator": "rave",
+    "kind": "Move",
+    "name": "shadowrave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Shed",
+    "indicator": "shed",
+    "kind": "Move",
+    "name": "shadowshed",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Shed",
+    "indicator": "shed",
+    "kind": "Move",
+    "name": "shadowshed",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Shadow Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "shadowstorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shadow Wave",
+    "indicator": "wave",
+    "kind": "Move",
+    "name": "shadowwave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shattered Psyche",
+    "indicator": "shattered",
+    "kind": "Move",
+    "name": "shatteredpsyche",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shed Shell",
+    "indicator": "shed",
+    "kind": "Item",
+    "name": "shedshell",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shed Shell",
+    "indicator": "shed",
+    "kind": "Item",
+    "name": "shedshell",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Shed Skin",
+    "indicator": "shed",
+    "kind": "Ability",
+    "name": "shedskin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shed Skin",
+    "indicator": "shed",
+    "kind": "Ability",
+    "name": "shedskin",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Shed Tail",
+    "indicator": "shed",
+    "kind": "Move",
+    "name": "shedtail",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shed Tail",
+    "indicator": "shed",
+    "kind": "Move",
+    "name": "shedtail",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Sheer Force",
+    "indicator": "force",
+    "kind": "Ability",
+    "name": "sheerforce",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shell Smash",
+    "indicator": "smash",
+    "kind": "Move",
+    "name": "shellsmash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shell Trap",
+    "indicator": "trap",
+    "kind": "Move",
+    "name": "shelltrap",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Shields Down",
+    "indicator": "down",
+    "kind": "Ability",
+    "name": "shieldsdown",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Shields Down",
+    "indicator": "shields",
+    "kind": "Ability",
+    "name": "shieldsdown",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Shift Gear",
+    "indicator": "shift",
+    "kind": "Move",
+    "name": "shiftgear",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shock Drive",
+    "indicator": "shock",
+    "kind": "Item",
+    "name": "shockdrive",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shock Wave",
+    "indicator": "shock",
+    "kind": "Move",
+    "name": "shockwave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Shock Wave",
+    "indicator": "wave",
+    "kind": "Move",
+    "name": "shockwave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Silk Trap",
+    "indicator": "trap",
+    "kind": "Move",
+    "name": "silktrap",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Silver Wind",
+    "indicator": "wind",
+    "kind": "Move",
+    "name": "silverwind",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sing",
+    "indicator": "sing",
+    "kind": "Move",
+    "name": "sing",
+    "wordplay": "Homophone"
+  },
+  {
+    "display": "Sizzly Slide",
+    "indicator": "slide",
+    "kind": "Move",
+    "name": "sizzlyslide",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Skill Swap",
+    "indicator": "swap",
+    "kind": "Move",
+    "name": "skillswap",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Skitter Smack",
+    "indicator": "smack",
+    "kind": "Move",
+    "name": "skittersmack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Skull Bash",
+    "indicator": "bash",
+    "kind": "Move",
+    "name": "skullbash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sky Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "skyattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sky Drop",
+    "indicator": "drop",
+    "kind": "Move",
+    "name": "skydrop",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Slack Off",
+    "indicator": "off",
+    "kind": "Move",
+    "name": "slackoff",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Slack Off",
+    "indicator": "off",
+    "kind": "Move",
+    "name": "slackoff",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Slack Off",
+    "indicator": "slack",
+    "kind": "Move",
+    "name": "slackoff",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Slash",
+    "indicator": "slash",
+    "kind": "Move",
+    "name": "slash",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Sludge Bomb",
+    "indicator": "bomb",
+    "kind": "Move",
+    "name": "sludgebomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sludge Wave",
+    "indicator": "wave",
+    "kind": "Move",
+    "name": "sludgewave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Smack Down",
+    "indicator": "down",
+    "kind": "Move",
+    "name": "smackdown",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Smack Down",
+    "indicator": "smack",
+    "kind": "Move",
+    "name": "smackdown",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Smart Strike",
+    "indicator": "strike",
+    "kind": "Move",
+    "name": "smartstrike",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Smoke Bomb",
+    "indicator": "bomb",
+    "kind": "Item",
+    "name": "smokebomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Smooth Rock",
+    "indicator": "rock",
+    "kind": "Item",
+    "name": "smoothrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Snap Trap",
+    "indicator": "trap",
+    "kind": "Move",
+    "name": "snaptrap",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Snipe Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "snipeshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Snipe Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "snipeshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Soda Pop",
+    "indicator": "pop",
+    "kind": "Item",
+    "name": "sodapop",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Solgaleo Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "solgaleotreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Solid Rock",
+    "indicator": "rock",
+    "kind": "Ability",
+    "name": "solidrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Soot Sack",
+    "indicator": "sack",
+    "kind": "Item",
+    "name": "sootsack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Soul-Stealing 7-Star Strike",
+    "indicator": "strike",
+    "kind": "Move",
+    "name": "soulstealing7starstrike",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Sparkling Aria",
+    "indicator": "sparkling",
+    "kind": "Move",
+    "name": "sparklingaria",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sparkling Stone",
+    "indicator": "sparkling",
+    "kind": "Item",
+    "name": "sparklingstone",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spectrier Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "spectriertreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Speed Swap",
+    "indicator": "swap",
+    "kind": "Move",
+    "name": "speedswap",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Spice Mix",
+    "indicator": "mix",
+    "kind": "Item",
+    "name": "spicemix",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spicy Extract",
+    "indicator": "extract",
+    "kind": "Move",
+    "name": "spicyextract",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Spicy Extract",
+    "indicator": "extract",
+    "kind": "Move",
+    "name": "spicyextract",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Spicy Extract",
+    "indicator": "spicy",
+    "kind": "Move",
+    "name": "spicyextract",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spicy Herba Mystica",
+    "indicator": "spicy",
+    "kind": "Item",
+    "name": "spicyherbamystica",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spicy Spray",
+    "indicator": "spicy",
+    "kind": "Ability",
+    "name": "spicyspray",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spicy Spray",
+    "indicator": "spray",
+    "kind": "Ability",
+    "name": "spicyspray",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spikes",
+    "indicator": "spikes",
+    "kind": "Move",
+    "name": "spikes",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Spin Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "spinout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spin Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "spinout",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Spin Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "spinout",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Spin Out",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "spinout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spin Out",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "spinout",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Spin Slash",
+    "indicator": "slash",
+    "kind": "Move",
+    "name": "spinslash",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Spin Slash",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "spinslash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spin Slash",
+    "indicator": "spin",
+    "kind": "Move",
+    "name": "spinslash",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Spirit Break",
+    "indicator": "break",
+    "kind": "Move",
+    "name": "spiritbreak",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spirit Break",
+    "indicator": "break",
+    "kind": "Move",
+    "name": "spiritbreak",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Splash",
+    "indicator": "splash",
+    "kind": "Move",
+    "name": "splash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Splash Plate",
+    "indicator": "splash",
+    "kind": "Item",
+    "name": "splashplate",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Splintered Stormshards",
+    "indicator": "splintered",
+    "kind": "Move",
+    "name": "splinteredstormshards",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Splishy Splash",
+    "indicator": "splash",
+    "kind": "Move",
+    "name": "splishysplash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Spoiled Apricorn",
+    "indicator": "spoiled",
+    "kind": "Item",
+    "name": "spoiledapricorn",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Springtide Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "springtidestorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Stance Change",
+    "indicator": "change",
+    "kind": "Ability",
+    "name": "stancechange",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Star Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "starpiece",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Star Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "starpiece",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Stealth Rock",
+    "indicator": "rock",
+    "kind": "Move",
+    "name": "stealthrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Stealth Spray",
+    "indicator": "spray",
+    "kind": "Item",
+    "name": "stealthspray",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Steam Eruption",
+    "indicator": "eruption",
+    "kind": "Move",
+    "name": "steameruption",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sticker Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "stickercase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Sticker Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "stickercase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Sticky Barb",
+    "indicator": "sticky",
+    "kind": "Item",
+    "name": "stickybarb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sticky Glob",
+    "indicator": "sticky",
+    "kind": "Item",
+    "name": "stickyglob",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sticky Hold",
+    "indicator": "hold",
+    "kind": "Ability",
+    "name": "stickyhold",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Sticky Hold",
+    "indicator": "hold",
+    "kind": "Ability",
+    "name": "stickyhold",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Sticky Hold",
+    "indicator": "hold",
+    "kind": "Ability",
+    "name": "stickyhold",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Sticky Hold",
+    "indicator": "sticky",
+    "kind": "Ability",
+    "name": "stickyhold",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sticky Web",
+    "indicator": "sticky",
+    "kind": "Move",
+    "name": "stickyweb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Stored Power",
+    "indicator": "stored",
+    "kind": "Move",
+    "name": "storedpower",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Stored Power",
+    "indicator": "stored",
+    "kind": "Move",
+    "name": "storedpower",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Stored Power",
+    "indicator": "stored",
+    "kind": "Move",
+    "name": "storedpower",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Storm Drain",
+    "indicator": "storm",
+    "kind": "Ability",
+    "name": "stormdrain",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Storm Throw",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "stormthrow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Storm Throw",
+    "indicator": "throw",
+    "kind": "Move",
+    "name": "stormthrow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Strange Ball",
+    "indicator": "strange",
+    "kind": "Item",
+    "name": "strangeball",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Strange Souvenir",
+    "indicator": "strange",
+    "kind": "Item",
+    "name": "strangesouvenir",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Strange Steam",
+    "indicator": "strange",
+    "kind": "Move",
+    "name": "strangesteam",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Stretchy Spring",
+    "indicator": "stretchy",
+    "kind": "Item",
+    "name": "stretchyspring",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "String Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "stringshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "String Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "stringshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "String Shot",
+    "indicator": "string",
+    "kind": "Move",
+    "name": "stringshot",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Struggle",
+    "indicator": "struggle",
+    "kind": "Move",
+    "name": "struggle",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Struggle Bug",
+    "indicator": "struggle",
+    "kind": "Move",
+    "name": "strugglebug",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Style Card",
+    "indicator": "style",
+    "kind": "Item",
+    "name": "stylecard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Substitute",
+    "indicator": "substitute",
+    "kind": "Move",
+    "name": "substitute",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sucker Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "suckerpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Suction Cups",
+    "indicator": "cups",
+    "kind": "Ability",
+    "name": "suctioncups",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Suction Cups",
+    "indicator": "cups",
+    "kind": "Ability",
+    "name": "suctioncups",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Suction Cups",
+    "indicator": "cups",
+    "kind": "Ability",
+    "name": "suctioncups",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Suicune Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "suicunetreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sunsteel Strike",
+    "indicator": "strike",
+    "kind": "Move",
+    "name": "sunsteelstrike",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Superb Remedy",
+    "indicator": "remedy",
+    "kind": "Item",
+    "name": "superbremedy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Super Repel",
+    "indicator": "repel",
+    "kind": "Item",
+    "name": "superrepel",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Surging Strikes",
+    "indicator": "surging",
+    "kind": "Move",
+    "name": "surgingstrikes",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Swap Snack",
+    "indicator": "swap",
+    "kind": "Item",
+    "name": "swapsnack",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Sword of Ruin",
+    "indicator": "ruin",
+    "kind": "Ability",
+    "name": "swordofruin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Swords Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "swordsdance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Swords Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "swordsdance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Synchro Machine",
+    "indicator": "machine",
+    "kind": "Item",
+    "name": "synchromachine",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Syrup Bomb",
+    "indicator": "bomb",
+    "kind": "Move",
+    "name": "syrupbomb",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tablets of Ruin",
+    "indicator": "ruin",
+    "kind": "Ability",
+    "name": "tabletsofruin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tail Whip",
+    "indicator": "whip",
+    "kind": "Move",
+    "name": "tailwhip",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Take Down",
+    "indicator": "down",
+    "kind": "Move",
+    "name": "takedown",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Take Down",
+    "indicator": "take",
+    "kind": "Move",
+    "name": "takedown",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Take Heart",
+    "indicator": "take",
+    "kind": "Move",
+    "name": "takeheart",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Take Heart",
+    "indicator": "take heart",
+    "kind": "Move",
+    "name": "takeheart",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Tangled Feet",
+    "indicator": "tangled",
+    "kind": "Ability",
+    "name": "tangledfeet",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tangling Hair",
+    "indicator": "tangling",
+    "kind": "Ability",
+    "name": "tanglinghair",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tar Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "tarshot",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tar Shot",
+    "indicator": "shot",
+    "kind": "Move",
+    "name": "tarshot",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Tasty Trash",
+    "indicator": "trash",
+    "kind": "Item",
+    "name": "tastytrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Teal Style Card",
+    "indicator": "style",
+    "kind": "Item",
+    "name": "tealstylecard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Techno Blast",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "technoblast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tectonic Rage",
+    "indicator": "rage",
+    "kind": "Move",
+    "name": "tectonicrage",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tectonic Rage",
+    "indicator": "tectonic",
+    "kind": "Move",
+    "name": "tectonicrage",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tectonic Slate",
+    "indicator": "tectonic",
+    "kind": "Item",
+    "name": "tectonicslate",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Teeter Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "teeterdance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Teeter Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "teeterdance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Temper Flare",
+    "indicator": "temper",
+    "kind": "Move",
+    "name": "temperflare",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tera Blast",
+    "indicator": "blast",
+    "kind": "Move",
+    "name": "terablast",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Teraform Zero",
+    "indicator": "zero",
+    "kind": "Ability",
+    "name": "teraformzero",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Tera Shift",
+    "indicator": "shift",
+    "kind": "Ability",
+    "name": "terashift",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Terrakion Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "terrakiontreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Thermal Exchange",
+    "indicator": "exchange",
+    "kind": "Ability",
+    "name": "thermalexchange",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Thick Club",
+    "indicator": "club",
+    "kind": "Item",
+    "name": "thickclub",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Thousand Waves",
+    "indicator": "waves",
+    "kind": "Move",
+    "name": "thousandwaves",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Thrash",
+    "indicator": "thrash",
+    "kind": "Move",
+    "name": "thrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Throat Spray",
+    "indicator": "spray",
+    "kind": "Item",
+    "name": "throatspray",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Thunder Punch",
+    "indicator": "punch",
+    "kind": "Move",
+    "name": "thunderpunch",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Thunder Shock",
+    "indicator": "shock",
+    "kind": "Move",
+    "name": "thundershock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Thunder Wave",
+    "indicator": "wave",
+    "kind": "Move",
+    "name": "thunderwave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tidy Up",
+    "indicator": "tidy",
+    "kind": "Move",
+    "name": "tidyup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tidy Up",
+    "indicator": "tidy up",
+    "kind": "Move",
+    "name": "tidyup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "TM Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "tmcase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "TM Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "tmcase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "TM Material",
+    "indicator": "material",
+    "kind": "Item",
+    "name": "tmmaterial",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Torment",
+    "indicator": "torment",
+    "kind": "Move",
+    "name": "torment",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Torn Journal",
+    "indicator": "torn",
+    "kind": "Item",
+    "name": "tornjournal",
+    "wordplay": "Alternation"
+  },
+  {
+    "display": "Torn Journal",
+    "indicator": "torn",
+    "kind": "Item",
+    "name": "tornjournal",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tough Candy",
+    "indicator": "tough",
+    "kind": "Item",
+    "name": "toughcandy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tough Candy L",
+    "indicator": "tough",
+    "kind": "Item",
+    "name": "toughcandyl",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tough Candy XL",
+    "indicator": "tough",
+    "kind": "Item",
+    "name": "toughcandyxl",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tough Claws",
+    "indicator": "tough",
+    "kind": "Ability",
+    "name": "toughclaws",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Toxic Spikes",
+    "indicator": "spikes",
+    "kind": "Move",
+    "name": "toxicspikes",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Transform",
+    "indicator": "transform",
+    "kind": "Move",
+    "name": "transform",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Tri Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "triattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Twisted Spoon",
+    "indicator": "twisted",
+    "kind": "Item",
+    "name": "twistedspoon",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Twisted Spoon",
+    "indicator": "twisted",
+    "kind": "Item",
+    "name": "twistedspoon",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Unown Report",
+    "indicator": "report",
+    "kind": "Item",
+    "name": "unownreport",
+    "wordplay": "Homophone"
+  },
+  {
+    "display": "Upgrade",
+    "indicator": "upgrade",
+    "kind": "Item",
+    "name": "upgrade",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Uproar",
+    "indicator": "uproar",
+    "kind": "Move",
+    "name": "uproar",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Vacuum Wave",
+    "indicator": "wave",
+    "kind": "Move",
+    "name": "vacuumwave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Vessel of Ruin",
+    "indicator": "ruin",
+    "kind": "Ability",
+    "name": "vesselofruin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Victory Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "victorydance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Victory Dance",
+    "indicator": "dance",
+    "kind": "Move",
+    "name": "victorydance",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Vine Whip",
+    "indicator": "whip",
+    "kind": "Move",
+    "name": "vinewhip",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Virizion Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "viriziontreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Vise Grip",
+    "indicator": "grip",
+    "kind": "Move",
+    "name": "visegrip",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Vital Throw",
+    "indicator": "throw",
+    "kind": "Move",
+    "name": "vitalthrow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Voice Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "voicecase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Voice Case",
+    "indicator": "case",
+    "kind": "Item",
+    "name": "voicecase",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Volt Absorb",
+    "indicator": "absorb",
+    "kind": "Ability",
+    "name": "voltabsorb",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Volt Switch",
+    "indicator": "switch",
+    "kind": "Move",
+    "name": "voltswitch",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Volt Switch",
+    "indicator": "switch",
+    "kind": "Move",
+    "name": "voltswitch",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Wall Fragment",
+    "indicator": "fragment",
+    "kind": "Item",
+    "name": "wallfragment",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wall Fragment",
+    "indicator": "fragment",
+    "kind": "Item",
+    "name": "wallfragment",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Wall Fragment",
+    "indicator": "fragment",
+    "kind": "Item",
+    "name": "wallfragment",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Wandering Spirit",
+    "indicator": "wandering",
+    "kind": "Ability",
+    "name": "wanderingspirit",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Water Absorb",
+    "indicator": "absorb",
+    "kind": "Ability",
+    "name": "waterabsorb",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Wave Crash",
+    "indicator": "crash",
+    "kind": "Move",
+    "name": "wavecrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wave Crash",
+    "indicator": "wave",
+    "kind": "Move",
+    "name": "wavecrash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wave Incense",
+    "indicator": "wave",
+    "kind": "Item",
+    "name": "waveincense",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wave Mail",
+    "indicator": "wave",
+    "kind": "Item",
+    "name": "wavemail",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Weakness Policy",
+    "indicator": "weakness",
+    "kind": "Item",
+    "name": "weaknesspolicy",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Whipped Cream",
+    "indicator": "whipped",
+    "kind": "Item",
+    "name": "whippedcream",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Whipped Dream",
+    "indicator": "whipped",
+    "kind": "Item",
+    "name": "whippeddream",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "White Dish",
+    "indicator": "dish",
+    "kind": "Item",
+    "name": "whitedish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wicked Blow",
+    "indicator": "blow",
+    "kind": "Move",
+    "name": "wickedblow",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Wicked Blow",
+    "indicator": "wicked",
+    "kind": "Move",
+    "name": "wickedblow",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wicked Torque",
+    "indicator": "wicked",
+    "kind": "Move",
+    "name": "wickedtorque",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wide Guard",
+    "indicator": "guard",
+    "kind": "Move",
+    "name": "wideguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Wide Slash",
+    "indicator": "slash",
+    "kind": "Move",
+    "name": "wideslash",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Wildbolt Storm",
+    "indicator": "storm",
+    "kind": "Move",
+    "name": "wildboltstorm",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wild Charge",
+    "indicator": "wild",
+    "kind": "Move",
+    "name": "wildcharge",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wimp Out",
+    "indicator": "out",
+    "kind": "Ability",
+    "name": "wimpout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wimp Out",
+    "indicator": "out",
+    "kind": "Ability",
+    "name": "wimpout",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Wimp Out",
+    "indicator": "out",
+    "kind": "Ability",
+    "name": "wimpout",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Wind Power",
+    "indicator": "wind",
+    "kind": "Ability",
+    "name": "windpower",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wind Rider",
+    "indicator": "wind",
+    "kind": "Ability",
+    "name": "windrider",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wing Attack",
+    "indicator": "attack",
+    "kind": "Move",
+    "name": "wingattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wishing Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "wishingpiece",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Wishing Piece",
+    "indicator": "piece",
+    "kind": "Item",
+    "name": "wishingpiece",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Withdraw",
+    "indicator": "withdraw",
+    "kind": "Move",
+    "name": "withdraw",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Withdraw",
+    "indicator": "withdraw",
+    "kind": "Move",
+    "name": "withdraw",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Wonder Guard",
+    "indicator": "guard",
+    "kind": "Ability",
+    "name": "wonderguard",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Works Key",
+    "indicator": "works",
+    "kind": "Item",
+    "name": "workskey",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Work Up",
+    "indicator": "work",
+    "kind": "Move",
+    "name": "workup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Worry Seed",
+    "indicator": "worry",
+    "kind": "Move",
+    "name": "worryseed",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wrap",
+    "indicator": "wrap",
+    "kind": "Move",
+    "name": "wrap",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Wrap",
+    "indicator": "wrap",
+    "kind": "Move",
+    "name": "wrap",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Wring Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "wringout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wring Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "wringout",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Wring Out",
+    "indicator": "out",
+    "kind": "Move",
+    "name": "wringout",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Wring Out",
+    "indicator": "wring",
+    "kind": "Move",
+    "name": "wringout",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "X Attack",
+    "indicator": "attack",
+    "kind": "Item",
+    "name": "xattack",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Yellow Bell Pepper",
+    "indicator": "pepper",
+    "kind": "Item",
+    "name": "yellowbellpepper",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Yellow Dish",
+    "indicator": "dish",
+    "kind": "Item",
+    "name": "yellowdish",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Zapdos Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "zapdostreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Zekrom Treat",
+    "indicator": "treat",
+    "kind": "Item",
+    "name": "zekromtreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Zen Mode",
+    "indicator": "mode",
+    "kind": "Ability",
+    "name": "zenmode",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Zero to Hero",
+    "indicator": "zero",
+    "kind": "Ability",
+    "name": "zerotohero",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Z-Power Ring",
+    "indicator": "ring",
+    "kind": "Item",
+    "name": "zpowerring",
+    "wordplay": "Container"
+  }
+]
