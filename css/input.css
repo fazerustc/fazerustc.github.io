@@ -20,6 +20,11 @@
     background-position: center;
 }
 
+.bg-repeatball {
+    background-image: url("/assets/repeatball.png");
+    background-position: center;
+}
+
 .outlined-text {
     color: black;
     text-shadow: 

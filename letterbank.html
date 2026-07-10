@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script type="module" src="js/letterbank.js"></script>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-sky-200">
+<div class="flex justify-center text-center w-full gap-4 text-8xl mb-4">
+    <p>Letter Bank</p>
+</div>
+<div class="flex justify-center text-center w-full gap-4 text-xl">
+    <p>See what letters are in a term</p>
+</div>
+<table class="table-fixed relative w-full text-left" id="dataTable">
+    <thead class="text-sm text-body bg-neutral-secondary-soft rounded-base">
+        <tr>
+            <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 has-[img:focus]:z-30">
+                <div class="flex self-start">
+                    <input type="text" id="searchInput" placeholder="Search by bank"/>
+                </div>
+            </th>
+            <!-- Empty header for Display -->
+            <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group"></th>
+            <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
+                <select id="searchKind">
+                    <option value="Any">Any</option>
+                    <option value="Ability">Ability</option>
+                    <option value="Move">Move</option>
+                    <option value="Character">Character</option>
+                    <option value="Item">Item</option>
+                    <option value="Pokémon">Pokémon</option>
+                </select>
+            </th>
+            <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
+                <label for="searchRepeat">Repeats:</label>
+                <select id="searchRepeat">
+                </select>
+            </th>
+            <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
+                Used?
+            </th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+</body>
+</html>
