@@ -14,6 +14,13 @@
     "wordplay": "Container"
   },
   {
+    "display": "Abyssal Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "abyssalruins",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Acid Spray",
     "indicator": "spray",
     "kind": "Move",
@@ -28,11 +35,46 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Aether Base",
+    "indicator": "base",
+    "kind": "Location",
+    "name": "aetherbase",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Aether House",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "aetherhouse",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Aether Paradise",
+    "indicator": "paradise",
+    "kind": "Location",
+    "name": "aetherparadise",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Air Slash",
     "indicator": "slash",
     "kind": "Move",
     "name": "airslash",
     "wordplay": "Deletion"
+  },
+  {
+    "display": "Akala Outskirts",
+    "indicator": "outskirts",
+    "kind": "Location",
+    "name": "akalaoutskirts",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Akala Outskirts",
+    "indicator": "outskirts",
+    "kind": "Location",
+    "name": "akalaoutskirts",
+    "wordplay": "Selection"
   },
   {
     "display": "Ally Switch",
@@ -47,6 +89,34 @@
     "kind": "Move",
     "name": "allyswitch",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Alola Photo Club",
+    "indicator": "club",
+    "kind": "Location",
+    "name": "alolaphotoclub",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Altar of the Moone",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "altarofthemoone",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Altar of the Sunne",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "altarofthesunne",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Altering Cave",
+    "indicator": "altering",
+    "kind": "Location",
+    "name": "alteringcave",
+    "wordplay": "Anagram"
   },
   {
     "display": "Amazing Butter",
@@ -110,6 +180,20 @@
     "kind": "Move",
     "name": "aquatail",
     "wordplay": "Selection"
+  },
+  {
+    "display": "Area Zero",
+    "indicator": "zero",
+    "kind": "Location",
+    "name": "areazero",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Area Zero Underdepths",
+    "indicator": "zero",
+    "kind": "Location",
+    "name": "areazerounderdepths",
+    "wordplay": "Deletion"
   },
   {
     "display": "Arena Trap",
@@ -182,6 +266,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Avalanche Slopes",
+    "indicator": "avalanche",
+    "kind": "Location",
+    "name": "avalancheslopes",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Awakening",
     "indicator": "awakening",
     "kind": "Item",
@@ -224,6 +315,20 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Battle Agency",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battleagency",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Arcade",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlearcade",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Battle Armor",
     "indicator": "battle",
     "kind": "Ability",
@@ -238,10 +343,59 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Battle Buffet",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlebuffet",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Buffet",
+    "indicator": "buffet",
+    "kind": "Location",
+    "name": "battlebuffet",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Caf\u00e9",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlecafe",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Castle",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlecastle",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Battle Chairs",
     "indicator": "battle",
     "kind": "Item",
     "name": "battlechairs",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Chateau",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlechateau",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Factory",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlefactory",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Frontier",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlefrontier",
     "wordplay": "Anagram"
   },
   {
@@ -252,10 +406,87 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Battle Hall",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlehall",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Institute",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battleinstitute",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Maison",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlemaison",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Park",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlepark",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Resort",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battleresort",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Resort",
+    "indicator": "resort",
+    "kind": "Location",
+    "name": "battleresort",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Royal Dome",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battleroyaldome",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Subway",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlesubway",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Battle Tablecloth",
     "indicator": "battle",
     "kind": "Item",
     "name": "battletablecloth",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Tower",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battletower",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Tree",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battletree",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Battle Zone",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "battlezone",
     "wordplay": "Anagram"
   },
   {
@@ -294,13 +525,6 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Beat Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "beatup",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Behemoth Bash",
     "indicator": "bash",
     "kind": "Move",
@@ -333,6 +557,13 @@
     "indicator": "berserk",
     "kind": "Item",
     "name": "berserkgene",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Big Wave Beach",
+    "indicator": "wave",
+    "kind": "Location",
+    "name": "bigwavebeach",
     "wordplay": "Anagram"
   },
   {
@@ -672,18 +903,18 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Bulk Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "bulkup",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Bullet Punch",
     "indicator": "punch",
     "kind": "Move",
     "name": "bulletpunch",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Burned Tower",
+    "indicator": "burned",
+    "kind": "Location",
+    "name": "burnedtower",
+    "wordplay": "Anagram"
   },
   {
     "display": "Burning Bulwark",
@@ -707,13 +938,6 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Burn Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "burnup",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Cake-Lure Base",
     "indicator": "base",
     "kind": "Item",
@@ -721,11 +945,11 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Cal",
-    "indicator": "cal",
-    "kind": "Character",
-    "name": "cal",
-    "wordplay": "Hidden"
+    "display": "Caph Squad's Base",
+    "indicator": "base",
+    "kind": "Location",
+    "name": "caphsquadsbase",
+    "wordplay": "Anagram"
   },
   {
     "display": "Captain Stern",
@@ -768,6 +992,104 @@
     "kind": "Item",
     "name": "catchingcharm",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Cave of Being",
+    "indicator": "being",
+    "kind": "Location",
+    "name": "caveofbeing",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cave of Being",
+    "indicator": "being",
+    "kind": "Location",
+    "name": "caveofbeing",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Cave of Being",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "caveofbeing",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Cave of Origin",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "caveoforigin",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Cave of Origin",
+    "indicator": "origin",
+    "kind": "Location",
+    "name": "caveoforigin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Cave of Origin",
+    "indicator": "origin",
+    "kind": "Location",
+    "name": "caveoforigin",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Celadon Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "celadondepartmentstore",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Celadon Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "celadondepartmentstore",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Celadon Game Corner",
+    "indicator": "game",
+    "kind": "Location",
+    "name": "celadongamecorner",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Celestica Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "celesticaruins",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Central Plaza",
+    "indicator": "central",
+    "kind": "Location",
+    "name": "centralplaza",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Central Plaza",
+    "indicator": "central",
+    "kind": "Location",
+    "name": "centralplaza",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Chamber of Emptiness",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "chamberofemptiness",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Chansey Supply",
+    "indicator": "supply",
+    "kind": "Location",
+    "name": "chanseysupply",
+    "wordplay": "Anagram"
   },
   {
     "display": "Cheese",
@@ -817,20 +1139,6 @@
     "kind": "Item",
     "name": "chippedpot",
     "wordplay": "Deletion"
-  },
-  {
-    "display": "Chris",
-    "indicator": "chris",
-    "kind": "Character",
-    "name": "chris",
-    "wordplay": "Container"
-  },
-  {
-    "display": "Chris Honor",
-    "indicator": "chris",
-    "kind": "Character",
-    "name": "chrishonor",
-    "wordplay": "Container"
   },
   {
     "display": "Circle Throw",
@@ -903,6 +1211,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Coiffure Clips",
+    "indicator": "clips",
+    "kind": "Location",
+    "name": "coiffureclips",
+    "wordplay": "Container"
+  },
+  {
     "display": "Coin Case",
     "indicator": "case",
     "kind": "Item",
@@ -942,6 +1257,20 @@
     "indicator": "case",
     "kind": "Item",
     "name": "colognecase",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Colonnade Hollow",
+    "indicator": "hollow",
+    "kind": "Location",
+    "name": "colonnadehollow",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Colonnade Hollow",
+    "indicator": "hollow",
+    "kind": "Location",
+    "name": "colonnadehollow",
     "wordplay": "Selection"
   },
   {
@@ -971,13 +1300,6 @@
     "kind": "Move",
     "name": "cometpunch",
     "wordplay": "Insertion"
-  },
-  {
-    "display": "Comeuppance",
-    "indicator": "comeuppance",
-    "kind": "Move",
-    "name": "comeuppance",
-    "wordplay": "Reversal"
   },
   {
     "display": "Compound Eyes",
@@ -1064,13 +1386,6 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Cotton Down",
-    "indicator": "down",
-    "kind": "Ability",
-    "name": "cottondown",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Cotton Guard",
     "indicator": "guard",
     "kind": "Move",
@@ -1155,6 +1470,27 @@
     "wordplay": "Container"
   },
   {
+    "display": "Crossing Slope",
+    "indicator": "crossing",
+    "kind": "Location",
+    "name": "crossingslope",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Crossing Slope",
+    "indicator": "crossing",
+    "kind": "Location",
+    "name": "crossingslope",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Crossing Slope",
+    "indicator": "crossing",
+    "kind": "Location",
+    "name": "crossingslope",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Cross Poison",
     "indicator": "cross",
     "kind": "Move",
@@ -1173,6 +1509,20 @@
     "indicator": "crown",
     "kind": "Item",
     "name": "crownpass",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Crown Shrine",
+    "indicator": "crown",
+    "kind": "Location",
+    "name": "crownshrine",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Crown Tundra",
+    "indicator": "crown",
+    "kind": "Location",
+    "name": "crowntundra",
     "wordplay": "Selection"
   },
   {
@@ -1260,11 +1610,25 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Dappled Grove",
+    "indicator": "dappled",
+    "kind": "Location",
+    "name": "dappledgrove",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Dark Void",
     "indicator": "void",
     "kind": "Move",
     "name": "darkvoid",
     "wordplay": "Selection"
+  },
+  {
+    "display": "Deep Colosseum",
+    "indicator": "deep",
+    "kind": "Location",
+    "name": "deepcolosseum",
+    "wordplay": "Insertion"
   },
   {
     "display": "Deep Sea Scale",
@@ -1292,6 +1656,20 @@
     "indicator": "order",
     "kind": "Move",
     "name": "defendorder",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Desert Resort",
+    "indicator": "resort",
+    "kind": "Location",
+    "name": "desertresort",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Desert Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "desertruins",
     "wordplay": "Anagram"
   },
   {
@@ -1348,6 +1726,13 @@
     "indicator": "pattern",
     "kind": "Item",
     "name": "diamondpatterncup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Diamond Settlement",
+    "indicator": "settlement",
+    "kind": "Location",
+    "name": "diamondsettlement",
     "wordplay": "Anagram"
   },
   {
@@ -1442,6 +1827,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Dividing Peak Tunnel",
+    "indicator": "dividing",
+    "kind": "Location",
+    "name": "dividingpeaktunnel",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Dizzy Punch",
     "indicator": "dizzy",
     "kind": "Move",
@@ -1491,25 +1883,11 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Down St. Key",
-    "indicator": "down",
-    "kind": "Item",
-    "name": "downstkey",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Dowsing Machine",
     "indicator": "machine",
     "kind": "Item",
     "name": "dowsingmachine",
     "wordplay": "Anagram"
-  },
-  {
-    "display": "Dragon Ascent",
-    "indicator": "ascent",
-    "kind": "Move",
-    "name": "dragonascent",
-    "wordplay": "Reversal"
   },
   {
     "display": "Dragon Dance",
@@ -1708,6 +2086,20 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Embedded Tower",
+    "indicator": "embedded",
+    "kind": "Location",
+    "name": "embeddedtower",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Embedded Tower",
+    "indicator": "embedded",
+    "kind": "Location",
+    "name": "embeddedtower",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Embody Aspect",
     "indicator": "aspect",
     "kind": "Ability",
@@ -1733,6 +2125,13 @@
     "indicator": "eruption",
     "kind": "Move",
     "name": "eruption",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Every Wich Way",
+    "indicator": "way",
+    "kind": "Location",
+    "name": "everywichway",
     "wordplay": "Anagram"
   },
   {
@@ -1869,6 +2268,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Faraway place",
+    "indicator": "place",
+    "kind": "Location",
+    "name": "farawayplace",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Fashion Case",
     "indicator": "case",
     "kind": "Item",
@@ -1925,6 +2331,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Fields of Honor",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "fieldsofhonor",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Fiery Dance",
     "indicator": "dance",
     "kind": "Move",
@@ -1946,6 +2359,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Fiery Path",
+    "indicator": "fiery",
+    "kind": "Location",
+    "name": "fierypath",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Fiery Pick",
     "indicator": "fiery",
     "kind": "Item",
@@ -1957,6 +2377,13 @@
     "indicator": "fiery",
     "kind": "Move",
     "name": "fierywrath",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Fighting Dojo",
+    "indicator": "fighting",
+    "kind": "Location",
+    "name": "fightingdojo",
     "wordplay": "Anagram"
   },
   {
@@ -2198,6 +2625,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Flower Paradise",
+    "indicator": "paradise",
+    "kind": "Location",
+    "name": "flowerparadise",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Flower Pattern Cup",
     "indicator": "pattern",
     "kind": "Item",
@@ -2322,6 +2756,20 @@
     "kind": "Move",
     "name": "forcepalm",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Forest of Focus",
+    "indicator": "focus",
+    "kind": "Location",
+    "name": "forestoffocus",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Forest of Focus",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "forestoffocus",
+    "wordplay": "Hidden"
   },
   {
     "display": "Forest's Curse",
@@ -2471,17 +2919,45 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Gear Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "gearup",
+    "display": "Giant's Cap",
+    "indicator": "cap",
+    "kind": "Location",
+    "name": "giantscap",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Giant's Mirror",
+    "indicator": "mirror",
+    "kind": "Location",
+    "name": "giantsmirror",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Ginkgo Landing",
+    "indicator": "landing",
+    "kind": "Location",
+    "name": "ginkgolanding",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Ginkgo Landing",
+    "indicator": "landing",
+    "kind": "Location",
+    "name": "ginkgolanding",
+    "wordplay": "Insertion"
   },
   {
     "display": "Glastrier Treat",
     "indicator": "treat",
     "kind": "Item",
     "name": "glastriertreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Glimwood Tangle",
+    "indicator": "tangle",
+    "kind": "Location",
+    "name": "glimwoodtangle",
     "wordplay": "Anagram"
   },
   {
@@ -2562,11 +3038,39 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Gnarled Den",
+    "indicator": "gnarled",
+    "kind": "Location",
+    "name": "gnarledden",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Gold Bottle Cap",
     "indicator": "cap",
     "kind": "Item",
     "name": "goldbottlecap",
     "wordplay": "Selection"
+  },
+  {
+    "display": "Goldenrod Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "goldenroddepartmentstore",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Goldenrod Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "goldenroddepartmentstore",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Goldenrod Game Corner",
+    "indicator": "game",
+    "kind": "Location",
+    "name": "goldenrodgamecorner",
+    "wordplay": "Anagram"
   },
   {
     "display": "Gooey",
@@ -2602,6 +3106,13 @@
     "kind": "Move",
     "name": "grassknot",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Great Crater of Paldea",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "greatcraterofpaldea",
+    "wordplay": "Hidden"
   },
   {
     "display": "Green Bell Pepper",
@@ -2772,10 +3283,38 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Hall of Origin",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "halloforigin",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Hall of Origin",
+    "indicator": "origin",
+    "kind": "Location",
+    "name": "halloforigin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Hall of Origin",
+    "indicator": "origin",
+    "kind": "Location",
+    "name": "halloforigin",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Ham",
     "indicator": "ham",
     "kind": "Item",
     "name": "ham",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Hano Grand Resort",
+    "indicator": "resort",
+    "kind": "Location",
+    "name": "hanograndresort",
     "wordplay": "Anagram"
   },
   {
@@ -2898,6 +3437,34 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Heavenward Lookout",
+    "indicator": "heavenward",
+    "kind": "Location",
+    "name": "heavenwardlookout",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Hidden Grotto",
+    "indicator": "hidden",
+    "kind": "Location",
+    "name": "hiddengrotto",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Hidden Grotto",
+    "indicator": "hidden",
+    "kind": "Location",
+    "name": "hiddengrotto",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Hidden Grotto",
+    "indicator": "hidden",
+    "kind": "Location",
+    "name": "hiddengrotto",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Hidden Power",
     "indicator": "hidden",
     "kind": "Move",
@@ -3003,6 +3570,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Holm of Trials",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "holmoftrials",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Honey Gather",
     "indicator": "gather",
     "kind": "Ability",
@@ -3038,18 +3612,39 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "HP Up",
-    "indicator": "up",
-    "kind": "Item",
-    "name": "hpup",
-    "wordplay": "Anagram"
+    "display": "Hotel Grand Lake",
+    "indicator": "hotel",
+    "kind": "Location",
+    "name": "hotelgrandlake",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Hotel Richissime",
+    "indicator": "hotel",
+    "kind": "Location",
+    "name": "hotelrichissime",
+    "wordplay": "Container"
+  },
+  {
+    "display": "House of Memories",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "houseofmemories",
+    "wordplay": "Container"
+  },
+  {
+    "display": "House of Memories",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "houseofmemories",
+    "wordplay": "Hidden"
   },
   {
     "display": "HP Up",
     "indicator": "up",
     "kind": "Item",
     "name": "hpup",
-    "wordplay": "Reversal"
+    "wordplay": "Anagram"
   },
   {
     "display": "Hunger Switch",
@@ -3070,6 +3665,20 @@
     "indicator": "hurricane",
     "kind": "Move",
     "name": "hurricane",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Iceberg Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "icebergruins",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Icebound Falls",
+    "indicator": "falls",
+    "kind": "Location",
+    "name": "iceboundfalls",
     "wordplay": "Anagram"
   },
   {
@@ -3178,6 +3787,41 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Inside of Truck",
+    "indicator": "inside",
+    "kind": "Location",
+    "name": "insideoftruck",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Inside of Truck",
+    "indicator": "inside",
+    "kind": "Location",
+    "name": "insideoftruck",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Inside of Truck",
+    "indicator": "inside of",
+    "kind": "Location",
+    "name": "insideoftruck",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Inside of Truck",
+    "indicator": "inside of",
+    "kind": "Location",
+    "name": "insideoftruck",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Inside of Truck",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "insideoftruck",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Instant Noodles",
     "indicator": "noodles",
     "kind": "Item",
@@ -3227,6 +3871,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Iron Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "ironruins",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Iron Tail",
     "indicator": "tail",
     "kind": "Move",
@@ -3234,11 +3885,25 @@
     "wordplay": "Selection"
   },
   {
+    "display": "Isle of Armor",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "isleofarmor",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Item Printer",
     "indicator": "item",
     "kind": "Character",
     "name": "itemprinter",
     "wordplay": "Hidden"
+  },
+  {
+    "display": "Jagged Pass",
+    "indicator": "jagged",
+    "kind": "Location",
+    "name": "jaggedpass",
+    "wordplay": "Anagram"
   },
   {
     "display": "Jam",
@@ -3255,6 +3920,13 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Joyful Game Corner",
+    "indicator": "game",
+    "kind": "Location",
+    "name": "joyfulgamecorner",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Jump Kick",
     "indicator": "jump",
     "kind": "Move",
@@ -3267,6 +3939,13 @@
     "kind": "Move",
     "name": "junglehealing",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Kaminko's House",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "kaminkoshouse",
+    "wordplay": "Container"
   },
   {
     "display": "King's Rock",
@@ -3323,6 +4002,41 @@
     "kind": "Item",
     "name": "laggingtail",
     "wordplay": "Selection"
+  },
+  {
+    "display": "Lake of Outrage",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "lakeofoutrage",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Lake of Rage",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "lakeofrage",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Lake of Rage",
+    "indicator": "rage",
+    "kind": "Location",
+    "name": "lakeofrage",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lake of the Moone",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "lakeofthemoone",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Lake of the Sunne",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "lakeofthesunne",
+    "wordplay": "Hidden"
   },
   {
     "display": "Larry Turner",
@@ -3423,6 +4137,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "League Club Room",
+    "indicator": "club",
+    "kind": "Location",
+    "name": "leagueclubroom",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Left Pok\u00e9 Ball",
     "indicator": "left",
     "kind": "Item",
@@ -3465,13 +4186,6 @@
     "wordplay": "Alternation"
   },
   {
-    "display": "Lift Key",
-    "indicator": "lift",
-    "kind": "Item",
-    "name": "liftkey",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Light of Ruin",
     "indicator": "of",
     "kind": "Move",
@@ -3491,6 +4205,41 @@
     "kind": "Move",
     "name": "lightthatburnsthesky",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Light That Burns the Sky",
+    "indicator": "that",
+    "kind": "Move",
+    "name": "lightthatburnsthesky",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Light That Burns the Sky",
+    "indicator": "that",
+    "kind": "Move",
+    "name": "lightthatburnsthesky",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Light That Burns the Sky",
+    "indicator": "that",
+    "kind": "Move",
+    "name": "lightthatburnsthesky",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Lilycove Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "lilycovedepartmentstore",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Lilycove Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "lilycovedepartmentstore",
+    "wordplay": "Hidden"
   },
   {
     "display": "Linking Cord",
@@ -3533,6 +4282,41 @@
     "kind": "Item",
     "name": "lootsack",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Cave",
+    "indicator": "lost",
+    "kind": "Location",
+    "name": "lostcave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Cave",
+    "indicator": "lost",
+    "kind": "Location",
+    "name": "lostcave",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Lost Hotel",
+    "indicator": "hotel",
+    "kind": "Location",
+    "name": "losthotel",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Lost Hotel",
+    "indicator": "lost",
+    "kind": "Location",
+    "name": "losthotel",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Hotel",
+    "indicator": "lost",
+    "kind": "Location",
+    "name": "losthotel",
+    "wordplay": "Deletion"
   },
   {
     "display": "Lost Item",
@@ -3581,6 +4365,20 @@
     "indicator": "lost",
     "kind": "Item",
     "name": "lostsatchel",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Lost Tower",
+    "indicator": "lost",
+    "kind": "Location",
+    "name": "losttower",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Lost Tower",
+    "indicator": "lost",
+    "kind": "Location",
+    "name": "losttower",
     "wordplay": "Deletion"
   },
   {
@@ -3759,11 +4557,18 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Magnet Rise",
-    "indicator": "rise",
-    "kind": "Move",
-    "name": "magnetrise",
-    "wordplay": "Reversal"
+    "display": "Magnet Train",
+    "indicator": "train",
+    "kind": "Location",
+    "name": "magnettrain",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Magnet Train",
+    "indicator": "train",
+    "kind": "Location",
+    "name": "magnettrain",
+    "wordplay": "Selection"
   },
   {
     "display": "Make It Rain",
@@ -3836,18 +4641,18 @@
     "wordplay": "Deletion"
   },
   {
-    "display": "May",
-    "indicator": "may",
-    "kind": "Character",
-    "name": "may",
-    "wordplay": "Container"
-  },
-  {
     "display": "Medal Box",
     "indicator": "box",
     "kind": "Item",
     "name": "medalbox",
     "wordplay": "Hidden"
+  },
+  {
+    "display": "Meetup Spot",
+    "indicator": "spot",
+    "kind": "Location",
+    "name": "meetupspot",
+    "wordplay": "Selection"
   },
   {
     "display": "Me First",
@@ -3906,6 +4711,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Meteor Falls",
+    "indicator": "falls",
+    "kind": "Location",
+    "name": "meteorfalls",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Meteor Mash",
     "indicator": "mash",
     "kind": "Move",
@@ -3946,6 +4758,20 @@
     "kind": "Move",
     "name": "mindblown",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Mirage Islands",
+    "indicator": "islands",
+    "kind": "Location",
+    "name": "mirageislands",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Mirage spot",
+    "indicator": "spot",
+    "kind": "Location",
+    "name": "miragespot",
+    "wordplay": "Selection"
   },
   {
     "display": "Mirror Armor",
@@ -4032,6 +4858,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Molten Arena",
+    "indicator": "molten",
+    "kind": "Location",
+    "name": "moltenarena",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Moltres Treat",
     "indicator": "treat",
     "kind": "Item",
@@ -4067,6 +4900,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Moor of Icirrus",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "mooroficirrus",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Mortal Spin",
     "indicator": "spin",
     "kind": "Move",
@@ -4079,6 +4919,27 @@
     "kind": "Move",
     "name": "mortalspin",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Mossdeep Space Center",
+    "indicator": "center",
+    "kind": "Location",
+    "name": "mossdeepspacecenter",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Motostoke Outskirts",
+    "indicator": "outskirts",
+    "kind": "Location",
+    "name": "motostokeoutskirts",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Motostoke Outskirts",
+    "indicator": "outskirts",
+    "kind": "Location",
+    "name": "motostokeoutskirts",
+    "wordplay": "Selection"
   },
   {
     "display": "Move Deleter",
@@ -4099,6 +4960,13 @@
     "indicator": "game",
     "kind": "Character",
     "name": "mrgame",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Mt. Battle",
+    "indicator": "battle",
+    "kind": "Location",
+    "name": "mtbattle",
     "wordplay": "Anagram"
   },
   {
@@ -4165,6 +5033,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Nameless Cavern",
+    "indicator": "nameless",
+    "kind": "Location",
+    "name": "namelesscavern",
+    "wordplay": "Deletion"
+  },
+  {
     "display": "Name Rater",
     "indicator": "name",
     "kind": "Character",
@@ -4186,6 +5061,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Nature Preserve",
+    "indicator": "preserve",
+    "kind": "Location",
+    "name": "naturepreserve",
+    "wordplay": "Container"
+  },
+  {
     "display": "Nature's Madness",
     "indicator": "madness",
     "kind": "Move",
@@ -4200,10 +5082,38 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Navel Rock",
+    "indicator": "rock",
+    "kind": "Location",
+    "name": "navelrock",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Navi Squad's Base",
+    "indicator": "base",
+    "kind": "Location",
+    "name": "navisquadsbase",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Necrozma Treat",
     "indicator": "treat",
     "kind": "Item",
     "name": "necrozmatreat",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "New Bark Town",
+    "indicator": "new",
+    "kind": "Location",
+    "name": "newbarktown",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "New Mauville",
+    "indicator": "new",
+    "kind": "Location",
+    "name": "newmauville",
     "wordplay": "Anagram"
   },
   {
@@ -4254,6 +5164,13 @@
     "kind": "Item",
     "name": "normalbox",
     "wordplay": "Hidden"
+  },
+  {
+    "display": "Obsidian Falls",
+    "indicator": "falls",
+    "kind": "Location",
+    "name": "obsidianfalls",
+    "wordplay": "Anagram"
   },
   {
     "display": "Obstruct",
@@ -4326,11 +5243,11 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Order Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "orderup",
-    "wordplay": "Reversal"
+    "display": "Oreburgh Mining Museum",
+    "indicator": "mining",
+    "kind": "Location",
+    "name": "oreburghminingmuseum",
+    "wordplay": "Anagram"
   },
   {
     "display": "Origin Ball",
@@ -4431,6 +5348,13 @@
     "wordplay": "Hidden"
   },
   {
+    "display": "Paradise Barrens",
+    "indicator": "paradise",
+    "kind": "Location",
+    "name": "paradisebarrens",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Parting Shot",
     "indicator": "parting",
     "kind": "Move",
@@ -4463,6 +5387,20 @@
     "indicator": "party",
     "kind": "Item",
     "name": "partysparklerpick",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pattern Bush",
+    "indicator": "pattern",
+    "kind": "Location",
+    "name": "patternbush",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Pearl Settlement",
+    "indicator": "settlement",
+    "kind": "Location",
+    "name": "pearlsettlement",
     "wordplay": "Anagram"
   },
   {
@@ -4501,11 +5439,25 @@
     "wordplay": "Insertion"
   },
   {
+    "display": "Pewter Museum of Science",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "pewtermuseumofscience",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Phantom Force",
     "indicator": "force",
     "kind": "Move",
     "name": "phantomforce",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Pick a Peck of Colors Flower Shop",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "pickapeckofcolorsflowershop",
+    "wordplay": "Hidden"
   },
   {
     "display": "Pickle",
@@ -4555,6 +5507,13 @@
     "kind": "Ability",
     "name": "piercingdrill",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Player's house",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "playershouse",
+    "wordplay": "Container"
   },
   {
     "display": "Play Nice",
@@ -4613,6 +5572,13 @@
     "wordplay": "Selection"
   },
   {
+    "display": "Poffin House",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "poffinhouse",
+    "wordplay": "Container"
+  },
+  {
     "display": "Poison Tail",
     "indicator": "tail",
     "kind": "Move",
@@ -4655,6 +5621,20 @@
     "wordplay": "Hidden"
   },
   {
+    "display": "Pok\u00e9mon Center",
+    "indicator": "center",
+    "kind": "Location",
+    "name": "pokemoncenter",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Pok\u00e9mon Center Caf\u00e9",
+    "indicator": "center",
+    "kind": "Location",
+    "name": "pokemoncentercafe",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Pok\u00e9mon Center Ladies",
     "indicator": "center",
     "kind": "Character",
@@ -4669,6 +5649,20 @@
     "wordplay": "Selection"
   },
   {
+    "display": "Pok\u00e9mon Network Center",
+    "indicator": "center",
+    "kind": "Location",
+    "name": "pokemonnetworkcenter",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Pok\u00e9 Spot",
+    "indicator": "spot",
+    "kind": "Location",
+    "name": "pokespot",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Pok\u00e9 Toy",
     "indicator": "toy",
     "kind": "Item",
@@ -4676,10 +5670,24 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Pok\u00e9 Transfer Lab",
+    "indicator": "transfer",
+    "kind": "Location",
+    "name": "poketransferlab",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Polished Mud Ball",
     "indicator": "polished",
     "kind": "Item",
     "name": "polishedmudball",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Poni Breaker Coast",
+    "indicator": "breaker",
+    "kind": "Location",
+    "name": "ponibreakercoast",
     "wordplay": "Anagram"
   },
   {
@@ -4837,11 +5845,11 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "PP Up",
-    "indicator": "up",
-    "kind": "Item",
-    "name": "ppup",
-    "wordplay": "Reversal"
+    "display": "Prestige Precept Center",
+    "indicator": "center",
+    "kind": "Location",
+    "name": "prestigepreceptcenter",
+    "wordplay": "Selection"
   },
   {
     "display": "Professor Mirror",
@@ -4942,13 +5950,6 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Psych Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "psychup",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Psyshield Bash",
     "indicator": "bash",
     "kind": "Move",
@@ -5017,6 +6018,13 @@
     "kind": "Move",
     "name": "quiverdance",
     "wordplay": "Insertion"
+  },
+  {
+    "display": "Rad Rickshaw's Cycle Shop",
+    "indicator": "cycle",
+    "kind": "Location",
+    "name": "radrickshawscycleshop",
+    "wordplay": "Anagram"
   },
   {
     "display": "Rage",
@@ -5152,6 +6160,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Ravaged Path",
+    "indicator": "ravaged",
+    "kind": "Location",
+    "name": "ravagedpath",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Rayquaza Treat",
     "indicator": "treat",
     "kind": "Item",
@@ -5199,6 +6214,20 @@
     "kind": "Item",
     "name": "reddish",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Reflection Cave",
+    "indicator": "reflection",
+    "kind": "Location",
+    "name": "reflectioncave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Reflection Cave",
+    "indicator": "reflection",
+    "kind": "Location",
+    "name": "reflectioncave",
+    "wordplay": "Reversal"
   },
   {
     "display": "Reflect Type",
@@ -5250,6 +6279,27 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Resolution Cave",
+    "indicator": "resolution",
+    "kind": "Location",
+    "name": "resolutioncave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Resort Area",
+    "indicator": "resort",
+    "kind": "Location",
+    "name": "resortarea",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Resort Gorgeous",
+    "indicator": "resort",
+    "kind": "Location",
+    "name": "resortgorgeous",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Retro Mail",
     "indicator": "retro",
     "kind": "Item",
@@ -5292,6 +6342,13 @@
     "wordplay": "Reversal"
   },
   {
+    "display": "Reversal Mountain",
+    "indicator": "reversal",
+    "kind": "Location",
+    "name": "reversalmountain",
+    "wordplay": "Reversal"
+  },
+  {
     "display": "Revival Blessing",
     "indicator": "revival",
     "kind": "Move",
@@ -5325,13 +6382,6 @@
     "kind": "Item",
     "name": "ringtarget",
     "wordplay": "Container"
-  },
-  {
-    "display": "Rising Voltage",
-    "indicator": "rising",
-    "kind": "Move",
-    "name": "risingvoltage",
-    "wordplay": "Reversal"
   },
   {
     "display": "Roar of Time",
@@ -5394,6 +6444,20 @@
     "indicator": "rock",
     "kind": "Item",
     "name": "rockmemory",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Peak Ruins",
+    "indicator": "rock",
+    "kind": "Location",
+    "name": "rockpeakruins",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rock Peak Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "rockpeakruins",
     "wordplay": "Anagram"
   },
   {
@@ -5460,10 +6524,24 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Rock Tunnel",
+    "indicator": "rock",
+    "kind": "Location",
+    "name": "rocktunnel",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Rock Wrecker",
     "indicator": "rock",
     "kind": "Move",
     "name": "rockwrecker",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rocky Cave",
+    "indicator": "rocky",
+    "kind": "Location",
+    "name": "rockycave",
     "wordplay": "Anagram"
   },
   {
@@ -5495,6 +6573,20 @@
     "wordplay": "Container"
   },
   {
+    "display": "Rolling Fields",
+    "indicator": "rolling",
+    "kind": "Location",
+    "name": "rollingfields",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rolling Fields",
+    "indicator": "rolling",
+    "kind": "Location",
+    "name": "rollingfields",
+    "wordplay": "Reversal"
+  },
+  {
     "display": "Rolling Kick",
     "indicator": "rolling",
     "kind": "Move",
@@ -5523,13 +6615,6 @@
     "wordplay": "Container"
   },
   {
-    "display": "Rose",
-    "indicator": "rose",
-    "kind": "Character",
-    "name": "rose",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Rose Incense",
     "indicator": "rose",
     "kind": "Item",
@@ -5537,11 +6622,11 @@
     "wordplay": "Container"
   },
   {
-    "display": "Rose Incense",
+    "display": "Rose Tower",
     "indicator": "rose",
-    "kind": "Item",
-    "name": "roseincense",
-    "wordplay": "Reversal"
+    "kind": "Location",
+    "name": "rosetower",
+    "wordplay": "Container"
   },
   {
     "display": "Rough Skin",
@@ -5556,6 +6641,20 @@
     "kind": "Ability",
     "name": "roughskin",
     "wordplay": "Selection"
+  },
+  {
+    "display": "Rough & Tough",
+    "indicator": "rough",
+    "kind": "Location",
+    "name": "roughtough",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rough & Tough",
+    "indicator": "tough",
+    "kind": "Location",
+    "name": "roughtough",
+    "wordplay": "Anagram"
   },
   {
     "display": "Round",
@@ -5586,10 +6685,129 @@
     "wordplay": "Reversal"
   },
   {
+    "display": "Ruchbah Squad's Base",
+    "indicator": "base",
+    "kind": "Location",
+    "name": "ruchbahsquadsbase",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Ruination",
     "indicator": "ruination",
     "kind": "Move",
     "name": "ruination",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Abundance",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "ruinsofabundance",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Ruins of Abundance",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "ruinsofabundance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Abundance",
+    "indicator": "ruins of",
+    "kind": "Location",
+    "name": "ruinsofabundance",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Alph",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "ruinsofalph",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Ruins of Alph",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "ruinsofalph",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Alph",
+    "indicator": "ruins of",
+    "kind": "Location",
+    "name": "ruinsofalph",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Conflict",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "ruinsofconflict",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Ruins of Conflict",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "ruinsofconflict",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Conflict",
+    "indicator": "ruins of",
+    "kind": "Location",
+    "name": "ruinsofconflict",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Hope",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "ruinsofhope",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Ruins of Hope",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "ruinsofhope",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Hope",
+    "indicator": "ruins of",
+    "kind": "Location",
+    "name": "ruinsofhope",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Life",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "ruinsoflife",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Ruins of Life",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "ruinsoflife",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruins of Life",
+    "indicator": "ruins of",
+    "kind": "Location",
+    "name": "ruinsoflife",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Ruin Valley",
+    "indicator": "ruin",
+    "kind": "Location",
+    "name": "ruinvalley",
     "wordplay": "Anagram"
   },
   {
@@ -5618,6 +6836,13 @@
     "indicator": "running",
     "kind": "Item",
     "name": "runningshoes",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Rydel's Cycles",
+    "indicator": "cycles",
+    "kind": "Location",
+    "name": "rydelscycles",
     "wordplay": "Anagram"
   },
   {
@@ -5705,6 +6930,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Schedar Squad's Base",
+    "indicator": "base",
+    "kind": "Location",
+    "name": "schedarsquadsbase",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Scrappy",
     "indicator": "scrappy",
     "kind": "Ability",
@@ -5747,6 +6979,13 @@
     "wordplay": "Hidden"
   },
   {
+    "display": "Seafoam Islands",
+    "indicator": "islands",
+    "kind": "Location",
+    "name": "seafoamislands",
+    "wordplay": "Container"
+  },
+  {
     "display": "Searing Shot",
     "indicator": "shot",
     "kind": "Move",
@@ -5768,10 +7007,94 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Seaside Cycling Road",
+    "indicator": "cycling",
+    "kind": "Location",
+    "name": "seasidecyclingroad",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Seaside Cycling Road",
+    "indicator": "cycling",
+    "kind": "Location",
+    "name": "seasidecyclingroad",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Seaside Cycling Road",
+    "indicator": "cycling",
+    "kind": "Location",
+    "name": "seasidecyclingroad",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Seaside Hollow",
+    "indicator": "hollow",
+    "kind": "Location",
+    "name": "seasidehollow",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Seaside Hollow",
+    "indicator": "hollow",
+    "kind": "Location",
+    "name": "seasidehollow",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Secret Base",
+    "indicator": "base",
+    "kind": "Location",
+    "name": "secretbase",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Secret Base",
+    "indicator": "secret",
+    "kind": "Location",
+    "name": "secretbase",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Secret Hollow",
+    "indicator": "hollow",
+    "kind": "Location",
+    "name": "secrethollow",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Secret Hollow",
+    "indicator": "hollow",
+    "kind": "Location",
+    "name": "secrethollow",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Secret Hollow",
+    "indicator": "secret",
+    "kind": "Location",
+    "name": "secrethollow",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Secret Islet",
+    "indicator": "secret",
+    "kind": "Location",
+    "name": "secretislet",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Secret Key",
     "indicator": "secret",
     "kind": "Item",
     "name": "secretkey",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Secret Meadow",
+    "indicator": "secret",
+    "kind": "Location",
+    "name": "secretmeadow",
     "wordplay": "Hidden"
   },
   {
@@ -5786,6 +7109,13 @@
     "indicator": "secret",
     "kind": "Move",
     "name": "secretpower",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Secret Shore",
+    "indicator": "secret",
+    "kind": "Location",
+    "name": "secretshore",
     "wordplay": "Hidden"
   },
   {
@@ -5810,6 +7140,27 @@
     "wordplay": "Hidden"
   },
   {
+    "display": "Segin Squad's Base",
+    "indicator": "base",
+    "kind": "Location",
+    "name": "seginsquadsbase",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Seguro Style",
+    "indicator": "style",
+    "kind": "Location",
+    "name": "segurostyle",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Sevii Islands",
+    "indicator": "islands",
+    "kind": "Location",
+    "name": "seviiislands",
+    "wordplay": "Container"
+  },
+  {
     "display": "Shadow Blast",
     "indicator": "blast",
     "kind": "Move",
@@ -5829,13 +7180,6 @@
     "kind": "Move",
     "name": "shadowbreak",
     "wordplay": "Insertion"
-  },
-  {
-    "display": "Shadow Down",
-    "indicator": "down",
-    "kind": "Move",
-    "name": "shadowdown",
-    "wordplay": "Reversal"
   },
   {
     "display": "Shadow End",
@@ -5936,11 +7280,25 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Shady House",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "shadyhouse",
+    "wordplay": "Container"
+  },
+  {
     "display": "Shattered Psyche",
     "indicator": "shattered",
     "kind": "Move",
     "name": "shatteredpsyche",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Shaved Ice Stand",
+    "indicator": "shaved",
+    "kind": "Location",
+    "name": "shavedicestand",
+    "wordplay": "Deletion"
   },
   {
     "display": "Shed Shell",
@@ -6063,13 +7421,6 @@
   },
   {
     "display": "Shields Down",
-    "indicator": "down",
-    "kind": "Ability",
-    "name": "shieldsdown",
-    "wordplay": "Reversal"
-  },
-  {
-    "display": "Shields Down",
     "indicator": "shields",
     "kind": "Ability",
     "name": "shieldsdown",
@@ -6118,11 +7469,11 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Shore Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "shoreup",
-    "wordplay": "Reversal"
+    "display": "Shrouded Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "shroudedruins",
+    "wordplay": "Anagram"
   },
   {
     "display": "Silk Trap",
@@ -6144,6 +7495,20 @@
     "kind": "Move",
     "name": "sing",
     "wordplay": "Homophone"
+  },
+  {
+    "display": "Sinjoh Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "sinjohruins",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Six Wonders of Kitakami",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "sixwondersofkitakami",
+    "wordplay": "Hidden"
   },
   {
     "display": "Sizzly Slide",
@@ -6223,6 +7588,13 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Slippery Slope",
+    "indicator": "slippery",
+    "kind": "Location",
+    "name": "slipperyslope",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Slowpoke Tail",
     "indicator": "tail",
     "kind": "Item",
@@ -6249,13 +7621,6 @@
     "kind": "Move",
     "name": "sludgewave",
     "wordplay": "Anagram"
-  },
-  {
-    "display": "Smack Down",
-    "indicator": "down",
-    "kind": "Move",
-    "name": "smackdown",
-    "wordplay": "Reversal"
   },
   {
     "display": "Smack Down",
@@ -6321,10 +7686,45 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Snowfall Hot Spring",
+    "indicator": "hot",
+    "kind": "Location",
+    "name": "snowfallhotspring",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Soaring in the sky",
+    "indicator": "in",
+    "kind": "Location",
+    "name": "soaringinthesky",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Soaring in the sky",
+    "indicator": "in",
+    "kind": "Location",
+    "name": "soaringinthesky",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Soaring in the sky",
+    "indicator": "in the",
+    "kind": "Location",
+    "name": "soaringinthesky",
+    "wordplay": "Insertion"
+  },
+  {
     "display": "Soda Pop",
     "indicator": "pop",
     "kind": "Item",
     "name": "sodapop",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Solaceon Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "solaceonruins",
     "wordplay": "Anagram"
   },
   {
@@ -6517,13 +7917,6 @@
     "wordplay": "Anagram"
   },
   {
-    "display": "Spit Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "spitup",
-    "wordplay": "Reversal"
-  },
-  {
     "display": "Splash",
     "indicator": "splash",
     "kind": "Move",
@@ -6549,6 +7942,13 @@
     "indicator": "splash",
     "kind": "Move",
     "name": "splishysplash",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Split-Decision Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "splitdecisionruins",
     "wordplay": "Anagram"
   },
   {
@@ -6734,6 +8134,20 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Strange House",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "strangehouse",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Strange House",
+    "indicator": "strange",
+    "kind": "Location",
+    "name": "strangehouse",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Strange Souvenir",
     "indicator": "strange",
     "kind": "Item",
@@ -6860,11 +8274,25 @@
     "wordplay": "Deletion"
   },
   {
+    "display": "Sure Cans",
+    "indicator": "cans",
+    "kind": "Location",
+    "name": "surecans",
+    "wordplay": "Container"
+  },
+  {
     "display": "Surging Strikes",
     "indicator": "surging",
     "kind": "Move",
     "name": "surgingstrikes",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Sushi High Roller",
+    "indicator": "high",
+    "kind": "Location",
+    "name": "sushihighroller",
+    "wordplay": "Anagram"
   },
   {
     "display": "Swap Snack",
@@ -6966,13 +8394,6 @@
   },
   {
     "display": "Take Down",
-    "indicator": "down",
-    "kind": "Move",
-    "name": "takedown",
-    "wordplay": "Reversal"
-  },
-  {
-    "display": "Take Down",
     "indicator": "take",
     "kind": "Move",
     "name": "takedown",
@@ -7014,6 +8435,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Tanoby Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "tanobyruins",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Tar Shot",
     "indicator": "shot",
     "kind": "Move",
@@ -7039,6 +8467,20 @@
     "indicator": "style",
     "kind": "Item",
     "name": "tealstylecard",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Team Flare Secret HQ",
+    "indicator": "secret",
+    "kind": "Location",
+    "name": "teamflaresecrethq",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Team Galactic Eterna Building",
+    "indicator": "building",
+    "kind": "Location",
+    "name": "teamgalacticeternabuilding",
     "wordplay": "Anagram"
   },
   {
@@ -7091,6 +8533,20 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Temple of Sinnoh",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "templeofsinnoh",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Ten Sights of Paldea",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "tensightsofpaldea",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Tera Blast",
     "indicator": "blast",
     "kind": "Move",
@@ -7119,6 +8575,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Terminus Cave",
+    "indicator": "terminus",
+    "kind": "Location",
+    "name": "terminuscave",
+    "wordplay": "Selection"
+  },
+  {
     "display": "Terrakion Treat",
     "indicator": "treat",
     "kind": "Item",
@@ -7131,6 +8594,20 @@
     "kind": "Ability",
     "name": "thermalexchange",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "The Under",
+    "indicator": "under",
+    "kind": "Location",
+    "name": "theunder",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "The Under Subway",
+    "indicator": "under",
+    "kind": "Location",
+    "name": "theundersubway",
+    "wordplay": "Insertion"
   },
   {
     "display": "Thick Club",
@@ -7182,6 +8659,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Tide Song Hotel",
+    "indicator": "hotel",
+    "kind": "Location",
+    "name": "tidesonghotel",
+    "wordplay": "Container"
+  },
+  {
     "display": "Tidy Up",
     "indicator": "tidy",
     "kind": "Move",
@@ -7201,13 +8685,6 @@
     "kind": "Move",
     "name": "tidyup",
     "wordplay": "Anagram"
-  },
-  {
-    "display": "Tidy Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "tidyup",
-    "wordplay": "Reversal"
   },
   {
     "display": "Tin of Beans",
@@ -7250,6 +8727,13 @@
     "kind": "Character",
     "name": "toddsnap",
     "wordplay": "Selection"
+  },
+  {
+    "display": "Tohjo Falls",
+    "indicator": "falls",
+    "kind": "Location",
+    "name": "tohjofalls",
+    "wordplay": "Anagram"
   },
   {
     "display": "Torment",
@@ -7301,6 +8785,34 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Tower of Darkness",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "towerofdarkness",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Tower of Mastery",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "towerofmastery",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Tower of Waters",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "towerofwaters",
+    "wordplay": "Hidden"
+  },
+  {
+    "display": "Towers of Two Fists",
+    "indicator": "of",
+    "kind": "Location",
+    "name": "towersoftwofists",
+    "wordplay": "Hidden"
+  },
+  {
     "display": "Toxic Spikes",
     "indicator": "spikes",
     "kind": "Move",
@@ -7322,6 +8834,34 @@
     "wordplay": "Selection"
   },
   {
+    "display": "Trainer House",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "trainerhouse",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Trainers' School",
+    "indicator": "school",
+    "kind": "Location",
+    "name": "trainersschool",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Training grounds",
+    "indicator": "training",
+    "kind": "Location",
+    "name": "traininggrounds",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Training Lowlands",
+    "indicator": "training",
+    "kind": "Location",
+    "name": "traininglowlands",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Transform",
     "indicator": "transform",
     "kind": "Move",
@@ -7336,10 +8876,38 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Trick House",
+    "indicator": "house",
+    "kind": "Location",
+    "name": "trickhouse",
+    "wordplay": "Container"
+  },
+  {
     "display": "Tropical Shell",
     "indicator": "shell",
     "kind": "Item",
     "name": "tropicalshell",
+    "wordplay": "Selection"
+  },
+  {
+    "display": "Tunnel to the Top",
+    "indicator": "to the top",
+    "kind": "Location",
+    "name": "tunneltothetop",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Tunnel to the Top",
+    "indicator": "top",
+    "kind": "Location",
+    "name": "tunneltothetop",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Tunnel to the Top",
+    "indicator": "top",
+    "kind": "Location",
+    "name": "tunneltothetop",
     "wordplay": "Selection"
   },
   {
@@ -7355,6 +8923,48 @@
     "kind": "Item",
     "name": "twistedspoon",
     "wordplay": "Reversal"
+  },
+  {
+    "display": "Twist Mountain",
+    "indicator": "twist",
+    "kind": "Location",
+    "name": "twistmountain",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Twist Mountain",
+    "indicator": "twist",
+    "kind": "Location",
+    "name": "twistmountain",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "Ultra Deep Sea",
+    "indicator": "deep",
+    "kind": "Location",
+    "name": "ultradeepsea",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Ultra Ruin",
+    "indicator": "ruin",
+    "kind": "Location",
+    "name": "ultraruin",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Under Colosseum",
+    "indicator": "under",
+    "kind": "Location",
+    "name": "undercolosseum",
+    "wordplay": "Insertion"
+  },
+  {
+    "display": "Underground Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "undergroundruins",
+    "wordplay": "Anagram"
   },
   {
     "display": "Unown Report",
@@ -7378,11 +8988,32 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Ursa's Ring",
+    "indicator": "ring",
+    "kind": "Location",
+    "name": "ursasring",
+    "wordplay": "Container"
+  },
+  {
     "display": "Vacuum Wave",
     "indicator": "wave",
     "kind": "Move",
     "name": "vacuumwave",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Veilstone Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "veilstonedepartmentstore",
+    "wordplay": "Container"
+  },
+  {
+    "display": "Veilstone Department Store",
+    "indicator": "store",
+    "kind": "Location",
+    "name": "veilstonedepartmentstore",
+    "wordplay": "Hidden"
   },
   {
     "display": "Vessel of Ruin",
@@ -7417,6 +9048,13 @@
     "indicator": "whip",
     "kind": "Move",
     "name": "vinewhip",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Virbank Complex",
+    "indicator": "complex",
+    "kind": "Location",
+    "name": "virbankcomplex",
     "wordplay": "Anagram"
   },
   {
@@ -7460,6 +9098,13 @@
     "kind": "Item",
     "name": "voicecase",
     "wordplay": "Selection"
+  },
+  {
+    "display": "Volcanic Cave",
+    "indicator": "volcanic",
+    "kind": "Location",
+    "name": "volcaniccave",
+    "wordplay": "Anagram"
   },
   {
     "display": "Volt Absorb",
@@ -7511,6 +9156,13 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Watchtower Ruins",
+    "indicator": "ruins",
+    "kind": "Location",
+    "name": "watchtowerruins",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Water Absorb",
     "indicator": "absorb",
     "kind": "Ability",
@@ -7546,11 +9198,46 @@
     "wordplay": "Anagram"
   },
   {
+    "display": "Wayward Cave",
+    "indicator": "wayward",
+    "kind": "Location",
+    "name": "waywardcave",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Wayward Wood",
+    "indicator": "wayward",
+    "kind": "Location",
+    "name": "waywardwood",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Weakness Policy",
     "indicator": "weakness",
     "kind": "Item",
     "name": "weaknesspolicy",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "West Lake Axewell",
+    "indicator": "west",
+    "kind": "Location",
+    "name": "westlakeaxewell",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "West Paldean Sea",
+    "indicator": "west",
+    "kind": "Location",
+    "name": "westpaldeansea",
+    "wordplay": "Reversal"
+  },
+  {
+    "display": "West Province",
+    "indicator": "west",
+    "kind": "Location",
+    "name": "westprovince",
+    "wordplay": "Reversal"
   },
   {
     "display": "Whipped Cream",
@@ -7565,6 +9252,13 @@
     "kind": "Item",
     "name": "whippeddream",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Whirl Islands",
+    "indicator": "islands",
+    "kind": "Location",
+    "name": "whirlislands",
+    "wordplay": "Container"
   },
   {
     "display": "White Dish",
@@ -7607,6 +9301,13 @@
     "kind": "Move",
     "name": "wideslash",
     "wordplay": "Deletion"
+  },
+  {
+    "display": "Wild Area",
+    "indicator": "wild",
+    "kind": "Location",
+    "name": "wildarea",
+    "wordplay": "Anagram"
   },
   {
     "display": "Wildbolt Storm",
@@ -7655,6 +9356,20 @@
     "indicator": "wind",
     "kind": "Ability",
     "name": "windrider",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Windswept Run",
+    "indicator": "run",
+    "kind": "Location",
+    "name": "windsweptrun",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Windswept Run",
+    "indicator": "windswept",
+    "kind": "Location",
+    "name": "windsweptrun",
     "wordplay": "Anagram"
   },
   {
@@ -7721,6 +9436,13 @@
     "wordplay": "Selection"
   },
   {
+    "display": "Workout Sea",
+    "indicator": "workout",
+    "kind": "Location",
+    "name": "workoutsea",
+    "wordplay": "Anagram"
+  },
+  {
     "display": "Works Key",
     "indicator": "works",
     "kind": "Item",
@@ -7736,16 +9458,16 @@
   },
   {
     "display": "Work Up",
-    "indicator": "up",
-    "kind": "Move",
-    "name": "workup",
-    "wordplay": "Reversal"
-  },
-  {
-    "display": "Work Up",
     "indicator": "work",
     "kind": "Move",
     "name": "workup",
+    "wordplay": "Anagram"
+  },
+  {
+    "display": "Worn Bridge",
+    "indicator": "worn",
+    "kind": "Location",
+    "name": "wornbridge",
     "wordplay": "Anagram"
   },
   {
@@ -7838,6 +9560,20 @@
     "kind": "Ability",
     "name": "zenmode",
     "wordplay": "Anagram"
+  },
+  {
+    "display": "Zero Gate",
+    "indicator": "zero",
+    "kind": "Location",
+    "name": "zerogate",
+    "wordplay": "Deletion"
+  },
+  {
+    "display": "Zero Lab",
+    "indicator": "zero",
+    "kind": "Location",
+    "name": "zerolab",
+    "wordplay": "Deletion"
   },
   {
     "display": "Zero to Hero",

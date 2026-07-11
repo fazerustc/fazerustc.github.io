@@ -11,18 +11,30 @@ var pokecryptic = new Set();
 function appendJson(data) {
     var table = document.getElementById('dataTable');
     var i = 0;
+    var kinds = new Set();
     data.forEach(function(object) {
         var tr = document.createElement('tr');
         setBg(tr, i);
         i += 1;
         tr.setAttribute("filter-name", object.name);
         tr.setAttribute("filter-kind", object.kind);
+        kinds.add(object.kind);
         const used = pokecryptic.has(object.name) ? "Used" : "";
         tr.innerHTML = '<th scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap><a href="' + object.url + '">' + object.display + '</a></th>' +
         '<td scope="row" class="px-6 py-4">' + object.kind+ '</td>' +
         '<td class="px-6 py-4">' + used + '</td>';
         table.tBodies[0].appendChild(tr);
     });
+
+    var kinds = [...kinds];
+    kinds.sort();
+    var kindHtml = "";
+    for (var i = 0; i < kinds.length; i++) {
+        kindHtml += '<option value="' + kinds[i] + '">' + kinds[i] + "</option>";
+    }
+    searchKind.innerHTML += kindHtml;
+
+    filterTable();
 }
 
 function filterTable() {

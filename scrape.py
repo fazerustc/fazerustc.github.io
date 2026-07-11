@@ -13,6 +13,21 @@ ITEMS = "https://bulbapedia.bulbagarden.net/wiki/List_of_items_by_name"
 MOVES = "https://bulbapedia.bulbagarden.net/wiki/List_of_moves"
 ABILITIES = "https://bulbapedia.bulbagarden.net/wiki/Ability"
 CHARACTERS = "https://bulbapedia.bulbagarden.net/wiki/List_of_game_characters"
+LOCATIONS = [
+    "https://bulbapedia.bulbagarden.net/wiki/Category:FireRed_and_LeafGreen_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:HeartGold_and_SoulSilver_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Omega_Ruby_and_Alpha_Sapphire_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Brilliant_Diamond_and_Shining_Pearl_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Black_2_and_White_2_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:X_and_Y_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Ultra_Sun_and_Ultra_Moon_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Sword_and_Shield_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Scarlet_and_Violet_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Colosseum_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:XD_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Legends:_Arceus_locations",
+    "https://bulbapedia.bulbagarden.net/wiki/Category:Legends:_Arceus_locations",
+]
 ROOT = "https://bulbapedia.bulbagarden.net"
 
 
@@ -31,6 +46,12 @@ class Data:
             "display": self.display,
         }
 
+    def __hash__(self) -> int:
+        return hash((self.display, self.kind))
+    
+    def __eq__(self, other) -> bool:
+        return self.display == other.display and self.kind == other.kind
+
 
 def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data]:
     scraper = cloudscraper.create_scraper()
@@ -47,6 +68,8 @@ def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data
         if matches:
             display = matches.group(1)
             if "#" in display:
+                continue
+            if "Route_" in display:
                 continue
             display = re.sub(parens, "", display)
             display = (
@@ -154,7 +177,16 @@ def main(outfile: str):
         re.compile("^/wiki/(.*)_\(Pok%C3%A9mon\)$"),
         set(),
     )
-    data.sort(key=lambda d: d.name)
+    for region in LOCATIONS:
+        data += scrape(
+            region,
+            lambda soup: soup.select_one("#mw-pages").find_all("a"),
+            "Location",
+            re.compile("^/wiki/(.*)$"),
+            set(),
+        )
+
+    data = sorted(set(data), key=lambda d: (d.display, d.kind))
     with open(outfile, "w") as f:
         json.dump([d.to_json() for d in data], f, sort_keys=True, indent=2)
 
