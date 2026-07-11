@@ -22,6 +22,10 @@ function contains(a, b) {
     return true;
 }
 
+function delta(a, b) {
+    return [...a].filter(c => !b.includes(c)).join("");
+}
+
 //this function appends the json data to the table 'dataTable'
 function filterTable() {
     const tableRows = document.querySelectorAll('#dataTable tbody tr');
@@ -46,6 +50,13 @@ function filterTable() {
             row.style.display = '';
             setBg(row, i);
             i += 1;
+            var td = row.querySelector("td:nth-child(1)");
+            if (filterValue.length == 0) {
+                td.innerHTML = rowBank;
+            } else {
+                var missing = delta(rowBank, filterValue);
+                td.textContent = filterValue + " (" + missing + ")";
+            }
         } else {
             row.style.display = 'none';
         }
