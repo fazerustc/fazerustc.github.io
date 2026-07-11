@@ -77,6 +77,7 @@ function appendJson(data) {
     var table = document.getElementById('dataTable');
     var i = 0;
     var maxRepeats = 0;
+    var kinds = new Set();
     data.forEach(function(object) {
         var tr = document.createElement('tr');
         setBg(tr, i);
@@ -90,6 +91,7 @@ function appendJson(data) {
         tr.setAttribute(BANK_FILTER, b);
         tr.setAttribute(KIND_FILTER, object.kind);
         tr.setAttribute(REPEAT_FILTER, repeats.toString());
+        kinds.add(object.kind);
         const used = pokecryptic.has(object.name) ? "Used" : "";
         tr.innerHTML = '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + b + '</td>' +
         '<td scope="row" class="px-6 py-4">' + object.display + '</td>' +
@@ -105,6 +107,15 @@ function appendJson(data) {
     }
     searchRepeats.innerHTML = html;
     searchRepeats.value = "3"; // default
+
+    var searchKind = document.getElementById("searchKind");
+    var kinds = [...kinds];
+    kinds.sort();
+    var kindHtml = "";
+    for (var i = 0; i < kinds.length; i++) {
+        kindHtml += '<option value="' + kinds[i] + '">' + kinds[i] + "</option>";
+    }
+    searchKind.innerHTML += kindHtml;
 
     filterTable();
 }
