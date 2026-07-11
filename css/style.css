@@ -535,6 +535,16 @@
   background-image: url("/assets/repeatball.png");
   background-position: center;
 }
+.home {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background-image: url("/assets/home.png");
+}
+.home-icon {
+  width: 30px;
+  height: auto;
+}
 .outlined-text {
   color: black;
   text-shadow: -1px -1px 0 #FFFFFF, 1px -1px 0 #FFFFFF, -1px 1px 0 #FFFFFF, 1px 1px 0 #FFFFFF;
