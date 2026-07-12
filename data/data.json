@@ -3596,7 +3596,7 @@
   {
     "display": "Caf\u00e9 Action!",
     "kind": "Location",
-    "name": "cafeaction!",
+    "name": "cafeaction",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Caf%C3%A9_Action!"
   },
   {
@@ -30982,12 +30982,6 @@
     "kind": "Pok\u00e9mon",
     "name": "urshifu",
     "url": "https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pok%C3%A9mon)"
-  },
-  {
-    "display": "User:Lewtwo/NewLocation",
-    "kind": "Location",
-    "name": "userlewtwo/newlocation",
-    "url": "https://bulbapedia.bulbagarden.net/wiki/User:Lewtwo/NewLocation"
   },
   {
     "display": "Utility Umbrella",

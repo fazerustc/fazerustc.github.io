@@ -104,6 +104,9 @@ def scrape(url: str, selector, kind: str, needle, ignore: set[str]) -> list[Data
                 .replace("?", "")
                 .replace("♂", "")
                 .replace("♀", "")
+                .replace("!", "")
+                .replace("?", "")
+                .replace("/", "")
                 .lower()
             )
             if name.startswith("file:"):
@@ -183,7 +186,9 @@ def main(outfile: str):
             lambda soup: soup.select_one("#mw-pages").find_all("a"),
             "Location",
             re.compile("^/wiki/(.*)$"),
-            set(),
+            {
+                "userlewtwonewlocation",
+            },
         )
 
     data = sorted(set(data), key=lambda d: (d.display, d.kind))
