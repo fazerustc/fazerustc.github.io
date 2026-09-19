@@ -26,24 +26,23 @@
     >
         Anagram!
     </button>
-    <select
-        id="kind"
-        class="px-4 py-2 text-sm font-medium border-gray-200 rounded-lg shadow-sm transition-colors duration-200 whitespace-nowrap bg-white"
-    >
-        <option value="Any">Any</option>
-        <option value="Ability">Ability</option>
-        <option value="Move">Move</option>
-        <option value="Character">Character</option>
-        <option value="Item">Item</option>
-        <option value="Pokémon">Pokémon</option>
-    </select>
 </div>
 <table class="table-fixed relative w-full text-left" id="table">
     <thead class="text-sm text-body bg-neutral-secondary-soft rounded-base">
         <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">Word</th>
         <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">Remainder</th>
-        <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">Kind</th>
-        <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10">Used?</th>
+        <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
+            <select id="kind">
+                <option value="Any">Any</option>
+            </select>
+        </th>
+        <th class="sticky top-0 px-6 py-4 font-medium bg-blue-300 relative z-10 group">
+            <select id="used">
+                <option value="Any">Any</option>
+                <option value="Used">Used</option>
+                <option value="Unused">Unused</option>
+            </select>
+        </th>
     </thead>
     <tbody></tbody>
 </table>

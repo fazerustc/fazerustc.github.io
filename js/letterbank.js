@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", init, false); // init once loaded
 const BANK_FILTER = "bank-filter"
 const KIND_FILTER = "kind-filter"
 const REPEAT_FILTER = "repeat-filter"
+const USED_FILTER = "used-filter"
 
 var pokecryptic = new Set();
 
@@ -33,10 +34,12 @@ function filterTable() {
     var searchInput = document.getElementById("searchInput");
     var searchKind = document.getElementById("searchKind");
     var searchRepeat = document.getElementById("searchRepeat");
+    var searchUsed = document.getElementById("searchUsed");
 
     const filterValue = bank(searchInput.value.toLowerCase());
     const kindValue = searchKind.value.toLowerCase();
     const repeatValue = parseInt(searchRepeat.value);
+    const usedValue = searchUsed.value.toLowerCase();
 
     var i = 0;
     tableRows.forEach(row => {
@@ -44,9 +47,10 @@ function filterTable() {
         const rowBank = row.getAttribute(BANK_FILTER).toLowerCase();
         const rowKind = row.getAttribute(KIND_FILTER).toLowerCase();
         const rowRepeats = parseInt(row.getAttribute(REPEAT_FILTER).toLowerCase());
+        const rowUsed = row.getAttribute(USED_FILTER).toLowerCase();
         
         // If the row contains the search term, display it; otherwise, hide it
-        if (rowRepeats >= repeatValue && contains(rowBank, filterValue) && (kindValue == "any" || kindValue == rowKind)) {
+        if (rowRepeats >= repeatValue && contains(rowBank, filterValue) && (kindValue == "any" || kindValue == rowKind) && (usedValue == "any" || usedValue == rowUsed)) {
             row.style.display = '';
             setBg(row, i);
             i += 1;
@@ -93,6 +97,9 @@ function appendJson(data) {
         tr.setAttribute(REPEAT_FILTER, repeats.toString());
         kinds.add(object.kind);
         const used = pokecryptic.has(object.name) ? "Used" : "";
+        const usedFilter = used == "Used" ? "used" : "unused";
+        tr.setAttribute(USED_FILTER, usedFilter);
+
         tr.innerHTML = '<td scope="row" class="px-6 py-4 font-medium text-heading whitespace-nowrap">' + b + '</td>' +
         '<td scope="row" class="px-6 py-4">' + object.display + '</td>' +
         '<td scope="row" class="px-6 py-4">' + object.kind + '</td>' +
@@ -133,8 +140,10 @@ async function init() {
     var searchInput = document.getElementById("searchInput");
     var searchKind = document.getElementById("searchKind");
     var searchRepeat = document.getElementById("searchRepeat");
+    var searchUsed = document.getElementById("searchUsed");
 
     searchInput.addEventListener("input", filterTable);
     searchKind.addEventListener("change", (event) => { filterTable() });
     searchRepeat.addEventListener("change", (event) => { filterTable() });
+    searchUsed.addEventListener("change", (event) => { filterTable() });
 }
