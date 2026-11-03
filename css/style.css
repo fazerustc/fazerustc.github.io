@@ -1,4 +1,4 @@
-/*! tailwindcss v4.3.2 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.3.4 | MIT License | https://tailwindcss.com */
 @layer properties;
 @layer theme, base, components, utilities;
 @layer theme {
@@ -204,13 +204,13 @@
     position: sticky;
   }
   .top-0 {
-    top: 0;
+    top: 0px;
   }
   .top-full {
     top: 100%;
   }
   .left-0 {
-    left: 0;
+    left: 0px;
   }
   .z-10 {
     z-index: 10;
@@ -273,7 +273,7 @@
     table-layout: fixed;
   }
   .transform {
-    transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
+    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );
   }
   .flex-col {
     flex-direction: column;
@@ -408,11 +408,11 @@
     box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
   }
   .ring {
-    --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
     box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
   }
   .filter {
-    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+    filter: var(--tw-blur, ) var(--tw-brightness, ) var(--tw-contrast, ) var(--tw-grayscale, ) var(--tw-hue-rotate, ) var(--tw-invert, ) var(--tw-saturate, ) var(--tw-sepia, ) var(--tw-drop-shadow, );
   }
   .transition-all {
     transition-property: all;
@@ -433,86 +433,56 @@
     --tw-duration: 200ms;
     transition-duration: 200ms;
   }
-  .peer-focus\:block {
-    &:is(:where(.peer):focus ~ *) {
-      display: block;
+  :is(:where(.peer):focus ~ .peer-focus\:block) {
+    display: block;
+  }
+  .focus-within\:z-50:focus-within {
+    z-index: 50;
+  }
+  .focus-within\:block:focus-within {
+    display: block;
+  }
+  .focus-within\:border-blue-500:focus-within {
+    border-color: var(--color-blue-500);
+  }
+  .focus-within\:ring-2:focus-within {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+  .focus-within\:ring-blue-100:focus-within {
+    --tw-ring-color: var(--color-blue-100);
+  }
+  @media (hover: hover) {
+    .hover\:bg-blue-700:hover {
+      background-color: var(--color-blue-700);
     }
   }
-  .focus-within\:z-50 {
-    &:focus-within {
-      z-index: 50;
-    }
+  .focus\:ring-3:focus {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
   }
-  .focus-within\:block {
-    &:focus-within {
-      display: block;
-    }
+  .focus\:ring-4:focus {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
   }
-  .focus-within\:border-blue-500 {
-    &:focus-within {
-      border-color: var(--color-blue-500);
-    }
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
   }
-  .focus-within\:ring-2 {
-    &:focus-within {
-      --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
-      box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-    }
+  .active\:bg-blue-800:active {
+    background-color: var(--color-blue-800);
   }
-  .focus-within\:ring-blue-100 {
-    &:focus-within {
-      --tw-ring-color: var(--color-blue-100);
-    }
+  .has-\[img\:focus\]\:z-30:has(:is(img:focus)) {
+    z-index: 30;
   }
-  .hover\:bg-blue-700 {
-    &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-blue-700);
-      }
-    }
+  #info:focus ~ .\[\#info\:focus\~\&\]\:visible {
+    visibility: visible;
   }
-  .focus\:ring-3 {
-    &:focus {
-      --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
-      box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-    }
+  #info:focus ~ .\[\#info\:focus\~\&\]\:block {
+    display: block;
   }
-  .focus\:ring-4 {
-    &:focus {
-      --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
-      box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-    }
-  }
-  .focus\:outline-none {
-    &:focus {
-      --tw-outline-style: none;
-      outline-style: none;
-    }
-  }
-  .active\:bg-blue-800 {
-    &:active {
-      background-color: var(--color-blue-800);
-    }
-  }
-  .has-\[img\:focus\]\:z-30 {
-    &:has(*:is(img:focus)) {
-      z-index: 30;
-    }
-  }
-  .\[\#info\:focus\~\&\]\:visible {
-    #info:focus~& {
-      visibility: visible;
-    }
-  }
-  .\[\#info\:focus\~\&\]\:block {
-    #info:focus~& {
-      display: block;
-    }
-  }
-  .\[\#info\:focus\~\&\]\:opacity-100 {
-    #info:focus~& {
-      opacity: 100%;
-    }
+  #info:focus ~ .\[\#info\:focus\~\&\]\:opacity-100 {
+    opacity: 100%;
   }
 }
 .bg-pokeball {
@@ -533,6 +503,10 @@
 }
 .bg-repeatball {
   background-image: url("/assets/repeatball.png");
+  background-position: center;
+}
+.bg-heavyball {
+  background-image: url("/assets/heavyball.png");
   background-position: center;
 }
 .home {
@@ -705,7 +679,7 @@
   inherits: false;
 }
 @layer properties {
-  @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
+  @supports ((-webkit-hyphens: none) and (not (margin-trim: block))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
       --tw-rotate-x: initial;
       --tw-rotate-y: initial;

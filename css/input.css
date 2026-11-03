@@ -25,6 +25,11 @@
     background-position: center;
 }
 
+.bg-heavyball {
+    background-image: url("/assets/heavyball.png");
+    background-position: center;
+}
+
 .home {
     position: absolute;
     top: 15px;
@@ -45,3 +50,5 @@
         -1px 1px 0 #FFFFFF,
         1px 1px 0 #FFFFFF;
 }
+
+.copy-btn {}
