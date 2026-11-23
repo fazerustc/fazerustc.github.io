@@ -1,0 +1,452 @@
+[
+    {
+        "abbreviation": "AG",
+        "text": "Anything Goes",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "ATT",
+        "text": "Attack",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "BDSP",
+        "text": "Brilliant Diamond and Shining Pearl",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "BN",
+        "text": "burn",
+        "justification": "Pokemon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "BN",
+        "text": "burned",
+        "justification": "Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "BP",
+        "text": "Battle Point(s)",
+        "justification": "In-game gen 3-",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "BRN",
+        "text": "burn",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "BRN",
+        "text": "burned",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "BST",
+        "text": "Base Stat Total",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "BW",
+        "text": "Black and White",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "CP",
+        "text": "Combat Power",
+        "justification": "In-game Go",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "CP",
+        "text": "Championship Points",
+        "justification": "VGC tournaments",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "DEF",
+        "text": "Defense",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "DPPT",
+        "text": "Diamond Pearl and Platinum",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "EL",
+        "text": "Effort Level",
+        "justification": "In-game PLA",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "EV",
+        "text": "Effort Value",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "EX",
+        "text": "Experience",
+        "justification": "In-game Pokémon Pinball: Ruby & Sapphire",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "EXP",
+        "text": "Experience",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "FNT",
+        "text": "fainted",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "FRLG",
+        "text": "Fire Red and Leaf Green",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "FRZ",
+        "text": "freeze",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "FRZ",
+        "text": "frozen",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "FT",
+        "text": "fainted",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "GSC",
+        "text": "Gold Silver and Crystal",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "GTS",
+        "text": "Global Trade System",
+        "justification": "In-game gen 4",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "HGSS",
+        "text": "Heart Gold and Soul Silver",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "HM",
+        "text": "Hidden Machine",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "HP",
+        "text": "Hit Point(s)",
+        "justification": "In-game and TCG",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "HP",
+        "text": "Stamina",
+        "justification": "In-game Go",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "IC",
+        "text": "freeze",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "IC",
+        "text": "frozen",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "IV",
+        "text": "Individual Value",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "LV",
+        "text": "Level",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "NU",
+        "text": "Never Used",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "ORAS",
+        "text": "Omega Ruby and Alpha Sapphire",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "OT",
+        "text": "original trainer",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "OU",
+        "text": "Overused",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "PAR",
+        "text": "paralysis",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PAR",
+        "text": "paralyzed",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PC",
+        "text": "Pokémon Center",
+        "justification": "In-game signage gen 3",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PKMN",
+        "text": "Pokémon",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PN",
+        "text": "poison",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "PN",
+        "text": "poisoned",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "PP",
+        "text": "Power Point(s)",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PSN",
+        "text": "poison",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PSN",
+        "text": "poisoned",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PU",
+        "text": "Pretty Useless (backronym)",
+        "justification": "Fan sites",
+        "acceptability": 4
+    },
+    {
+        "abbreviation": "PZ",
+        "text": "paralysis",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "PZ",
+        "text": "paralyzed",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "R",
+        "text": "Rocket",
+        "justification": "Anime uniforms",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "R",
+        "text": "Team Rocket",
+        "justification": "Anime uniforms",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "RBY",
+        "text": "Red Blue and Yellow",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "RSE",
+        "text": "Ruby Sapphire and Emerald",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "RU",
+        "text": "Rarely Used",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "SLP",
+        "text": "fast asleep",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "SLP",
+        "text": "sleep",
+        "justification": "In-game gen 1-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "SM",
+        "text": "Sun and Moon",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "SP",
+        "text": "fast asleep",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "SP",
+        "text": "sleep",
+        "justification": "In-game Pokémon Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "SPA",
+        "text": "Special Attack",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "SPATK",
+        "text": "Special Attack",
+        "justification": "In-game X Sp. Atk gen 6-",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "SPD",
+        "text": "Special Defense",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "SPDEF",
+        "text": "Special Defense",
+        "justification": "In-game X Sp. Def gen 6-",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "SPE",
+        "text": "Speed",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "STAB",
+        "text": "Same Type Attack Bonus",
+        "justification": " Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "SV",
+        "text": "Scarlet and Violet",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "SWSH",
+        "text": "Sword and Shield",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "TCG",
+        "text": "Trading Card Game",
+        "justification": "TCG",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "TM",
+        "text": "Technical Machine",
+        "justification": "In-game",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "TR",
+        "text": "Technical Record",
+        "justification": "In-game gen 8",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "UB",
+        "text": "Ultra Beast",
+        "justification": "In-game gen 7",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "UU",
+        "text": "Underused",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "VGC",
+        "text": "Video Game Championship(s)",
+        "justification": "VGC",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "XP",
+        "text": "Experience",
+        "justification": "In-game Pokémon Go",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "ZU",
+        "text": "Zero Used",
+        "justification": "Fan sites",
+        "acceptability": 3
+    }
+]

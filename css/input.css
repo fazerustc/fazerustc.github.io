@@ -30,6 +30,11 @@
     background-position: center;
 }
 
+.bg-fastball {
+    background-image: url("/assets/fastball.png");
+    background-position: center;
+}
+
 .home {
     position: absolute;
     top: 15px;
