@@ -1,5 +1,17 @@
 [
     {
+        "abbreviation": "A",
+        "text": "Aqua",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "A",
+        "text": "Team Aqua",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
         "abbreviation": "AG",
         "text": "Anything Goes",
         "justification": "Fan sites",
@@ -114,6 +126,18 @@
         "acceptability": 1
     },
     {
+        "abbreviation": "F",
+        "text": "Flare",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "F",
+        "text": "Team Flare",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
         "abbreviation": "FNT",
         "text": "fainted",
         "justification": "In-game",
@@ -204,6 +228,18 @@
         "acceptability": 1
     },
     {
+        "abbreviation": "M",
+        "text": "Magma",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "M",
+        "text": "Team Magma",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
         "abbreviation": "MP",
         "text": "Merit Point(s)",
         "justification": "In-game Pokemon Legends: Arceus",
@@ -231,6 +267,18 @@
         "abbreviation": "OU",
         "text": "Overused",
         "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "P",
+        "text": "Plasma",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "P",
+        "text": "Team Plasma",
+        "justification": "Evil team logo",
         "acceptability": 3
     },
     {
@@ -351,6 +399,18 @@
         "abbreviation": "RU",
         "text": "Rarely Used",
         "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "S",
+        "text": "Skull",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "S",
+        "text": "Team Skull",
+        "justification": "Evil team logo",
         "acceptability": 3
     },
     {
@@ -502,6 +562,18 @@
         "text": "Experience",
         "justification": "In-game Pokémon Go",
         "acceptability": 1
+    },
+    {
+        "abbreviation": "Y",
+        "text": "Yell",
+        "justification": "Evil team logo",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "Y",
+        "text": "Team Yell",
+        "justification": "Evil team logo",
+        "acceptability": 3
     },
     {
         "abbreviation": "ZU",
