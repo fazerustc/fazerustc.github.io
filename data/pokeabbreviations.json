@@ -6,6 +6,12 @@
         "acceptability": 3
     },
     {
+        "abbreviation": "ATK",
+        "text": "Attack",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
         "abbreviation": "ATT",
         "text": "Attack",
         "justification": "Fan sites",
@@ -198,6 +204,12 @@
         "acceptability": 1
     },
     {
+        "abbreviation": "MP",
+        "text": "Merit Point(s)",
+        "justification": "In-game Pokemon Legends: Arceus",
+        "acceptability": 3
+    },
+    {
         "abbreviation": "NU",
         "text": "Never Used",
         "justification": "Fan sites",
@@ -244,6 +256,24 @@
         "text": "Pokémon",
         "justification": "In-game",
         "acceptability": 1
+    },
+    {
+        "abbreviation": "PKRS",
+        "text": "Pokérus",
+        "justification": "In-game gen 2-5",
+        "acceptability": 1
+    },
+    {
+        "abbreviation": "PLA",
+        "text": "Pokémon Legends: Arceus",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "PLZA",
+        "text": "Pokémon Legends: Z-A",
+        "justification": "Fan sites",
+        "acceptability": 3
     },
     {
         "abbreviation": "PN",
@@ -366,8 +396,32 @@
         "acceptability": 2
     },
     {
+        "abbreviation": "SPCL",
+        "text": "Special",
+        "justification": "In-game Stadium 1",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "SPCLATK",
+        "text": "Special Attack",
+        "justification": "In-game Stadium 2",
+        "acceptability": 2
+    },
+    {
+        "abbreviation": "SPCLDEF",
+        "text": "Special Defense",
+        "justification": "In-game Stadium 2",
+        "acceptability": 2
+    },
+    {
         "abbreviation": "SPD",
         "text": "Special Defense",
+        "justification": "Fan sites",
+        "acceptability": 3
+    },
+    {
+        "abbreviation": "SPD",
+        "text": "Speed",
         "justification": "Fan sites",
         "acceptability": 3
     },
@@ -424,6 +478,12 @@
         "text": "Ultra Beast",
         "justification": "In-game gen 7",
         "acceptability": 1
+    },
+    {
+        "abbreviation": "USUM",
+        "text": "Ultra Sun and Ultra Moon",
+        "justification": "Fan sites",
+        "acceptability": 3
     },
     {
         "abbreviation": "UU",
